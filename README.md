@@ -1,3 +1,3 @@
 # Earnings
 
-# Pandoc cheat sheet: [link](https://pandoc.org/demos.html#examples)
+#### Pandoc cheat sheet: [link](https://pandoc.org/demos.html#examples)
