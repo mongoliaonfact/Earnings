@@ -1,0 +1,2566 @@
+ticker,count,Company,from_date,to_date,stock
+T,140,AT&T Inc.,2012-10-24,2023-05-22,NYSE
+F,129,Ford Motor Company Common Stock,2012-10-25,2023-05-31,NYSE
+V,126,Visa Inc.,2012-10-31,2023-05-31,NYSE
+CSCO,122,"Cisco Systems, Inc. - Common Stock",2012-11-14,2023-06-08,NASDAQ
+GILD,115,"Gilead Sciences, Inc. - Common Stock",2012-10-23,2023-06-08,NASDAQ
+MA,115,Mastercard Incorporated Common Stock,2012-10-31,2023-06-06,NYSE
+MU,114,"Micron Technology, Inc. - Common Stock",2012-12-20,2023-05-31,NASDAQ
+BMY,113,Bristol,2012-10-24,2023-06-06,NYSE
+MSFT,110,Microsoft Corporation - Common Stock,2012-10-18,2023-06-08,NASDAQ
+JNJ,105,Johnson & Johnson Common Stock,2013-01-22,2023-05-31,NYSE
+NVDA,104,NVIDIA Corporation - Common Stock,2012-11-08,2023-06-08,NASDAQ
+REGN,103,"Regeneron Pharmaceuticals, Inc. - Common Stock",2012-10-24,2023-06-08,NASDAQ
+AMGN,103,Amgen Inc. - Common Stock,2012-10-23,2023-05-31,NASDAQ
+GE,101,General Electric Company Common Stock,2012-10-19,2023-05-31,NYSE
+GM,101,General Motors Company Common Stock,2012-10-31,2023-06-02,NYSE
+MMM,100,3M Company Common Stock,2012-10-23,2023-05-31,NYSE
+VZ,96,Verizon Communications Inc. Common Stock,2012-10-18,2023-05-23,NYSE
+PFE,95,"Pfizer, Inc. Common Stock",2012-11-01,2023-05-02,NYSE
+INTC,95,Intel Corporation - Common Stock,2012-12-11,2023-06-08,NASDAQ
+LLY,92,Eli Lilly and Company Common Stock,2012-10-24,2023-05-14,NYSE
+CMCSA,92,Comcast Corporation - Class A Common Stock,2012-10-26,2023-05-23,NASDAQ
+AMD,91,"Advanced Micro Devices, Inc. - Common Stock",2012-10-18,2023-06-06,NASDAQ
+WFC,90,Wells Fargo & Company Common Stock,2013-01-11,2023-05-31,NYSE
+MRK,90,"Merck & Company, Inc. Common Stock (new)",2012-10-26,2023-06-06,NYSE
+MDT,90,Medtronic Inc. Common Stock,2012-11-20,2023-05-25,NYSE
+SIRI,87,Sirius XM Holdings Inc. - Common Stock,2012-11-01,2023-06-08,NASDAQ
+WDC,85,Western Digital Corporation - Common Stock,2012-10-22,2023-06-08,NASDAQ
+HON,84,Honeywell International Inc. - Common Stock,2012-10-19,2023-05-23,NYSE
+GLW,84,Corning Incorporated Common Stock,2012-10-24,2023-05-31,NYSE
+EXEL,84,"Exelixis, Inc. - Common Stock",2012-11-07,2023-05-09,NASDAQ
+IBM,83,International Business Machines Corporation Common Stock,2013-01-22,2023-06-06,NYSE
+WMT,82,Wal,2012-11-15,2023-06-08,NYSE
+SRPT,81,"Sarepta Therapeutics, Inc. - Common Stock",2012-11-07,2023-05-02,NASDAQ
+HD,81,"Home Depot, Inc. (The) Common Stock",2012-11-13,2023-05-16,NYSE
+ABBV,80,AbbVie Inc. Common Stock,2013-03-13,2023-04-27,NYSE
+HPQ,80,Hewlett,2012-11-20,2023-06-08,NYSE
+TXN,79,Texas Instruments Incorporated - Common Stock,2012-10-22,2023-06-01,NASDAQ
+AMT,79,American Tower Corporation (REIT) Common Stock,2012-10-31,2023-06-08,NYSE
+QCOM,79,QUALCOMM Incorporated - Common Stock,2012-11-07,2023-06-08,NASDAQ
+PG,78,Procter & Gamble Company (The) Common Stock,2012-10-25,2023-04-21,NYSE
+JPM,78,JP Morgan Chase & Co. Common Stock,2013-01-16,2021-07-13,NYSE
+CELG,77,CELG,2012-10-25,2019-01-31,
+AMRN,76,"Amarin Corporation plc - American Depositary Shares, each representing one Ordinary Share",2012-11-08,2023-06-08,NASDAQ
+MNKD,75,MannKind Corporation - Common Stock,2012-11-01,2023-05-09,NASDAQ
+AMAT,75,"Applied Materials, Inc. - Common Stock",2012-11-15,2023-06-08,NASDAQ
+USB,74,U.S. Bancorp Common Stock,2012-10-17,2023-06-02,NYSE
+KO,74,Coca,2013-02-12,2023-06-09,NYSE
+LRCX,73,Lam Research Corporation - Common Stock,2012-10-17,2023-06-06,NASDAQ
+VMW,73,"Vmware, Inc. Common stock, Class A",2012-10-23,2022-03-07,NYSE
+CAT,73,"Caterpillar, Inc. Common Stock",2012-10-22,2023-06-01,NYSE
+CRM,73,Salesforce.com Inc Common Stock,2012-11-20,2023-06-08,NYSE
+AXP,73,American Express Company Common Stock,2012-10-17,2023-06-01,NYSE
+UNP,72,Union Pacific Corporation Common Stock,2012-10-18,2023-06-01,NYSE
+CCI,72,Crown Castle International Corp. (REIT) Common Stock,2012-10-25,2023-06-06,NYSE
+ANET,72,"Arista Networks, Inc. Common Stock",2014-11-06,2023-06-06,NYSE
+BA,72,Boeing Company (The) Common Stock,2012-10-24,2023-06-02,NYSE
+EOG,72,"EOG Resources, Inc. Common Stock",2012-11-06,2023-06-01,NYSE
+TMUS,71,"T-Mobile US, Inc. - Common Stock",2014-02-25,2023-05-22,NYSE
+ILMN,71,"Illumina, Inc. - Common Stock",2012-10-23,2023-04-25,NASDAQ
+NOW,71,"ServiceNow, Inc. Common Stock",2013-02-26,2023-05-31,NYSE
+ARNA,71,ARNA,2012-11-06,2021-11-04,
+SBUX,70,Starbucks Corporation - Common Stock,2012-11-01,2023-06-06,NASDAQ
+BIIB,69,Biogen Inc. - Common Stock,2012-10-25,2023-04-25,NASDAQ
+PM,69,Philip Morris International Inc Common Stock,2012-10-18,2023-06-06,NYSE
+PANW,69,"Palo Alto Networks, Inc. - Common Stock",2013-02-28,2023-06-06,NYSE
+CSX,68,CSX Corporation - Common Stock,2012-10-17,2023-06-06,NYSE
+STX,68,Seagate Technology Holdings PLC - Ordinary Shares (Ireland),2012-10-31,2023-06-08,NASDAQ
+CL,67,Colgate,2012-10-25,2023-06-06,NYSE
+DIS,67,Walt Disney Company (The) Common Stock,2012-11-08,2023-05-22,NYSE
+RY,66,Royal Bank Of Canada Common Stock,2012-11-29,2023-05-25,NYSE
+AA,65,Alcoa Inc. Common Stock,2013-01-08,2023-05-17,NYSE
+TD,65,Toronto Dominion Bank (The) Common Stock,2012-12-06,2023-05-25,NYSE
+S,64,Sprint Corporation Common Stock,2012-10-25,2023-06-01,NYSE
+AIG,64,"American International Group, Inc. New Common Stock",2012-11-02,2023-05-05,NYSE
+M,64,Macy's Inc Common Stock,2012-11-07,2023-06-01,NYSE
+BX,63,The Blackstone Group L.P. Common Units Representing Limited Partnership Interests,2012-10-19,2023-05-31,NYSE
+EBAY,63,eBay Inc. - Common Stock,2012-10-17,2023-06-01,NASDAQ
+NVAX,63,"Novavax, Inc. - Common Stock",2012-11-02,2023-05-14,NASDAQ
+CVS,63,CVS Health Corporation Common Stock,2012-11-06,2023-05-31,NYSE
+NXPI,63,NXP Semiconductors N.V. - Common Stock,2012-10-25,2023-05-22,NASDAQ
+VRTX,62,Vertex Pharmaceuticals Incorporated - Common Stock,2012-11-01,2023-05-13,NASDAQ
+MCD,62,McDonald's Corporation Common Stock,2012-10-19,2023-04-25,NYSE
+BNS,62,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,2012-12-07,2023-05-24,NYSE
+C,62,"Citigroup, Inc. Common Stock",2013-01-17,2020-01-14,NYSE
+MDLZ,62,"Mondelez International, Inc. - Class A Common Stock",2012-11-07,2023-04-27,NASDAQ
+DHR,62,Danaher Corporation Common Stock,2012-10-18,2023-05-14,NYSE
+WDAY,61,"Workday, Inc. - Class A Common Stock",2012-11-28,2023-06-06,NYSE
+LOW,61,"Lowe's Companies, Inc. Common Stock",2012-11-19,2023-05-23,NYSE
+AFL,61,AFLAC Incorporated Common Stock,2012-10-24,2023-04-27,NYSE
+BSX,61,Boston Scientific Corporation Common Stock,2012-10-18,2023-04-26,NYSE
+FTNT,61,"Fortinet, Inc. - Common Stock",2013-01-30,2023-06-06,NASDAQ
+SPLK,61,Splunk Inc. - Common Stock,2012-11-30,2023-06-08,NASDAQ
+TMO,61,Thermo Fisher Scientific Inc Common Stock,2012-10-24,2023-05-31,NYSE
+ALNY,61,"Alnylam Pharmaceuticals, Inc. - Common Stock",2012-10-22,2023-05-04,NASDAQ
+NFLX,61,"Netflix, Inc. - Common Stock",2012-10-23,2023-04-18,NASDAQ
+GOOG,61,Alphabet Inc. - Class C Capital Stock,2012-10-18,2023-05-18,NASDAQ
+DAL,61,"Delta Air Lines, Inc. Common Stock",2012-10-24,2023-04-13,NYSE
+AGNC,60,AGNC Investment Corp. - Common Stock,2012-11-01,2023-04-25,NASDAQ
+MMP,60,Magellan Midstream Partners L.P. Limited Partnership,2012-10-31,2023-05-23,NYSE
+ACAD,60,ACADIA Pharmaceuticals Inc. - Common Stock,2012-11-05,2023-05-08,NASDAQ
+DDD,60,3D Systems Corporation Common Stock,2012-10-25,2023-05-09,NYSE
+CLX,60,Clorox Company (The) Common Stock,2012-11-02,2023-06-06,NYSE
+NOC,60,Northrop Grumman Corporation Common Stock,2012-10-24,2023-06-01,NYSE
+FCX,60,Freeport,2012-10-22,2023-05-16,NYSE
+SWKS,60,"Skyworks Solutions, Inc. - Common Stock",2012-11-01,2023-05-08,NASDAQ
+COP,59,ConocoPhillips Common Stock,2012-10-25,2023-05-04,NYSE
+UAL,59,"United Airlines Holdings, Inc. - Common Stock",2012-10-25,2023-04-19,NYSE
+ASML,59,ASML Holding N.V. - New York Registry Shares,2012-10-17,2023-06-01,NASDAQ
+CMI,59,Cummins Inc. Common Stock,2012-10-31,2023-06-08,NYSE
+LMT,59,Lockheed Martin Corporation Common Stock,2012-10-24,2023-06-01,NYSE
+ABT,59,Abbott Laboratories Common Stock,2012-10-17,2023-04-19,NYSE
+IRM,59,Iron Mountain Incorporated (Delaware)Common Stock,2012-10-31,2023-05-04,NYSE
+MO,59,"Altria Group, Inc.",2012-10-25,2023-04-27,NYSE
+GIS,58,"General Mills, Inc. Common Stock",2012-12-19,2023-06-08,NYSE
+CAH,58,"Cardinal Health, Inc. Common Stock",2012-10-30,2023-05-04,NYSE
+A,58,"Agilent Technologies, Inc. Common Stock",2012-11-19,2023-05-23,NYSE
+CTSH,58,Cognizant Technology Solutions Corporation - Class A Common Stock,2012-11-07,2023-05-03,NASDAQ
+ADSK,57,"Autodesk, Inc. - Common Stock",2012-11-15,2023-06-08,NASDAQ
+ADM,57,Archer,2012-10-30,2023-05-31,NYSE
+TEVA,57,Teva Pharmaceutical Industries Limited American Depositary Shares,2012-11-01,2023-05-10,NYSE
+PSX,57,Phillips 66 Common Stock,2012-10-31,2023-05-03,NYSE
+SNY,57,Sanofi - American Depositary Shares,2012-10-25,2023-04-27,NYSE
+STZ,57,"Constellation Brands, Inc. Common Stock",2013-01-09,2023-05-31,NYSE
+XOM,56,Exxon Mobil Corporation Common Stock,2012-11-01,2023-06-01,NYSE
+AI,56,Arlington Asset Investment Corp Class A (new),2013-02-07,2023-05-31,NYSE
+CHK,56,Chesapeake Energy Corporation - Common Stock,2012-11-02,2023-05-03,NYSE
+JNPR,56,"Juniper Networks, Inc. Common Stock",2012-10-23,2023-04-25,NYSE
+NBIX,56,"Neurocrine Biosciences, Inc. - Common Stock",2012-10-31,2023-05-03,NASDAQ
+SGMO,56,"Sangamo Therapeutics, Inc. - Common Stock",2012-10-24,2023-04-27,NASDAQ
+PYPL,56,"PayPal Holdings, Inc. - Common Stock",2016-04-27,2023-05-22,NASDAQ
+ADI,56,"Analog Devices, Inc. - Common Stock",2012-11-27,2023-06-06,NASDAQ
+BLK,55,"BlackRock, Inc. Common Stock",2012-10-17,2023-05-31,NYSE
+BAC,55,Bank of America Corporation Common Stock,2012-10-17,2020-01-15,NYSE
+WMB,55,"Williams Companies, Inc. (The) Common Stock",2012-11-01,2023-05-04,NYSE
+ZNGA,55,ZNGA,2012-10-24,2021-12-08,
+PRU,55,"Prudential Financial, Inc. Common Stock",2012-11-08,2023-05-03,NYSE
+RIG,55,Transocean Ltd (Switzerland) Common Stock,2012-11-05,2023-05-02,NYSE
+SYK,55,Stryker Corporation Common Stock,2012-10-17,2023-05-01,NYSE
+GSK,55,GlaxoSmithKline PLC Common Stock,2012-10-31,2023-04-26,NYSE
+SAP,55,SAP  SE ADS,2012-10-24,2023-04-21,NYSE
+KKR,55,KKR & Co. L.P. Common Units Representing Limited Partnership Interest,2012-10-26,2023-05-08,NYSE
+FOLD,54,"Amicus Therapeutics, Inc. - Common Stock",2012-11-06,2023-05-10,NASDAQ
+HAL,54,Halliburton Company Common Stock,2012-10-17,2023-04-25,NYSE
+CVX,54,Chevron Corporation Common Stock,2012-11-02,2023-04-28,NYSE
+KMB,54,Kimberly,2012-10-24,2023-06-06,NYSE
+MOS,54,Mosaic Company (The) Common Stock,2013-01-04,2023-05-04,NYSE
+ALKS,54,Alkermes plc - Ordinary Shares,2012-11-01,2023-04-26,NASDAQ
+ISRG,53,"Intuitive Surgical, Inc. - Common Stock",2013-01-22,2023-04-18,NASDAQ
+IMGN,53,"ImmunoGen, Inc. - Common Stock",2012-10-26,2023-04-28,NASDAQ
+MAR,53,Marriott International - Class A Common Stock,2013-02-20,2023-06-06,NASDAQ
+WM,53,"Waste Management, Inc. Common Stock",2012-10-31,2023-05-14,NYSE
+ALB,53,Albemarle Corporation Common Stock,2012-10-18,2023-06-06,NYSE
+PEP,53,"PepsiCo, Inc. - Common Stock",2012-10-17,2023-04-25,NYSE
+MET,53,"MetLife, Inc. Common Stock",2012-11-01,2023-05-04,NYSE
+NGD,53,NGD,2012-11-01,2023-04-27,NYSE
+CHKP,53,Check Point Software Technologies Ltd. - Ordinary Shares,2012-10-17,2023-05-01,NASDAQ
+FB,53,FB,2012-10-23,2022-04-27,
+NVO,53,Novo Nordisk A/S Common Stock,2012-10-31,2023-05-04,NYSE
+TWTR,52,"Twitter, Inc. Common Stock",2014-02-06,2022-03-10,NYSE
+CMG,52,"Chipotle Mexican Grill, Inc. Common Stock",2012-10-18,2023-04-25,NYSE
+GPS,52,"Gap, Inc. (The) Common Stock",2012-11-15,2023-05-25,NYSE
+AAL,52,"American Airlines Group, Inc. - Common Stock",2014-07-24,2023-05-31,NASDAQ
+HCA,52,"HCA Holdings, Inc. Common Stock",2012-11-02,2023-04-21,NYSE
+PLUG,52,"Plug Power, Inc. - Common Stock",2012-11-13,2023-05-11,NASDAQ
+INCY,52,Incyte Corporation - Common Stock,2012-11-01,2023-05-02,NASDAQ
+CHD,52,"Church & Dwight Company, Inc. Common Stock",2012-11-05,2023-04-27,NYSE
+CCJ,52,Cameco Corporation Common Stock,2012-11-01,2023-05-17,NYSE
+FRT,52,Federal Realty Investment Trust Common Stock,2012-11-02,2023-05-04,NYSE
+CALX,52,"Calix, Inc Common Stock",2012-10-25,2023-04-20,NYSE
+LUV,52,Southwest Airlines Company Common Stock,2012-10-18,2023-06-01,NYSE
+RMBS,52,"Rambus, Inc. - Common Stock",2012-10-18,2023-05-01,NASDAQ
+MRNA,52,"Moderna, Inc. - Common Stock",2019-03-06,2023-06-06,NASDAQ
+LXRX,52,"Lexicon Pharmaceuticals, Inc. - Common Stock",2012-11-06,2023-05-02,NASDAQ
+BDX,52,"Becton, Dickinson and Company Common Stock",2012-11-07,2023-05-04,NYSE
+MELI,52,"MercadoLibre, Inc. - Common Stock",2012-11-02,2023-05-03,NASDAQ
+EBS,52,"Emergent Biosolutions, Inc. Common Stock",2012-11-01,2023-05-09,NYSE
+DELL,51,DELL,2012-11-15,2023-06-06,NASDAQ
+CRIS,51,"Curis, Inc. - Common Stock",2012-11-06,2023-05-04,NASDAQ
+EA,51,Electronic Arts Inc. - Common Stock,2012-10-30,2023-05-09,NASDAQ
+ADP,51,"Automatic Data Processing, Inc. - Common Stock",2012-11-01,2023-05-31,NASDAQ
+ARCC,51,Ares Capital Corporation - Closed End Fund,2012-11-05,2023-04-25,NASDAQ
+BMO,51,Bank Of Montreal Common Stock,2012-12-04,2023-05-24,NYSE
+IVR,51,INVESCO MORTGAGE CAPITAL INC Common Stock,2012-10-31,2023-05-10,NYSE
+HIG,51,"Hartford Financial Services Group, Inc. (The) Common Stock",2012-11-02,2023-04-28,NYSE
+NVS,51,Novartis AG Common Stock,2012-10-25,2023-04-25,NYSE
+WAT,51,Waters Corporation Common Stock,2012-10-23,2023-05-09,NYSE
+IMAX,51,Imax Corporation Common Stock,2012-10-25,2023-04-27,NYSE
+ADBE,51,Adobe Inc. - Common Stock,2012-12-13,2023-05-18,NASDAQ
+CYTK,51,"Cytokinetics, Incorporated - Common Stock",2012-10-30,2023-05-04,NASDAQ
+NWSA,50,News Corporation - Class A Common Stock,2012-11-06,2023-05-11,NASDAQ
+SWN,50,Southwestern Energy Company Common Stock,2012-11-02,2023-04-28,NYSE
+NEM,50,Newmont Mining Corporation,2012-11-02,2023-04-27,NYSE
+HALO,50,"Halozyme Therapeutics, Inc. - Common Stock",2012-11-08,2023-05-09,NASDAQ
+FRC,50,FIRST REPUBLIC BANK Common Stock,2012-10-17,2023-04-24,NYSE
+HOV,50,"Hovnanian Enterprises, Inc. Class A Common Stock",2012-11-14,2023-05-31,NYSE
+BAX,50,Baxter International Inc. Common Stock,2012-10-18,2023-04-27,NYSE
+AB,50,Allianceberstein Holding L.P.  Units,2012-10-25,2023-04-27,NYSE
+INTU,50,Intuit Inc. - Common Stock,2012-11-15,2023-06-06,NASDAQ
+WY,50,Weyerhaeuser Company Common Stock,2012-10-26,2023-04-28,NYSE
+SKT,50,"Tanger Factory Outlet Centers, Inc. Common Stock",2012-10-31,2023-06-08,NYSE
+APD,50,"Air Products and Chemicals, Inc. Common Stock",2012-10-19,2023-05-09,NYSE
+WPC,50,W.P. Carey Inc. REIT,2012-11-09,2023-06-06,NYSE
+SWK,50,"Stanley Black & Decker, Inc. Common Stock",2012-10-17,2023-05-04,NYSE
+TAP,50,Molson Coors Brewing Company Class B Common Stock,2012-11-07,2023-05-02,NYSE
+ABC,50,AmerisourceBergen Corporation (Holding Co) Common Stock,2012-11-01,2023-05-02,NYSE
+CHTR,50,"Charter Communications, Inc. - Class A Common Stock",2012-11-06,2023-04-28,NASDAQ
+KR,50,Kroger Company (The) Common Stock,2012-11-29,2023-03-15,NYSE
+LYB,50,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),2012-10-26,2023-04-28,NYSE
+MRVL,50,"Marvell Technology, Inc. - Common Stock",2012-11-15,2023-05-31,NASDAQ
+NEE,50,"NextEra Energy, Inc. Common Stock",2012-10-24,2023-04-25,NYSE
+INFY,49,Infosys Limited American Depositary Shares,2013-01-11,2023-04-13,NYSE
+OLED,49,Universal Display Corporation - Common Stock,2013-08-08,2023-05-03,NASDAQ
+YELP,49,Yelp Inc. Class A Common Stock,2012-11-01,2023-05-04,NYSE
+MCK,49,McKesson Corporation Common Stock,2012-10-25,2023-05-08,NYSE
+UNM,49,Unum Group Common Stock,2012-11-01,2023-05-03,NYSE
+NTAP,49,"NetApp, Inc. - Common Stock",2012-11-14,2023-05-31,NASDAQ
+AEM,49,Agnico Eagle Mines Limited Common Stock,2012-10-25,2023-04-28,NYSE
+PXD,49,Pioneer Natural Resources Company Common Stock,2012-11-01,2023-04-27,NYSE
+ALGN,49,"Align Technology, Inc. - Common Stock",2012-10-18,2023-04-26,NASDAQ
+WWE,49,"World Wrestling Entertainment, Inc. Class A Common Stock",2012-11-02,2023-05-03,NYSE
+CVGI,49,"Commercial Vehicle Group, Inc. - Common Stock",2013-02-14,2023-05-07,NASDAQ
+XRX,49,Xerox Holdings Corporation - Common Stock,2012-10-23,2023-04-25,NYSE
+GRPN,49,"Groupon, Inc. - Common Stock",2012-11-08,2023-05-10,NASDAQ
+SSYS,49,"Stratasys, Ltd. - Common Stock",2012-11-02,2023-05-16,NASDAQ
+STAA,49,STAAR Surgical Company - Common Stock,2012-10-31,2023-05-03,NASDAQ
+ECL,49,Ecolab Inc. Common Stock,2012-10-30,2023-05-02,NYSE
+PKI,49,"PerkinElmer, Inc. Common Stock",2012-10-25,2023-05-11,NYSE
+DG,49,Dollar General Corporation Common Stock,2012-12-11,2023-06-01,NYSE
+ZS,49,"Zscaler, Inc. - Common Stock",2018-06-06,2023-06-08,NASDAQ
+INO,49,"Inovio Pharmaceuticals, Inc. - Common Stock",2014-08-11,2023-05-17,NASDAQ
+DASTY,49,DASTY,2012-10-25,2023-04-26,OTC
+MNTA,49,MNTA,2012-11-07,2020-08-10,
+EXAS,49,Exact Sciences Corporation - Common Stock,2012-10-30,2023-05-09,NASDAQ
+DUK,49,Duke Energy Corporation (Holding Company) Common Stock,2012-11-08,2023-05-09,NYSE
+NE,49,Noble Corporation Ordinary Shares (UK),2012-10-18,2023-05-04,NYSE
+SGEN,49,Seagen Inc.  - Common Stock,2012-11-07,2023-02-15,NASDAQ
+TSLA,49,"Tesla, Inc.  - Common Stock",2012-11-05,2023-04-19,NASDAQ
+BBY,49,"Best Buy Co., Inc. Common Stock",2012-11-20,2023-05-25,NYSE
+ULTA,49,"Ulta Beauty, Inc. - Common Stock",2012-11-29,2023-05-25,NASDAQ
+TEX,49,Terex Corporation Common Stock,2012-10-25,2023-05-02,NYSE
+FITB,49,Fifth Third Bancorp - Common Stock,2012-10-18,2023-04-20,NASDAQ
+HL,49,Hecla Mining Company Common Stock,2012-11-06,2023-05-10,NYSE
+ARAY,49,Accuray Incorporated - Common Stock,2012-10-29,2023-04-26,NASDAQ
+JBLU,49,JetBlue Airways Corporation - Common Stock,2012-10-25,2023-04-25,NASDAQ
+SLF,49,Sun Life Financial Inc. Common Stock,2012-11-08,2023-05-12,NYSE
+BAM,49,Brookfield Asset Management Inc. Common Stock,2012-11-09,2023-05-10,NYSE
+STT,49,State Street Corporation Common Stock,2013-01-18,2023-04-17,NYSE
+TTWO,49,"Take-Two Interactive Software, Inc. - Common Stock",2012-10-31,2023-05-17,NASDAQ
+QRVO,48,"Qorvo, Inc. - Common Stock",2014-10-29,2023-06-01,NASDAQ
+JAZZ,48,Jazz Pharmaceuticals plc - Ordinary Shares,2012-11-08,2023-05-10,NASDAQ
+LNC,48,Lincoln National Corporation Common Stock,2012-11-02,2023-05-10,NYSE
+DVN,48,Devon Energy Corporation Common Stock,2012-11-07,2023-05-09,NYSE
+FSLR,48,"First Solar, Inc. - Common Stock",2012-11-02,2023-04-27,NASDAQ
+BHC,48,BHC,2018-08-12,2023-05-04,NASDAQ
+MFC,48,Manulife Financial Corporation Common Stock,2012-11-08,2023-05-11,NYSE
+ERF,48,Enerplus Corporation Common Stock,2012-11-09,2023-05-05,NYSE
+CNC,48,Centene Corporation Common Stock,2012-10-23,2023-04-25,NYSE
+IDCC,48,"InterDigital, Inc. - Common Stock",2012-10-24,2023-05-04,NASDAQ
+AMKR,48,"Amkor Technology, Inc. - Common Stock",2012-10-25,2023-05-01,NASDAQ
+BEN,48,"Franklin Resources, Inc. Common Stock",2012-10-25,2023-05-01,NYSE
+TFX,48,Teleflex Incorporated Common Stock,2012-10-31,2023-05-06,NYSE
+FFIV,48,"F5, Inc. - Common Stock",2012-10-24,2023-04-19,NASDAQ
+CRL,48,"Charles River Laboratories International, Inc. Common Stock",2012-10-31,2023-05-11,NYSE
+CNSL,48,"Consolidated Communications Holdings, Inc. - Common Stock",2012-11-01,2023-05-02,NASDAQ
+EPD,48,Enterprise Products Partners L.P. Common Stock,2012-11-01,2023-05-02,NYSE
+MSI,48,"Motorola Solutions, Inc. Common Stock",2012-10-24,2023-05-04,NYSE
+AVGO,48,Broadcom Inc. - Common Stock,2012-11-29,2023-06-06,NASDAQ
+SCI,48,Service Corporation International Common Stock,2012-10-25,2023-05-02,NYSE
+QDEL,48,QuidelOrtho Corporation - Common Stock,2012-10-23,2023-05-03,NASDAQ
+BCE,48,"BCE, Inc. Common Stock",2012-11-01,2023-05-04,NYSE
+CF,48,"CF Industries Holdings, Inc. Common Stock",2012-11-06,2023-05-02,NYSE
+GD,48,General Dynamics Corporation Common Stock,2012-10-24,2023-05-31,NYSE
+BRKR,48,Bruker Corporation - Common Stock,2012-11-05,2023-05-06,NASDAQ
+STM,48,STMicroelectronics N.V. Common Stock,2012-10-24,2023-04-27,NYSE
+AKAM,48,"Akamai Technologies, Inc. - Common Stock",2012-10-24,2023-05-09,NASDAQ
+SU,48,Suncor Energy  Inc. Common Stock,2012-11-01,2023-05-09,NYSE
+BCS,48,Barclays PLC Common Stock,2012-10-31,2023-04-27,NYSE
+MRO,48,Marathon Oil Corporation Common Stock,2012-11-06,2023-05-04,NYSE
+WST,48,"West Pharmaceutical Services, Inc. Common Stock",2013-02-21,2023-04-27,NYSE
+SYNA,48,Synaptics Incorporated - Common Stock,2012-10-25,2023-05-03,NASDAQ
+TWO,48,Two Harbors Investment Corp,2012-11-07,2023-05-02,NYSE
+SYY,48,Sysco Corporation Common Stock,2012-11-05,2023-05-02,NYSE
+MTH,48,Meritage Homes Corporation Common Stock,2012-10-25,2023-04-27,NYSE
+TDS,48,"Telephone and Data Systems, Inc. Common Shares",2012-12-03,2023-05-06,NYSE
+CNMD,48,CNMD,2013-02-14,2023-04-26,NASDAQ
+RF,48,Regions Financial Corporation Common Stock,2012-10-23,2023-04-21,NYSE
+RGLD,48,"Royal Gold, Inc. - Common Stock",2012-11-01,2023-05-04,NASDAQ
+ZUMZ,48,Zumiez Inc. - Common Stock,2012-11-30,2023-06-01,NASDAQ
+DPZ,48,Domino's Pizza Inc Common Stock,2013-01-18,2023-04-27,NYSE
+RCI,47,"Rogers Communication, Inc. Common Stock",2012-10-24,2023-04-26,NYSE
+MMS,47,"Maximus, Inc. Common Stock",2013-02-07,2023-05-06,NYSE
+NDAQ,47,"Nasdaq, Inc. - Common Stock",2012-10-24,2023-04-19,NASDAQ
+FUN,47,"Cedar Fair, L.P. Common Stock",2012-11-06,2023-05-04,NYSE
+PDCE,47,"PDC Energy, Inc. - Common Stock",2012-11-01,2023-05-04,NASDAQ
+PERI,47,Perion Network Ltd - Ordinary Shares,2012-11-01,2023-05-03,NASDAQ
+CNO,47,"CNO Financial Group, Inc. Common Stock",2012-10-30,2023-05-02,NYSE
+SBGI,47,"Sinclair, Inc. - Class A Common Stock",2013-02-06,2023-05-03,NASDAQ
+BGCP,47,BGCP,2012-11-02,2023-05-03,
+FR,47,"First Industrial Realty Trust, Inc. Common Stock",2012-10-25,2023-04-20,NYSE
+P,47,"Pandora Media, Inc. Common Stock",2012-12-04,2018-07-31,NYSE
+BMRN,47,BioMarin Pharmaceutical Inc. - Common Stock,2012-10-25,2023-04-26,NASDAQ
+DKS,47,Dick's Sporting Goods Inc Common Stock,2012-11-13,2023-05-23,NYSE
+BCRX,47,"BioCryst Pharmaceuticals, Inc. - Common Stock",2012-11-08,2023-05-03,NASDAQ
+ITW,47,Illinois Tool Works Inc. Common Stock,2012-10-23,2023-05-02,NYSE
+ACOR,47,"Acorda Therapeutics, Inc. - Common Stock",2012-10-31,2023-05-11,NASDAQ
+ORCL,47,Oracle Corporation Common Stock,2012-12-18,2023-03-09,NYSE
+ROP,47,"Roper Technologies, Inc. - Common Stock",2012-10-25,2023-04-27,NYSE
+APA,47,APA Corporation - Common Stock,2012-11-01,2023-05-04,NYSE
+LSTR,47,"Landstar System, Inc. - Common Stock",2012-10-25,2023-04-27,NASDAQ
+GPRO,47,"GoPro, Inc. - Class A Common Stock",2015-02-06,2023-05-09,NASDAQ
+OIS,47,"Oil States International, Inc. Common Stock",2012-11-02,2023-04-28,NYSE
+ENB,47,Enbridge Inc Common Stock,2012-11-07,2023-05-05,NYSE
+SLM,47,SLM Corporation - Common Stock,2012-10-18,2023-04-27,NASDAQ
+HUN,47,Huntsman Corporation Common Stock,2012-11-02,2023-05-05,NYSE
+HES,47,Hess Corporation Common Stock,2012-11-02,2023-04-26,NYSE
+PNC,47,"PNC Financial Services Group, Inc. (The) Common Stock",2013-01-17,2023-04-14,NYSE
+SEE,47,Sealed Air Corporation Common Stock,2012-11-02,2023-05-02,NYSE
+ZBRA,47,Zebra Technologies Corporation - Class A Common Stock,2012-11-06,2023-05-02,NASDAQ
+CINF,47,Cincinnati Financial Corporation - Common Stock,2012-10-27,2023-04-28,NASDAQ
+RRC,47,Range Resources Corporation Common Stock,2012-10-25,2023-04-25,NYSE
+AGCO,47,AGCO Corporation Common Stock,2012-10-31,2023-05-02,NYSE
+NOK,47,Nokia Corporation Sponsored American Depositary Shares,2012-10-18,2023-04-20,NYSE
+IR,47,Ingersoll,2012-10-19,2023-05-04,NYSE
+EMN,47,Eastman Chemical Company Common Stock,2012-10-26,2023-04-28,NYSE
+CZR,47,"Caesars Entertainment, Inc. - Common Stock",2012-10-31,2023-05-02,NASDAQ
+AXS,47,Axis Capital Holdings Limited Common Stock,2013-02-05,2023-04-27,NYSE
+SFE,47,"Safeguard Scientifics, Inc. - Common stock",2012-10-25,2023-05-06,NYSE
+EW,47,Edwards Lifesciences Corporation Common Stock,2012-10-19,2023-04-26,NYSE
+PPG,47,"PPG Industries, Inc. Common Stock",2012-10-18,2023-04-21,NYSE
+CHE,47,Chemed Corp,2013-02-19,2023-04-29,NYSE
+DFS,47,Discover Financial Services Common Stock,2012-12-20,2023-04-20,NYSE
+THG,47,Hanover Insurance Group Inc,2012-11-01,2023-05-03,NYSE
+MCHP,47,Microchip Technology Incorporated - Common Stock,2012-11-08,2023-05-04,NASDAQ
+CVE,47,Cenovus Energy Inc Common Stock,2012-10-25,2023-04-26,NYSE
+GOLD,47,GOLD,2012-11-07,2023-05-03,NASDAQ
+TRP,47,TransCanada Corporation Common Stock,2012-10-30,2023-04-28,NYSE
+LPLA,47,LPL Financial Holdings Inc. - Common Stock,2012-10-31,2023-04-28,NASDAQ
+NS,47,Nustar Energy L.P.  Common Units,2012-10-25,2023-05-04,NYSE
+VTR,47,"Ventas, Inc. Common Stock",2012-10-26,2023-06-06,NYSE
+WU,47,Western Union Company (The) Common Stock,2012-10-30,2023-02-07,NYSE
+OMC,47,Omnicom Group Inc. Common Stock,2013-02-12,2023-04-18,NYSE
+FNF,47,"FNF Group of Fidelity National Financial, Inc. Common Stock",2012-11-06,2023-05-04,NYSE
+DXCM,47,"DexCom, Inc. - Common Stock",2013-02-21,2023-04-27,NASDAQ
+AZO,47,"AutoZone, Inc. Common Stock",2012-12-04,2023-05-23,NYSE
+TJX,47,"TJX Companies, Inc. (The) Common Stock",2012-11-13,2023-05-17,NYSE
+SJM,47,J.M. Smucker Company (The) New Common Stock,2012-11-16,2023-06-06,NYSE
+CDNS,47,"Cadence Design Systems, Inc. - Common Stock",2012-10-24,2023-04-24,NASDAQ
+INFN,47,Infinera Corporation - Common Stock,2012-10-24,2023-05-03,NASDAQ
+CNI,47,Canadian National Railway Company Common Stock,2012-10-22,2023-04-24,NYSE
+ZION,47,Zions Bancorporation N.A. - Common Stock,2012-10-23,2023-04-19,NASDAQ
+VLO,47,Valero Energy Corporation Common Stock,2012-10-30,2023-04-27,NYSE
+NUVA,46,"NuVasive, Inc. - Common Stock",2012-10-24,2023-05-10,NASDAQ
+GTN,46,"Gray Communications Systems, Inc. Common Stock",2012-10-31,2023-05-05,NYSE
+TRIP,46,"TripAdvisor, Inc. - Common Stock",2012-11-01,2023-05-04,NASDAQ
+DCI,46,"Donaldson Company, Inc. Common Stock",2012-11-21,2023-05-31,NYSE
+NSC,46,Norfolk Southern Corporation Common Stock,2012-10-23,2023-04-26,NYSE
+KGC,46,Kinross Gold Corporation Common Stock,2012-11-08,2023-05-10,NYSE
+LKQ,46,LKQ Corporation - Common Stock,2012-10-25,2023-04-27,NASDAQ
+IP,46,International Paper Company Common Stock,2012-10-25,2023-04-27,NYSE
+ABB,46,ABB Ltd Common Stock,2012-10-25,2023-02-02,NYSE
+NATI,46,National Instruments Corporation - Common Stock,2012-10-25,2023-01-31,NASDAQ
+AWK,46,"American Water Works Company, Inc. Common Stock",2012-11-08,2023-04-27,NYSE
+MCO,46,Moody's Corporation Common Stock,2012-10-26,2023-04-25,NYSE
+TRI,46,Thomson Reuters Corp Ordinary Shares,2012-11-02,2023-05-02,NYSE
+FE,46,FirstEnergy Corporation Common Stock,2012-11-08,2023-04-28,NYSE
+K,46,Kellogg Company Common Stock,2012-11-01,2023-05-04,NYSE
+COST,46,Costco Wholesale Corporation - Common Stock,2012-12-12,2023-05-25,NASDAQ
+TGT,46,Target Corporation Common Stock,2012-11-15,2023-05-17,NYSE
+FLT,46,"FleetCor Technologies, Inc. Common Stock",2012-11-08,2023-05-04,NYSE
+URBN,46,"Urban Outfitters, Inc. - Common Stock",2012-11-19,2023-05-23,NASDAQ
+GDOT,46,"Green Dot Corporation Class A Common Stock, $0.001 par value",2012-11-01,2023-05-05,NYSE
+ENS,46,Enersys Common Stock,2012-11-06,2023-05-25,NYSE
+FLEX,46,Flex Ltd. - Ordinary Shares,2012-10-18,2023-05-10,NASDAQ
+MTW,46,"Manitowoc Company, Inc. (The) Common Stock",2012-11-05,2023-05-03,NYSE
+HBI,46,Hanesbrands Inc. Common Stock,2012-10-23,2023-05-03,NYSE
+CPB,46,Campbell Soup Company Common Stock,2012-11-20,2023-06-08,NYSE
+HAS,46,"Hasbro, Inc. - Common Stock",2012-10-22,2023-04-27,NASDAQ
+CLW,46,Clearwater Paper Corporation Common Stock,2013-02-20,2023-05-02,NYSE
+NKTR,46,Nektar Therapeutics - Common Stock,2012-11-12,2023-05-09,NASDAQ
+HTGC,46,"Hercules Technology Growth Capital, Inc. Common Stock",2012-11-02,2023-05-04,NYSE
+BIP,46,Brookfield Infrastructure Partners LP Limited Partnership Units,2012-11-07,2023-05-03,NYSE
+LH,46,Laboratory Corporation of America Holdings Common Stock,2012-10-18,2023-04-25,NYSE
+PTEN,46,"Patterson-UTI Energy, Inc. - Common Stock",2012-10-25,2023-04-27,NASDAQ
+OI,46,Owens,2012-10-25,2023-04-26,NYSE
+MAS,46,Masco Corporation Common Stock,2012-10-30,2023-04-26,NYSE
+PHM,46,"PulteGroup, Inc. Common Stock",2012-10-25,2023-04-25,NYSE
+LRN,46,K12 Inc Common Stock,2012-10-17,2023-04-25,NYSE
+EXPE,46,"Expedia Group, Inc. - Common Stock",2012-10-25,2023-05-04,NASDAQ
+OSUR,46,"OraSure Technologies, Inc. - Common Stock",2012-11-07,2023-05-10,NASDAQ
+HOLX,46,"Hologic, Inc. - Common Stock",2012-11-12,2023-05-01,NASDAQ
+SRE,46,Sempra Energy Common Stock,2012-11-06,2023-05-04,NYSE
+KEX,46,Kirby Corporation Common Stock,2012-10-26,2023-04-27,NYSE
+DX,46,"Dynex Capital, Inc. Common Stock",2012-11-02,2023-04-24,NYSE
+RSG,46,"Republic Services, Inc. Common Stock",2012-11-01,2023-04-27,NYSE
+CM,46,Canadian Imperial Bank of Commerce Common Stock,2012-12-06,2023-05-25,NYSE
+ALL,46,Allstate Corporation (The) Common Stock,2012-11-01,2023-05-04,NYSE
+MAC,46,Macerich Company (The) Common Stock,2012-10-31,2023-05-04,NYSE
+IT,46,"Gartner, Inc. Common Stock",2012-11-02,2023-05-02,NYSE
+FLO,46,"Flowers Foods, Inc. Common Stock",2012-11-09,2023-05-19,NYSE
+AFG,46,"American Financial Group, Inc. Common Stock",2012-10-30,2023-05-03,NYSE
+CME,46,CME Group Inc. - Class A Common Stock,2012-10-25,2023-04-26,NASDAQ
+AMP,46,"Ameriprise Financial, Inc. Common Stock",2012-10-25,2023-04-25,NYSE
+MFA,46,"MFA Financial, Inc.",2012-11-06,2023-05-04,NYSE
+WCC,46,"WESCO International, Inc. Common Stock",2012-10-18,2023-05-04,NYSE
+AMBA,46,"Ambarella, Inc. - Ordinary Shares",2012-12-05,2023-05-30,NASDAQ
+B,46,"Barnes Group, Inc. Common Stock",2012-10-26,2023-04-27,NYSE
+TSN,46,"Tyson Foods, Inc. Common Stock",2012-11-19,2023-05-08,NYSE
+PFG,46,Principal Financial Group Inc - Common Stock,2012-10-26,2023-04-28,NYSE
+LOGI,46,Logitech International S.A. - Registered Shares,2012-10-25,2023-05-02,NASDAQ
+ETN,46,"Eaton Corporation, PLC Ordinary Shares",2012-10-31,2023-05-02,NYSE
+EMR,46,Emerson Electric Company Common Stock,2012-11-06,2023-05-03,NYSE
+BK,46,Bank of New York Mellon Corporation (The) Common Stock,2012-10-17,2023-04-18,NYSE
+PII,46,Polaris Industries Inc. Common Stock,2012-10-18,2023-04-25,NYSE
+CYH,46,"Community Health Systems, Inc. Common Stock",2012-10-31,2023-05-02,NYSE
+DIOD,46,Diodes Incorporated - Common Stock,2012-11-10,2023-05-09,NASDAQ
+MAT,46,"Mattel, Inc. - Common Stock",2013-02-01,2023-04-26,NASDAQ
+SLG,46,SL Green Realty Corporation Common Stock,2012-10-25,2023-04-20,NYSE
+EGHT,46,8x8 Inc - Common stock,2012-10-24,2023-05-11,NASDAQ
+RDWR,46,Radware Ltd. - Ordinary Shares,2012-10-26,2023-05-07,NASDAQ
+XEL,46,Xcel Energy Inc. - Common Stock,2012-10-25,2023-04-27,NYSE
+THC,46,Tenet Healthcare Corporation Common Stock,2012-11-07,2023-04-25,NYSE
+CLMT,46,"Calumet Specialty Products Partners, L.P. - Common units representing limited partner interests",2012-10-31,2023-05-05,NASDAQ
+SIX,46,Six Flags Entertainment Corporation New Common Stock,2012-10-24,2023-05-08,NYSE
+ICUI,46,"ICU Medical, Inc. - Common Stock",2013-02-04,2023-05-09,NASDAQ
+BWA,46,BorgWarner Inc. Common Stock,2012-10-31,2023-05-04,NYSE
+III,46,"Information Services Group, Inc. - Common Stock",2013-05-14,2023-05-09,NASDAQ
+CP,46,Canadian Pacific Railway Limited Common Stock,2012-10-24,2023-04-26,NYSE
+CAG,46,"ConAgra Foods, Inc. Common Stock",2012-12-20,2023-04-05,NYSE
+CHRW,46,"C.H. Robinson Worldwide, Inc. - Common Stock",2012-10-23,2023-04-26,NASDAQ
+SHOO,46,"Steven Madden, Ltd. - Common Stock",2012-11-01,2023-05-13,NASDAQ
+PEB,46,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,2012-10-26,2023-04-28,NYSE
+APEI,46,"American Public Education, Inc. - Common Stock",2012-11-08,2023-05-13,NASDAQ
+PEG,46,Public Service Enterprise Group Incorporated Common Stock,2012-11-01,2023-05-02,NYSE
+FICO,46,Fair Isaac Corproation Common Stock,2012-11-01,2023-04-27,NYSE
+EPR,46,EPR Properties Common Stock,2012-10-30,2023-06-08,NYSE
+XYL,46,Xylem Inc. Common Stock New,2012-11-01,2023-05-04,NYSE
+BG,46,Bunge Limited Bunge Limited,2012-10-25,2023-05-03,NYSE
+CR,45,Crane Company Common Stock,2012-10-23,2023-05-11,NYSE
+AZPN,45,"Aspen Technology, Inc. - Common Stock",2013-01-29,2023-04-26,NASDAQ
+EXK,45,Endeavour Silver Corporation Ordinary Shares (Canada),2012-11-07,2023-05-10,NYSE
+NWL,45,Newell Brands Inc. - Common Stock,2012-10-26,2023-04-28,NYSE
+AVT,45,"Avnet, Inc. - Common Stock",2012-10-25,2023-05-03,NYSE
+SSP,45,E.W. Scripps Company (The) - Class A Common Stock,2013-02-26,2023-05-05,NYSE
+DAN,45,Dana Holding Corporation Common Stock When,2012-10-26,2023-04-28,NYSE
+CACI,45,"CACI International, Inc. Class A Common Stock",2012-11-01,2023-04-27,NYSE
+JACK,45,Jack In The Box Inc. - Common Stock,2012-11-20,2023-05-17,NASDAQ
+RDN,45,Radian Group Inc. Common Stock,2012-11-01,2023-05-04,NYSE
+XPO,45,"XPO Logistics, Inc.",2012-11-06,2023-05-04,NYSE
+WRB,45,W.R. Berkley Corporation Common Stock,2012-10-23,2023-04-20,NYSE
+ACTG,45,Acacia Research Corporation - Common Stock,2012-10-19,2023-05-11,NASDAQ
+RMD,45,ResMed Inc. Common Stock,2012-10-25,2023-04-27,NYSE
+SANM,45,Sanmina Corporation - Common Stock,2012-10-31,2023-05-11,NASDAQ
+AXL,45,"American Axle & Manufacturing Holdings, Inc. Common Stock",2012-10-26,2023-05-05,NYSE
+GERN,45,Geron Corporation - Common Stock,2012-10-30,2023-05-11,NASDAQ
+VFC,45,V.F. Corporation Common Stock,2012-10-22,2023-05-23,NYSE
+PPL,45,PP&L Corporation Common Stock,2012-11-08,2023-05-04,NYSE
+PLD,45,"ProLogis, Inc. Common Stock",2012-10-23,2023-04-18,NYSE
+ONB,45,Old National Bancorp - Common Stock,2013-01-28,2023-04-25,NASDAQ
+UNFI,45,UNFI,2013-02-26,2023-06-08,NASDAQ
+DOV,45,Dover Corporation Common Stock,2012-10-17,2023-04-26,NYSE
+WBS,45,Webster Financial Corporation Common Stock,2013-01-18,2023-04-20,NYSE
+SNV,45,Synovus Financial Corp. Common Stock,2012-10-23,2023-04-20,NYSE
+PDM,45,"Piedmont Office Realty Trust, Inc. Class A Common Stock",2012-11-01,2023-05-02,NYSE
+SM,45,SM Energy Company Common Stock,2012-11-01,2023-04-28,NYSE
+MDU,45,"MDU Resources Group, Inc. Common Stock",2012-11-01,2023-05-04,NYSE
+MGA,45,"Magna International, Inc. Common Stock",2012-11-08,2023-05-05,NYSE
+EQT,45,EQT Corporation Common Stock,2012-10-25,2023-04-27,NYSE
+PCH,45,PotlatchDeltic Corporation - Common Stock,2012-10-22,2023-04-25,NASDAQ
+PODD,45,Insulet Corporation - Common Stock,2013-02-28,2023-05-04,NASDAQ
+DHI,45,"D.R. Horton, Inc. Common Stock",2012-11-12,2023-04-20,NYSE
+EFX,45,"Equifax, Inc. Common Stock",2012-10-25,2023-04-20,NYSE
+SAH,45,"Sonic Automotive, Inc. Common Stock",2012-10-23,2023-04-27,NYSE
+HNI,45,HNI Corporation Common Stock,2012-10-18,2023-05-08,NYSE
+BGS,45,"B&G Foods, Inc. B&G Foods, Inc. Common Stock",2012-10-18,2023-05-05,NYSE
+NTRS,45,Northern Trust Corporation - Common Stock,2012-10-17,2023-04-25,NASDAQ
+KIM,45,Kimco Realty Corporation Common Stock,2012-10-31,2023-04-27,NYSE
+PH,45,Parker,2012-10-19,2023-05-04,NYSE
+MD,45,"Mednax, Inc. Common Stock",2012-11-01,2023-05-02,NYSE
+BASFY,45,BASFY,2012-10-25,2023-04-27,OTC
+ETR,45,Entergy Corporation Common Stock,2012-11-05,2023-04-26,NYSE
+GLT,45,Glatfelter Common Stock,2013-02-07,2023-05-05,NYSE
+NEU,45,NewMarket Corp Common Stock,2012-10-26,2023-04-30,NYSE
+MGM,45,MGM Resorts International Common Stock,2012-10-31,2023-05-01,NYSE
+LAMR,45,Lamar Advertising Company - Class A Common Stock,2012-11-07,2023-05-04,NASDAQ
+INT,45,World Fuel Services Corporation Common Stock,2012-11-02,2023-04-27,NYSE
+CCOI,45,"Cogent Communications Holdings, Inc. - Common Stock",2013-02-21,2023-05-06,NASDAQ
+ROK,45,"Rockwell Automation, Inc. Common Stock",2012-11-05,2023-04-27,NYSE
+CLVS,45,CLVS,2013-03-01,2022-08-08,
+SNX,45,Synnex Corporation Common Stock,2013-01-11,2023-03-28,NYSE
+AAP,45,Advance Auto Parts Inc Advance Auto Parts Inc W/I,2012-11-08,2023-05-31,NYSE
+SPPI,45,"Spectrum Pharmaceuticals, Inc. - Common Stock",2012-11-07,2023-03-22,NASDAQ
+KSS,45,Kohl's Corporation Common Stock,2012-11-08,2023-05-24,NYSE
+RNR,45,RenaissanceRe Holdings Ltd. Common Stock,2012-11-02,2023-05-07,NYSE
+TKR,45,Timken Company (The) Common Stock,2012-10-25,2023-05-03,NYSE
+DOW,45,Dow Chemical Company (The) Common Stock,2012-10-24,2023-05-31,NYSE
+MTZ,45,"MasTec, Inc. Common Stock",2012-11-02,2023-05-05,NYSE
+OMI,45,"Owens & Minor, Inc. Common Stock",2012-10-30,2023-05-05,NYSE
+SSTK,45,"Shutterstock, Inc. Common Stock",2012-11-17,2023-04-25,NYSE
+FAF,45,First American Corporation (New) Common Stock,2012-10-25,2023-04-27,NYSE
+LQDT,45,"Liquidity Services, Inc. - Common Stock",2012-11-29,2023-05-05,NASDAQ
+CDE,45,"Coeur Mining, Inc. Common Stock",2012-11-06,2023-05-11,NYSE
+AZN,45,AstraZeneca PLC - American Depositary Shares,2012-10-25,2023-06-06,NYSE
+SNA,45,Snap,2012-10-18,2023-04-20,NYSE
+EAT,45,"Brinker International, Inc. Common Stock",2012-10-24,2023-05-03,NYSE
+WHR,45,Whirlpool Corporation Common Stock,2012-10-23,2023-04-25,NYSE
+TSCO,45,Tractor Supply Company - Common Stock,2012-10-25,2023-04-27,NASDAQ
+FTI,45,"FMC Technologies, Inc. Common Stock",2012-10-24,2023-04-27,NYSE
+BXP,45,"Boston Properties, Inc. Common Stock",2012-10-24,2023-04-26,NYSE
+SPR,45,"Spirit Aerosystems Holdings, Inc. Common Stock",2012-11-01,2023-05-03,NYSE
+TPX,45,"Tempur Sealy International, Inc. Common Stock",2012-10-23,2023-05-09,NYSE
+STKL,45,"SunOpta, Inc. - Common Stock",2012-11-08,2023-05-10,NASDAQ
+NOG,45,NOG,2012-11-08,2023-05-05,NYSE
+ALK,45,"Alaska Air Group, Inc. Common Stock",2012-10-25,2023-04-20,NYSE
+FEYE,45,FEYE,2014-08-06,2021-09-09,
+CODI,45,Compass Diversified Holdings Shares of Beneficial Interest,2012-11-08,2023-05-03,NYSE
+ALEX,45,"Alexander & Baldwin, Inc. Common Stock",2013-02-19,2023-05-07,NYSE
+IPI,45,"Intrepid Potash, Inc Common Stock",2012-11-01,2023-05-04,NYSE
+FMC,45,FMC Corporation Common Stock,2013-02-07,2023-05-02,NYSE
+SRDX,45,"Surmodics, Inc. - Common Stock",2012-11-06,2023-04-26,NASDAQ
+ANDE,45,"The Andersons, Inc. - Common Stock",2012-10-31,2023-05-03,NASDAQ
+ATRC,45,"AtriCure, Inc. - Common Stock",2012-11-01,2023-05-02,NASDAQ
+CRUS,45,"Cirrus Logic, Inc. - Common Stock",2012-10-31,2023-05-04,NASDAQ
+HSIC,45,"Henry Schein, Inc. - Common Stock",2012-11-07,2023-05-09,NASDAQ
+AEE,45,Ameren Corporation Common Stock,2012-11-09,2023-05-05,NYSE
+TTMI,45,"TTM Technologies, Inc. - Common Stock",2012-11-01,2023-05-06,NASDAQ
+HLF,45,Herbalife Ltd. Common Stock,2012-10-30,2023-05-02,NYSE
+EIX,45,Edison International Common Stock,2012-11-01,2023-05-02,NYSE
+ETSY,45,"Etsy, Inc. - Common Stock",2015-05-20,2023-05-31,NASDAQ
+AEIS,45,"Advanced Energy Industries, Inc. - Common Stock",2012-10-30,2023-05-03,NASDAQ
+AEP,45,"American Electric Power Company, Inc. - Common Stock",2012-10-24,2023-05-04,NYSE
+EQIX,45,"Equinix, Inc. - Common Stock",2012-11-02,2023-05-03,NASDAQ
+PRIM,45,PRIM,2012-11-06,2023-05-10,NASDAQ
+IPG,45,"Interpublic Group of Companies, Inc. (The) Common Stock",2012-10-26,2023-04-27,NYSE
+CSIQ,45,Canadian Solar Inc. - Common Shares,2012-11-15,2023-05-18,NASDAQ
+ERIC,45,Ericsson - American Depositary Shares each representing 1 underlying Class B share,2012-10-26,2023-05-30,NASDAQ
+PAAS,45,PAAS,2012-11-08,2023-05-11,NASDAQ
+JWN,45,"Nordstrom, Inc. Common Stock",2012-11-08,2023-05-31,NYSE
+OFC,45,Corporate Office Properties Trust Common Stock,2012-10-25,2023-04-28,NYSE
+BZH,45,"Beazer Homes USA, Inc. Common Stock",2012-11-12,2023-04-27,NYSE
+KAR,45,"KAR Auction Services, Inc Common Stock",2012-11-07,2023-05-03,NYSE
+AVA,45,Avista Corporation Common Stock,2012-10-23,2023-05-03,NYSE
+OXY,45,Occidental Petroleum Corporation Common Stock,2012-10-25,2023-05-10,NYSE
+AHT,45,Ashford Hospitality Trust Inc Common Stock,2012-11-01,2023-05-02,NYSE
+MSCI,45,MSCI Inc Common Stock,2012-11-06,2023-04-25,NYSE
+UGI,45,UGI Corporation Common Stock,2012-10-17,2023-05-04,NYSE
+MYGN,45,"Myriad Genetics, Inc. - Common Stock",2012-11-05,2023-05-03,NASDAQ
+ROST,45,"Ross Stores, Inc. - Common Stock",2012-11-15,2023-05-18,NASDAQ
+EQR,45,Equity Residential Common Shares of Beneficial Interest,2012-10-25,2023-04-26,NYSE
+GT,45,The Goodyear Tire & Rubber Company - Common Stock,2012-10-26,2023-05-06,NASDAQ
+ACM,45,AECOM Common Stock,2012-11-13,2023-05-09,NYSE
+CG,45,The Carlyle Group Inc. - Common Stock,2013-02-12,2023-05-04,NASDAQ
+DRI,45,"Darden Restaurants, Inc. Common Stock",2012-12-20,2023-03-23,NYSE
+AON,45,Aon plc Class A Ordinary Shares (UK),2012-10-26,2023-04-28,NYSE
+PRO,45,"PROS Holdings, Inc. Common Stock",2013-02-12,2023-05-02,NYSE
+ATGFF,45,ATGFF,2013-02-28,2023-04-27,OTC
+CIEN,45,Ciena Corporation Common Stock,2012-12-13,2023-06-06,NYSE
+CMA,45,Comerica Incorporated Common Stock,2012-10-17,2023-04-20,NYSE
+EL,45,"Estee Lauder Companies, Inc. (The) Common Stock",2012-11-01,2023-05-03,NYSE
+NR,45,"Newpark Resources, Inc. Common Stock",2012-10-26,2023-05-03,NYSE
+HLX,45,"Helix Energy Solutions Group, Inc. Common Stock",2012-10-23,2023-04-25,NYSE
+WNC,45,Wabash National Corporation Common Stock,2012-11-01,2023-04-26,NYSE
+MPC,44,Marathon Petroleum Corporation Common Stock,2012-11-01,2023-05-02,NYSE
+H,44,Hyatt Hotels Corporation Class A Common Stock,2012-10-31,2023-05-04,NYSE
+GNRC,44,Generac Holdlings Inc. Common Stock,2012-10-31,2023-05-03,NYSE
+CBT,44,Cabot Corporation Common Stock,2012-10-31,2023-05-09,NYSE
+DOX,44,Amdocs Limited - Ordinary Shares,2012-11-07,2023-05-10,NASDAQ
+ICE,44,Intercontinental Exchange Inc. Common Stock,2012-11-05,2023-05-04,NYSE
+EWBC,44,"East West Bancorp, Inc. - Common Stock",2012-10-18,2023-04-20,NASDAQ
+VRSN,44,"VeriSign, Inc. - Common Stock",2012-10-25,2023-04-27,NASDAQ
+ANIK,44,Anika Therapeutics Inc. - Common Stock,2012-10-31,2023-05-13,NASDAQ
+MUR,44,Murphy Oil Corporation Common Stock,2012-11-01,2023-05-03,NYSE
+DLTR,44,"Dollar Tree, Inc. - Common Stock",2012-11-15,2023-05-25,NASDAQ
+EXC,44,Exelon Corporation - Common Stock,2012-11-01,2023-05-03,NYSE
+TRS,44,TriMas Corporation - Common Stock,2013-02-26,2023-04-30,NASDAQ
+FISV,44,FISV,2012-10-30,2023-04-25,
+CS,44,Credit Suisse Group American Depositary Shares,2012-10-25,2023-02-09,NYSE
+GIB,44,"CGI Group, Inc. Common Stock",2012-11-28,2023-04-26,NYSE
+MTB,44,M&T Bank Corporation Common Stock,2012-10-17,2023-04-17,NYSE
+CNA,44,CNA Financial Corporation Common Stock,2012-10-29,2023-05-01,NYSE
+SPH,44,"Suburban Propane Partners, L.P. Common Stock",2012-11-28,2023-05-04,NYSE
+ANF,44,Abercrombie & Fitch Company Common Stock,2012-11-14,2023-05-24,NYSE
+GIL,44,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",2012-11-29,2023-05-03,NYSE
+ECPG,44,Encore Capital Group Inc - Common Stock,2013-02-13,2023-05-03,NASDAQ
+ENR,44,"Energizer Holdings, Inc. Common Stock",2012-11-08,2023-05-08,NYSE
+PVH,44,PVH Corp. Common Stock,2012-11-28,2023-06-01,NYSE
+CE,44,Celanese Corporation Celanese Corporation Series A Common Stock,2012-10-23,2023-05-10,NYSE
+TRV,44,"The Travelers Companies, Inc. Common Stock",2012-10-18,2023-04-19,NYSE
+AVB,44,"AvalonBay Communities, Inc. Common Stock",2012-10-25,2023-04-27,NYSE
+TGH,44,Textainer Group Holdings Limited Common Shares,2012-11-06,2023-05-02,NYSE
+MASI,44,Masimo Corporation - Common Stock,2012-11-01,2023-05-09,NASDAQ
+HLIT,44,Harmonic Inc. - Common Stock,2012-10-23,2023-05-08,NASDAQ
+SNPS,44,"Synopsys, Inc. - Common Stock",2012-12-05,2023-05-17,NASDAQ
+RYN,44,Rayonier Inc. REIT Common Stock,2012-10-25,2023-05-04,NYSE
+KALU,44,Kaiser Aluminum Corporation - Common Stock,2013-02-20,2023-04-27,NASDAQ
+WLK,44,Westlake Chemical Corporation Common Stock,2012-11-08,2023-05-04,NYSE
+MNST,44,Monster Beverage Corporation - Common Stock,2012-11-08,2023-05-04,NASDAQ
+AAPL,44,Apple Inc. - Common Stock,2012-10-25,2023-05-04,NASDAQ
+SMG,44,Scotts Miracle,2012-11-08,2023-05-03,NYSE
+SPWR,44,SunPower Corporation - Common Stock,2012-11-01,2023-05-03,NASDAQ
+KOS,44,Kosmos Energy Ltd. Common Shares,2012-11-05,2023-05-09,NYSE
+BJRI,44,"BJ's Restaurants, Inc. - Common Stock",2012-10-25,2023-04-28,NASDAQ
+TDG,44,Transdigm Group Incorporated Transdigm Group Inc. Common Stock,2012-11-16,2023-05-09,NYSE
+NG,44,NG,2013-02-12,2023-01-26,NYSE
+MSM,44,"MSC Industrial Direct Company, Inc. Common Stock",2012-10-31,2023-04-04,NYSE
+PAA,44,"Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests",2012-11-06,2023-05-05,NYSE
+ARWR,44,"Arrowhead Pharmaceuticals, Inc. - Common Stock",2012-12-20,2023-05-02,NASDAQ
+MOH,44,Molina Healthcare Inc Common Stock,2012-10-23,2023-04-27,NYSE
+MXL,44,"MaxLinear, Inc - Common Stock",2013-02-05,2023-04-26,NYSE
+KBH,44,KB Home Common Stock,2012-12-20,2023-03-22,NYSE
+WAB,44,Westinghouse Air Brake Technologies Corporation Common Stock,2012-10-23,2023-04-26,NYSE
+SQNS,44,"Sequans Communications S.A. American Depositary Shares, each representing one Ordinary Share",2012-10-25,2023-05-03,NYSE
+PBA,44,Pembina Pipeline Corp. Ordinary Shares (Canada),2012-11-07,2023-05-05,NYSE
+BC,44,Brunswick Corporation Common Stock,2012-10-25,2023-04-28,NYSE
+AGO,44,Assured Guaranty Ltd. Common Stock,2012-11-09,2023-05-10,NYSE
+PNW,44,Pinnacle West Capital Corporation Common Stock,2012-11-02,2023-05-04,NYSE
+PHG,44,Koninklijke Philips N.V. NY Registry Shares,2012-10-22,2023-04-24,NYSE
+DENN,44,Denny's Corporation - Common Stock,2012-10-30,2023-05-02,NASDAQ
+FORM,44,"FormFactor, Inc. - Common Stock",2012-11-01,2023-05-03,NASDAQ
+CRNT,44,Ceragon Networks Ltd. - Ordinary Shares,2012-10-29,2023-05-01,NASDAQ
+IFF,44,"Internationa Flavors & Fragrances, Inc. Common Stock",2012-11-06,2023-05-09,NYSE
+IRBT,44,iRobot Corporation - Common Stock,2012-10-24,2022-05-05,NASDAQ
+WSO,44,"Watsco, Inc. Common Stock",2012-10-25,2023-04-20,NYSE
+HP,44,"Helmerich & Payne, Inc. Common Stock",2012-11-15,2023-04-27,NYSE
+CW,44,Curtiss,2013-02-21,2023-05-05,NYSE
+DLB,44,Dolby Laboratories Common Stock,2012-11-08,2023-05-06,NYSE
+LL,44,"Lumber Liquidators Holdings, Inc Common Stock",2012-10-24,2023-05-08,NYSE
+URI,44,"United Rentals, Inc. Common Stock",2012-10-17,2023-04-27,NYSE
+MTRX,44,Matrix Service Company - Common Stock,2012-11-09,2023-05-14,NASDAQ
+REG,44,Regency Centers Corporation - Common Stock,2012-11-08,2023-05-05,NYSE
+NTGR,44,"NETGEAR, Inc. - Common Stock",2012-10-25,2023-04-26,NASDAQ
+UDR,44,"UDR, Inc. Common Stock",2012-10-29,2023-04-27,NYSE
+BF.B,44,Brown Forman Inc Class B Common Stock,2012-12-05,2023-06-08,NYSE
+SUUIF,44,SUUIF,2013-05-03,2023-05-14,OTC
+DE,44,Deere & Company Common Stock,2012-11-21,2023-05-19,NYSE
+SOHU,44,Sohu.com Limited  - American Depositary Shares,2012-11-05,2023-05-15,NASDAQ
+CLNE,44,Clean Energy Fuels Corp. - Common Stock,2012-11-05,2023-05-09,NASDAQ
+TPC,44,Tutor Perini Corporation Common Stock,2012-11-01,2023-05-05,NYSE
+LYV,44,"Live Nation Entertainment, Inc. Common Stock",2013-02-26,2023-05-04,NYSE
+GBCI,44,GBCI,2013-01-25,2023-04-21,NASDAQ
+BPOP,44,"Popular, Inc. - Common Stock",2012-10-19,2023-04-26,NASDAQ
+RGA,44,"Reinsurance Group of America, Incorporated Common Stock",2012-10-18,2023-05-05,NYSE
+HURN,44,Huron Consulting Group Inc. - Common Stock,2013-02-20,2023-05-02,NASDAQ
+WEC,44,Wisconsin Energy Corporation Common Stock,2012-10-31,2023-05-01,NYSE
+VSH,44,"Vishay Intertechnology, Inc. Common Stock",2012-10-30,2023-05-10,NYSE
+AVY,44,Avery Dennison Corporation Common Stock,2012-10-24,2023-04-26,NYSE
+RRGB,44,"Red Robin Gourmet Burgers, Inc. - Common Stock",2013-02-19,2023-05-24,NASDAQ
+PENN,44,"PENN Entertainment, Inc. - Common Stock",2012-10-18,2023-05-04,NASDAQ
+HOG,44,Harley,2012-10-23,2023-04-27,NYSE
+ABM,44,ABM Industries Incorporated Common Stock,2013-03-05,2023-06-06,NYSE
+GSL,44,Global Ship Lease Inc New Class A Common Shares,2012-11-14,2023-05-10,NYSE
+NUE,44,Nucor Corporation Common Stock,2012-10-18,2023-04-20,NYSE
+CROX,44,"Crocs, Inc. - Common Stock",2012-10-24,2023-04-27,NASDAQ
+AIZ,44,"Assurant, Inc. Common Stock",2012-10-25,2023-05-03,NYSE
+SBAC,44,SBA Communications Corporation - Class A Common Stock,2012-11-06,2023-05-01,NASDAQ
+ABG,44,Asbury Automotive Group Inc Common Stock,2013-02-19,2023-04-25,NYSE
+GEVO,44,"Gevo, Inc. - Common Stock",2012-10-30,2023-05-10,NASDAQ
+DHX,44,"Dice Holdings, Inc. Common Stock",2013-01-30,2023-05-10,NYSE
+CAKE,44,The Cheesecake Factory Incorporated - Common Stock,2012-10-24,2023-05-10,NASDAQ
+G,44,Genpact Limited Common Stock,2012-11-01,2023-05-10,NYSE
+TTI,44,"Tetra Technologies, Inc. Common Stock",2013-03-01,2023-05-02,NYSE
+OTEX,44,Open Text Corporation - Common Shares,2012-10-31,2023-05-04,NASDAQ
+VRA,44,"Vera Bradley, Inc. - Common Stock",2012-12-05,2023-06-08,NASDAQ
+DBD,44,"Diebold, Incorporated Common Stock",2012-10-25,2023-05-03,NYSE
+CPT,44,Camden Property Trust Common Stock,2012-11-02,2023-04-28,NYSE
+ST,44,Sensata Technologies Holding N.V. Ordinary Shares,2013-01-30,2023-04-25,NYSE
+WEN,44,Wendy's Company (The) - Common Stock,2012-11-08,2023-05-10,NASDAQ
+NWE,44,NorthWestern Corporation - Common Stock,2013-04-25,2023-05-01,NYSE
+MDC,44,"M.D.C. Holdings, Inc. Common Stock",2012-11-01,2023-05-02,NYSE
+HBAN,44,Huntington Bancshares Incorporated - Common Stock,2012-10-18,2023-04-20,NASDAQ
+FDX,44,FedEx Corporation Common Stock,2012-12-19,2023-03-16,NYSE
+NYCB,44,"New York Community Bancorp, Inc. Common Stock",2013-02-12,2023-04-28,NYSE
+CMC,44,Commercial Metals Company Common Stock,2012-10-24,2023-03-23,NYSE
+MNK,44,Mallinckrodt plc Ordinary Shares,2014-01-15,2023-05-09,NYSE
+IRWD,44,"Ironwood Pharmaceuticals, Inc. - Class A Common Stock",2012-11-15,2023-05-06,NASDAQ
+ALV,44,"Autoliv, Inc. Common Stock",2012-10-23,2023-04-21,NYSE
+GNTX,44,Gentex Corporation - Common Stock,2012-10-23,2023-04-28,NASDAQ
+FTK,44,"Flotek Industries, Inc. Common Stock",2012-11-08,2023-05-09,NYSE
+GWRE,44,"Guidewire Software, Inc. Common Stock",2012-11-28,2023-06-01,NYSE
+HZNP,44,Horizon Therapeutics Public Limited Company - Ordinary Shares,2012-11-13,2022-11-02,NASDAQ
+IART,44,Integra LifeSciences Holdings Corporation - Common Stock,2013-02-21,2023-04-26,NASDAQ
+CLB,44,Core Laboratories N.V. Common Stock,2012-10-18,2023-04-27,NYSE
+OSIS,44,"OSI Systems, Inc. - Common Stock",2012-10-23,2023-04-30,NASDAQ
+LAD,44,"Lithia Motors, Inc. Common Stock",2012-10-24,2023-04-19,NYSE
+OSK,44,Oshkosh Corporation (Holding Company)Common Stock,2012-10-26,2023-04-27,NYSE
+NJR,44,NewJersey Resources Corporation Common Stock,2013-02-07,2023-05-05,NYSE
+TDC,44,Teradata Corporation Common Stock,2012-11-01,2023-05-04,NYSE
+SON,44,Sonoco Products Company Common Stock,2012-10-18,2023-05-02,NYSE
+BCOV,44,Brightcove Inc. - Common Stock,2012-11-01,2023-05-03,NASDAQ
+MG,44,Mistras Group Inc Common Stock,2013-01-09,2023-05-06,NYSE
+CLF,44,Cliffs Natural Resources Inc Common Stock,2012-10-25,2023-04-25,NYSE
+D,44,"Dominion Resources, Inc. Common Stock",2012-10-25,2023-05-05,NYSE
+GLP,44,Global Partners LP Global Partners LP Common Units representing Limited Partner Interests,2012-11-08,2023-05-05,NYSE
+JKHY,44,"Jack Henry & Associates, Inc. - Common Stock",2012-11-01,2023-05-03,NASDAQ
+UIS,44,Unisys Corporation New Common Stock,2012-10-23,2023-05-03,NYSE
+VOXX,44,VOXX International Corporation - Class A Common Stock,2013-01-10,2023-05-16,NASDAQ
+LAZ,44,"Lazard LTD. Lazard, LTD. Class A Common Stock",2012-10-25,2023-04-28,NYSE
+LULU,44,lululemon athletica inc. - Common Stock,2012-12-06,2023-06-01,NASDAQ
+BR,44,"Broadridge Financial Solutions, Inc.Common Stock",2012-11-06,2023-05-02,NYSE
+HSY,44,The Hershey Company Common Stock,2012-10-25,2023-04-27,NYSE
+EHTH,44,"eHealth, Inc. - Common Stock",2013-02-15,2023-05-09,NASDAQ
+IPGP,44,IPG Photonics Corporation - Common Stock,2012-10-31,2023-05-02,NASDAQ
+BKE,44,"Buckle, Inc. (The) Common Stock",2012-11-15,2023-05-26,NYSE
+AMCX,44,AMC Networks Inc. - Class A Common Stock,2013-02-26,2023-05-09,NASDAQ
+CENX,44,Century Aluminum Company - Common Stock,2012-11-01,2023-05-08,NASDAQ
+SWIR,44,SWIR,2012-11-01,2023-03-29,
+ANGO,44,"AngioDynamics, Inc. - Common Stock",2013-01-03,2023-03-30,NASDAQ
+FNV,44,Franco,2012-11-08,2023-05-03,NYSE
+EDVMF,44,EDVMF,2013-03-31,2023-05-06,OTC
+VLY,44,Valley National Bancorp - Common Stock,2012-10-26,2023-04-28,NYSE
+CHS,44,"Chico's FAS, Inc. Common Stock",2012-11-20,2023-06-06,NYSE
+PSEC,44,Prospect Capital Corporation - Closed End Fund,2012-11-09,2023-05-10,NASDAQ
+MVIS,44,"MicroVision, Inc. - Common Stock",2012-11-05,2023-05-09,NASDAQ
+UNH,44,UnitedHealth Group Incorporated Common Stock,2013-01-17,2023-04-14,NYSE
+CNQ,44,Canadian Natural Resources Limited Common Stock,2012-11-08,2023-05-04,NYSE
+PKIUF,44,PKIUF,2013-02-26,2023-05-06,OTC
+GPI,44,"Group 1 Automotive, Inc. Common Stock",2013-02-19,2023-04-26,NYSE
+QUAD,44,"Quad Graphics, Inc Class A Common Stock",2013-03-05,2023-05-03,NYSE
+CRK,44,"Comstock Resources, Inc. Common Stock",2012-10-30,2023-05-03,NYSE
+IRDM,44,Iridium Communications Inc - Common Stock,2012-11-01,2023-04-20,NASDAQ
+IDXX,44,"IDEXX Laboratories, Inc. - Common Stock",2012-10-19,2023-05-02,NASDAQ
+KLIC,44,"Kulicke and Soffa Industries, Inc. - Common Stock",2012-11-08,2023-05-04,NASDAQ
+DRH,44,Diamondrock Hospitality Company Common Stock,2013-03-01,2023-05-05,NYSE
+CBRL,44,"Cracker Barrel Old Country Store, Inc. - Common Stock",2012-11-29,2023-06-06,NASDAQ
+MMSI,44,"Merit Medical Systems, Inc. - Common Stock",2013-02-22,2023-04-26,NASDAQ
+SEIC,44,SEI Investments Company - Common Stock,2012-10-24,2023-04-20,NASDAQ
+WETF,44,WETF,2012-10-26,2022-10-28,
+GAIN,44,Gladstone Investment Corporation - Business Development Company,2012-10-30,2023-05-11,NASDAQ
+HAE,44,Haemonetics Corporation Common Stock,2013-01-30,2023-05-11,NYSE
+CNK,44,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock",2012-11-06,2023-05-05,NYSE
+MATX,44,"Matson, Inc. Common Stock",2012-11-07,2023-05-04,NYSE
+BDC,44,Belden Inc Common Stock,2013-02-07,2023-05-03,NYSE
+DHT,44,"DHT Holdings, Inc.",2012-10-24,2023-05-04,NYSE
+MKSI,44,"MKS Instruments, Inc. - Common Stock",2012-10-25,2023-05-04,NASDAQ
+GPC,44,Genuine Parts Company Common Stock,2012-10-18,2023-04-20,NYSE
+HXL,44,Hexcel Corporation Common Stock,2012-10-23,2023-04-25,NYSE
+PWR,44,"Quanta Services, Inc. Common Stock",2012-10-31,2023-05-04,NYSE
+LEG,44,"Leggett & Platt, Incorporated Common Stock",2012-10-30,2023-05-02,NYSE
+TGI,44,"Triumph Group, Inc. Common Stock",2012-10-31,2023-05-17,NYSE
+AUY,44,Yamana Gold Inc. Ordinary Shares (Canada),2012-10-30,2022-10-28,NYSE
+HRL,44,Hormel Foods Corporation Common Stock,2012-11-20,2023-06-01,NYSE
+EXR,44,Extra Space Storage Inc Common Stock,2012-10-30,2023-05-03,NYSE
+ATRO,44,Astronics Corporation - Common Stock,2013-02-05,2023-05-13,NASDAQ
+MEOH,44,Methanex Corporation - Common Stock,2012-10-27,2023-04-28,NASDAQ
+PNR,44,Pentair plc. Ordinary Share,2012-11-01,2023-04-27,NYSE
+BAH,44,Booz Allen Hamilton Holding Corporation Common Stock,2012-10-31,2023-05-26,NYSE
+CGEN,44,Compugen Ltd. - Ordinary Shares,2012-11-05,2023-05-15,NASDAQ
+ORA,44,"Ormat Technologies, Inc. Common Stock",2012-11-07,2023-05-10,NYSE
+CAR,44,"Avis Budget Group, Inc. - Common Stock",2012-11-02,2023-05-02,NASDAQ
+COO,44,"Cooper Companies, Inc. (The) Common Stock",2012-12-06,2023-06-01,NYSE
+NTES,44,"NetEase, Inc. - American Depositary Shares, each representing 5 ordinary shares",2012-11-15,2023-05-25,NASDAQ
+RL,44,Ralph Lauren Corporation Common Stock,2012-11-02,2023-05-25,NYSE
+BOOM,44,DMC Global Inc. - Common Stock,2012-10-30,2023-05-06,NASDAQ
+NYT,44,New York Times Company (The) Common Stock,2012-10-25,2023-05-10,NYSE
+AAN,44,"Aaron's, Inc. Common Stock",2012-10-26,2023-04-25,NYSE
+NMR,44,Nomura Holdings Inc ADR American Depositary Shares,2012-10-29,2023-04-26,NYSE
+FULT,44,Fulton Financial Corporation - Common Stock,2012-10-17,2023-04-19,NASDAQ
+GWW,44,"W.W. Grainger, Inc. Common Stock",2012-11-12,2023-04-27,NYSE
+ENPH,44,"Enphase Energy, Inc. - Common Stock",2013-02-26,2023-04-25,NASDAQ
+EXTR,44,"Extreme Networks, Inc. - Common Stock",2012-10-31,2023-04-26,NASDAQ
+HII,44,"Huntington Ingalls Industries, Inc. Common Stock",2012-11-08,2023-05-04,NYSE
+VRSK,44,"Verisk Analytics, Inc. - Common Stock",2012-11-02,2023-05-03,NASDAQ
+MED,44,MEDIFAST INC Common Stock,2012-11-06,2023-05-01,NYSE
+TAC,44,TransAlta Corporation Ordinary Shares,2012-10-26,2023-05-05,NYSE
+DTE,44,DTE Energy Company Common Stock,2012-10-24,2023-04-27,NYSE
+LII,44,"Lennox International, Inc. Common Stock",2012-10-22,2023-04-27,NYSE
+GEF,44,Greif Inc. Class A Common Stock,2012-12-12,2023-03-02,NYSE
+MRCY,44,Mercury Systems Inc - Common Stock,2013-04-30,2023-05-02,NASDAQ
+FANG,44,"Diamondback Energy, Inc. - Common Stock",2013-02-26,2023-05-02,NASDAQ
+AGEN,44,Agenus Inc. - Common Stock,2012-10-27,2023-05-09,NASDAQ
+DB,44,Deutsche Bank AG Common Stock,2012-10-30,2023-04-27,NYSE
+AJG,44,Arthur J. Gallagher & Co. Common Stock,2012-10-31,2023-04-27,NYSE
+BKD,44,Brookdale Senior Living Inc. Common Stock,2012-11-02,2023-05-09,NYSE
+BXC,44,Bluelinx Holdings Inc. Common Stock,2012-11-01,2023-05-03,NYSE
+CYCC,44,"Cyclacel Pharmaceuticals, Inc. - Common Stock",2012-11-12,2023-05-11,NASDAQ
+AMSC,44,American Superconductor Corporation - Common Stock,2012-11-06,2023-06-01,NASDAQ
+CXW,44,Corrections Corporation of America Common Stock,2012-11-08,2023-05-04,NYSE
+FIBK,44,"First Interstate BancSystem, Inc. - Common Stock",2013-01-29,2023-04-29,NASDAQ
+SLAB,44,"Silicon Laboratories, Inc. - Common Stock",2012-10-24,2023-04-26,NASDAQ
+AER,44,Aercap Holdings N.V. Ordinary Shares,2013-02-20,2023-05-02,NYSE
+AYX,44,AYX,2017-08-02,2023-06-08,NASDAQ
+ENTG,44,"Entegris, Inc. - Common Stock",2012-10-24,2023-05-11,NASDAQ
+O,43,Realty Income Corporation Common Stock,2012-10-25,2023-05-04,NYSE
+HPE,43,HPE,2016-03-04,2023-05-30,NASDAQ
+RES,43,"RPC, Inc. Common Stock",2012-10-24,2023-04-26,NYSE
+FRO,43,Frontline Ltd. Ordinary Shares,2012-11-30,2023-05-31,NYSE
+SIMO,43,"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",2012-10-25,2022-01-27,NASDAQ
+UVV,43,Universal Corporation Common Stock,2012-11-06,2023-05-24,NYSE
+BWEN,43,"Broadwind, Inc. - Common Stock",2012-11-07,2023-05-11,NASDAQ
+SIG,43,Signet Jewelers Limited Common Shares,2013-03-28,2023-03-16,NYSE
+BLDP,43,"Ballard Power Systems, Inc. - Common Shares",2012-10-31,2023-05-10,NASDAQ
+ABR,43,Arbor Realty Trust Common Stock,2012-11-02,2023-05-05,NYSE
+TOL,43,Toll Brothers Inc. Common Stock,2012-12-04,2023-05-24,NYSE
+LECO,43,"Lincoln Electric Holdings, Inc. - Common Shares",2012-10-31,2023-04-27,NASDAQ
+MOD,43,Modine Manufacturing Company Common Stock,2012-11-06,2023-05-25,NYSE
+VMI,43,"Valmont Industries, Inc. Common Stock",2012-10-19,2023-04-21,NYSE
+OC,43,Owens Corning Inc Common Stock New,2012-10-24,2023-04-26,NYSE
+HRZN,43,Horizon Technology Finance Corporation - Common Stock,2012-11-07,2023-05-03,NASDAQ
+HEI,43,Heico Corporation Common Stock,2013-02-21,2023-05-23,NYSE
+PBI,43,Pitney Bowes Inc. Common Stock,2012-11-01,2023-05-05,NYSE
+CPSI,43,"Computer Programs and Systems, Inc. - Common Stock",2012-10-26,2023-05-12,NASDAQ
+DEI,43,"Douglas Emmett, Inc. Common Stock",2012-11-07,2023-05-07,NYSE
+BBW,43,Build,2012-10-25,2023-05-25,NYSE
+CSL,43,Carlisle Companies Incorporated Common Stock,2012-10-23,2023-04-27,NYSE
+BKH,43,Black Hills Corporation Common Stock,2012-11-08,2023-05-04,NYSE
+CUTR,43,"Cutera, Inc. - Common Stock",2012-11-05,2023-05-09,NASDAQ
+EBIX,43,"Ebix, Inc. - Common Stock",2012-11-08,2023-05-10,NASDAQ
+CEVA,43,"CEVA, Inc. - Common Stock",2012-11-01,2023-05-10,NASDAQ
+DLX,43,Deluxe Corporation Common Stock,2012-10-25,2023-05-06,NYSE
+DGX,43,Quest Diagnostics Incorporated Common Stock,2012-11-16,2023-04-27,NYSE
+ARE,43,"Alexandria Real Estate Equities, Inc. Common Stock",2012-10-29,2023-04-25,NYSE
+ACN,43,Accenture plc. Class A Ordinary Shares (Ireland),2012-12-19,2023-03-23,NYSE
+AMRS,43,"Amyris, Inc. - Common Stock",2012-11-06,2023-05-09,NASDAQ
+PBH,43,"Prestige Brand Holdings, Inc. Common Stock",2013-02-07,2023-05-06,NYSE
+MERC,43,Mercer International Inc. - Common Stock,2012-11-02,2023-05-05,NASDAQ
+SF,43,Stifel Financial Corporation Common Stock,2012-11-05,2023-04-26,NYSE
+NPTN,43,NeoPhotonics Corporation Common Stock,2012-11-02,2021-08-03,NYSE
+SXT,43,Sensient Technologies Corporation Common Stock,2013-02-08,2023-04-28,NYSE
+OFG,43,OFG Bancorp Common Stock,2013-02-08,2023-04-20,NYSE
+ZEUS,43,"Olympic Steel, Inc. - Common Stock",2012-11-08,2023-05-05,NASDAQ
+SPB,43,"Spectrum Brands Holdings, Inc. Common Stock",2012-11-14,2023-05-12,NYSE
+SCS,43,Steelcase Inc. Common Stock,2012-12-20,2023-03-23,NYSE
+BERY,43,"Berry Plastics Group, Inc. Common Stock",2012-11-27,2023-05-04,NYSE
+IEX,43,IDEX Corporation Common Stock,2012-10-23,2023-04-27,NYSE
+WAL,43,Western Alliance Bancorporation Common Stock (DE),2013-01-25,2023-04-19,NYSE
+SKX,43,"Skechers U.S.A., Inc. Common Stock",2012-10-24,2023-04-28,NYSE
+IDA,43,"IDACORP, Inc. Common Stock",2013-02-21,2023-05-07,NYSE
+UPS,43,"United Parcel Service, Inc. Common Stock",2012-10-23,2023-04-25,NYSE
+SLGN,43,SLGN,2012-10-24,2023-04-26,NASDAQ
+NNN,43,National Retail Properties Common Stock,2012-11-05,2023-05-02,NYSE
+CNX,43,CONSOL Energy Inc. Common Stock,2012-10-25,2023-04-27,NYSE
+BP,43,BP p.l.c. Common Stock,2012-10-30,2023-05-02,NYSE
+TAST,43,"Carrols Restaurant Group, Inc. - Common Stock",2012-11-06,2023-05-11,NASDAQ
+TYL,43,"Tyler Technologies, Inc. Common Stock",2013-02-07,2023-04-27,NYSE
+GES,43,"Guess?, Inc. Common Stock",2012-11-28,2023-05-24,NYSE
+LEA,43,Lear Corporation Common Stock,2012-10-26,2023-04-27,NYSE
+MKTX,43,"MarketAxess Holdings, Inc. - Common Stock",2013-01-30,2023-04-26,NASDAQ
+MTG,43,MGIC Investment Corporation Common Stock,2012-11-09,2023-05-04,NYSE
+UNIT,43,Uniti Group Inc. - Common Stock,2017-04-11,2023-05-04,NASDAQ
+SBRA,43,"Sabra Health Care REIT, Inc. - Common Stock",2013-02-28,2023-05-04,NASDAQ
+CBOE,43,CBOE,2012-11-01,2023-05-05,NASDAQ
+PAYX,43,"Paychex, Inc. - Common Stock",2012-12-20,2023-03-29,NASDAQ
+NOV,43,"National Oilwell Varco, Inc. Common Stock",2012-10-25,2023-04-27,NYSE
+AMRC,43,"Ameresco, Inc. Class A Common Stock",2012-11-08,2023-05-01,NYSE
+DIN,43,"DineEquity, Inc Common Stock",2013-02-27,2023-05-03,NYSE
+NBR,43,Nabors Industries Ltd.,2012-10-24,2023-04-25,NYSE
+AMED,43,Amedisys Inc - Common Stock,2012-11-06,2023-02-16,NASDAQ
+WRE,43,Washington Real Estate Investment Trust Common Stock,2012-10-26,2022-07-29,NYSE
+PSMT,43,"PriceSmart, Inc. - Common Stock",2012-10-31,2023-04-11,NASDAQ
+WYNN,43,"Wynn Resorts, Limited - Common Stock",2012-10-24,2023-05-09,NASDAQ
+GTLS,43,GTLS,2012-11-02,2023-04-28,NASDAQ
+NAVB,43,NAVB,2012-11-09,2023-03-21,NYSE
+BOH,43,Bank of Hawaii Corporation Common Stock,2012-10-22,2023-04-24,NYSE
+LFUS,43,"Littelfuse, Inc. - Common Stock",2013-02-05,2023-05-03,NASDAQ
+ATR,43,"AptarGroup, Inc. Common Stock",2012-11-02,2023-04-28,NYSE
+CDXS,43,"Codexis, Inc. - Common Stock",2012-11-07,2023-02-23,NASDAQ
+PPC,43,Pilgrim's Pride Corporation - Common Stock,2012-10-26,2023-04-27,NASDAQ
+LTRX,43,"Lantronix, Inc. - Common Stock",2013-02-01,2023-05-10,NASDAQ
+FCF,43,First Commonwealth Financial Corporation Common Stock,2013-01-30,2023-04-26,NYSE
+LTBR,43,Lightbridge Corporation - Common Stock,2012-11-09,2023-05-11,NASDAQ
+VNDA,43,Vanda Pharmaceuticals Inc. - Common Stock,2012-11-08,2023-05-03,NASDAQ
+CI,43,Cigna Corporation Common Stock,2012-11-01,2023-05-05,NYSE
+UMC,43,United Microelectronics Corporation (NEW) Common Stock,2012-10-31,2023-04-26,NYSE
+MDRX,43,Veradigm Inc. - common stock,2012-11-08,2022-11-05,NASDAQ
+WSM,43,Williams,2012-11-14,2023-05-23,NYSE
+ASYS,43,"Amtech Systems, Inc. - Common Stock",2012-12-05,2023-05-10,NASDAQ
+AWI,43,Armstrong World Industries Inc Common Stock,2012-10-31,2023-04-25,NYSE
+BYD,43,Boyd Gaming Corporation Common Stock,2012-11-01,2023-04-25,NYSE
+SRCL,43,"Stericycle, Inc. - Common Stock",2012-10-24,2023-04-27,NASDAQ
+HUM,43,Humana Inc. Common Stock,2012-11-05,2023-04-26,NYSE
+AXTI,43,AXT Inc - Common Stock,2012-11-01,2023-04-27,NASDAQ
+USNA,43,"USANA Health Sciences, Inc. Common Stock",2012-10-24,2023-04-26,NYSE
+ATSG,43,"Air Transport Services Group, Inc - Common Stock",2012-11-09,2023-05-05,NASDAQ
+KFRC,43,"Kforce, Inc. - Common Stock",2012-10-30,2023-05-08,NASDAQ
+MMC,43,"Marsh & McLennan Companies, Inc. Common Stock",2012-11-06,2023-04-20,NYSE
+LANC,43,Lancaster Colony Corporation - Common Stock,2013-01-31,2023-05-06,NASDAQ
+MWA,43,MUELLER WATER PRODUCTS Common Stock,2012-10-31,2023-05-12,NYSE
+GBDC,43,"Golub Capital BDC, Inc. - Closed End Fund",2012-11-29,2023-05-09,NASDAQ
+R,43,"Ryder System, Inc. Common Stock",2012-10-23,2023-04-26,NYSE
+AYR,43,Aircastle Limited Common Stock,2012-11-06,2023-04-25,NYSE
+HA,43,"Hawaiian Holdings, Inc. - Common Stock",2012-10-23,2023-04-25,NASDAQ
+NYMT,43,"New York Mortgage Trust, Inc. - Common Stock",2012-11-09,2023-05-04,NASDAQ
+VC,43,Visteon Corporation - Common Stock,2012-11-01,2023-04-27,NYSE
+NUS,43,"Nu Skin Enterprises, Inc. Common Stock",2012-10-31,2023-05-03,NYSE
+AWR,43,American States Water Company Common Stock,2012-11-05,2023-05-11,NYSE
+CNTY,43,"Century Casinos, Inc. - Common Stock",2013-03-28,2023-05-09,NASDAQ
+INGR,43,Ingredion Incorporated Common Stock,2013-02-07,2023-05-03,NYSE
+UHS,43,"Universal Health Services, Inc. Common Stock",2012-10-31,2023-04-26,NYSE
+BRO,43,"Brown & Brown, Inc. Common Stock",2013-02-04,2023-04-25,NYSE
+AIT,43,"Applied Industrial Technologies, Inc. Common Stock",2013-01-31,2023-04-27,NYSE
+CSV,43,"Carriage Services, Inc. Common Stock",2013-02-26,2023-05-05,NYSE
+RE,43,"Everest Re Group, Ltd. Common Stock",2012-10-25,2023-05-02,NYSE
+DD,43,E.I. du Pont de Nemours and Company Common Stock,2012-10-23,2023-05-02,NYSE
+SMSI,43,"Smith Micro Software, Inc. - Common Stock",2012-11-01,2023-05-11,NASDAQ
+CVLT,43,"Commvault Systems, Inc. - Common Stock",2012-10-30,2023-05-02,NASDAQ
+RIOCF,43,RIOCF,2013-02-14,2023-05-11,OTC
+EXLS,43,"ExlService Holdings, Inc. - Common Stock",2013-03-01,2023-04-29,NASDAQ
+ELS,43,"Equity Lifestyle Properties, Inc. Common Stock",2013-01-29,2023-04-18,NYSE
+ORN,43,Orion Marine Group Inc Common,2013-05-02,2023-05-09,NYSE
+NSIT,43,"Insight Enterprises, Inc. - Common Stock",2013-02-14,2023-05-02,NASDAQ
+OLN,43,Olin Corporation Common Stock,2012-10-26,2023-04-28,NYSE
+SBLK,43,Star Bulk Carriers Corp. - Common Shares,2012-11-30,2023-05-17,NASDAQ
+NXST,43,"Nexstar Media Group, Inc. - Common Stock",2012-11-06,2023-05-09,NASDAQ
+BCO,43,Brinks Company (The) Common Stock,2013-02-01,2023-05-10,NYSE
+TXRH,43,"Texas Roadhouse, Inc. - Common Stock",2012-11-01,2023-05-04,NASDAQ
+TLYS,43,"Tilly's, Inc. Common Stock",2013-03-20,2023-06-01,NYSE
+LTC,43,"LTC Properties, Inc. Common Stock",2012-11-09,2023-04-28,NYSE
+GLAD,43,Gladstone Capital Corporation - Closed End Fund,2012-11-13,2023-05-03,NASDAQ
+BKCC,43,BlackRock Capital Investment Corporation - Closed End Fund,2012-11-08,2023-05-02,NASDAQ
+FLS,43,Flowserve Corporation Common Stock,2012-10-30,2023-05-02,NYSE
+SLRC,43,SLR Investment Corp. - Closed End Fund,2012-11-02,2023-05-11,NASDAQ
+IAG,43,Iamgold Corporation Ordinary Shares,2012-11-14,2023-05-12,NYSE
+CPLP,43,Capital Product Partners L.P. - common units representing limited partner interests,2012-10-31,2023-05-06,NASDAQ
+CMP,43,Compass Minerals Intl Inc Common Stock,2012-10-29,2023-05-10,NYSE
+CERS,43,Cerus Corporation - Common Stock,2012-11-07,2023-05-04,NASDAQ
+EME,43,"EMCOR Group, Inc. Common Stock",2013-02-26,2023-04-27,NYSE
+BFAM,43,Bright Horizons Family Solutions Inc. Common Stock,2013-03-13,2023-05-02,NYSE
+WCN,43,"Waste Connections, Inc. Common Stock",2012-10-23,2023-04-27,NYSE
+COLM,43,Columbia Sportswear Company - Common Stock,2012-10-25,2023-04-27,NASDAQ
+GRMN,43,GRMN,2012-10-31,2023-05-03,NASDAQ
+PRI,43,"Primerica, Inc. Common Stock",2012-11-08,2023-05-09,NYSE
+OGE,43,OGE Energy Corporation Common Stock,2012-11-07,2023-05-04,NYSE
+FNB,43,F.N.B. Corporation Common Stock,2012-10-23,2023-04-20,NYSE
+KBR,43,"KBR, Inc. Common Stock",2012-10-25,2023-05-01,NYSE
+CRS,43,Carpenter Technology Corporation Common Stock,2012-10-23,2023-04-27,NYSE
+TXT,43,Textron Inc. Common Stock,2012-10-17,2023-04-27,NYSE
+PGTI,43,PGTI,2012-11-02,2023-05-11,NASDAQ
+LNT,43,Alliant Energy Corporation - Common Stock,2012-11-09,2023-05-05,NYSE
+AEL,43,American Equity Investment Life Holding Company Common Stock,2013-02-21,2023-05-13,NYSE
+ACCO,43,Acco Brands Corporation Common Stock,2012-11-01,2023-05-05,NYSE
+EVR,43,Evercore Partners Inc Class A Common Stock,2013-01-30,2023-04-26,NYSE
+NFG,43,National Fuel Gas Company Common Stock,2012-11-02,2023-05-04,NYSE
+SAM,43,"Boston Beer Company, Inc. (The) Common Stock",2012-11-01,2023-04-27,NYSE
+RH,43,Restoration Hardware Holdings Inc. Common Stock,2013-04-18,2023-05-25,NYSE
+FIS,43,"Fidelity National Information Services, Inc. Common Stock",2012-11-05,2023-04-27,NYSE
+GTY,43,Getty Realty Corporation Common Stock,2012-11-10,2023-04-27,NYSE
+STBA,43,"S&T Bancorp, Inc. - Common Stock",2013-04-23,2023-04-20,NASDAQ
+TEL,43,TE Connectivity Ltd. New Switzerland Registered Shares,2012-11-05,2023-04-26,NYSE
+LNN,43,Lindsay Corporation Common Stock,2012-10-17,2023-04-04,NYSE
+CFR,43,"Cullen/Frost Bankers, Inc. Common Stock",2012-10-24,2023-04-27,NYSE
+NOA,43,"North American Energy Partners, Inc. Common Shares (no par)",2012-11-01,2023-04-30,NYSE
+VMC,43,Vulcan Materials Company (Holding Company) Common Stock,2012-11-08,2023-05-04,NYSE
+MTDR,43,Matador Resources Company Common Stock,2013-03-14,2023-04-26,NYSE
+TUP,43,Tupperware Brands Corporation Common Stock,2012-10-24,2023-03-01,NYSE
+AN,43,"AutoNation, Inc. Common Stock",2012-10-25,2023-04-20,NYSE
+VRTS,43,"Virtus Investment Partners, Inc. - Common Stock",2013-01-30,2023-04-28,NASDAQ
+POOL,43,Pool Corporation - Common Stock,2012-10-18,2023-04-20,NASDAQ
+GPN,43,Global Payments Inc. Common Stock,2012-11-10,2023-05-01,NYSE
+UAN,43,"CVR Partners, LP Common Units representing Limited Partner Interests",2012-11-06,2023-05-02,NYSE
+RCL,43,Royal Caribbean Cruises Ltd. Common Stock,2012-10-25,2023-05-04,NYSE
+FOSL,43,"Fossil Group, Inc. - Common Stock",2012-11-06,2023-05-10,NASDAQ
+TTEK,43,"Tetra Tech, Inc. - Common Stock",2012-11-08,2023-05-11,NASDAQ
+DMRC,43,Digimarc Corporation - Common Stock,2012-10-26,2023-05-11,NASDAQ
+ODFL,43,"Old Dominion Freight Line, Inc. - Common Stock",2012-10-25,2023-04-26,NASDAQ
+WOR,43,"Worthington Industries, Inc. Common Stock",2013-01-03,2023-03-23,NYSE
+ARC,43,"ARC Document Solutions, Inc. Common Stock",2012-11-05,2023-05-07,NYSE
+MAIN,43,Main Street Capital Corporation Common Stock,2012-11-08,2023-05-05,NYSE
+NVEC,43,NVE Corporation - Common Stock,2012-10-17,2023-05-03,NASDAQ
+GLRE,43,"Greenlight Reinsurance, Ltd. - Class A Ordinary Shares",2012-11-01,2023-05-10,NASDAQ
+GGG,43,Graco Inc. Common Stock,2012-10-25,2023-04-27,NYSE
+TREX,43,"Trex Company, Inc. Common Stock",2013-02-19,2023-05-08,NYSE
+HI,43,Hillenbrand Inc Common Stock,2012-11-27,2023-05-09,NYSE
+LXU,43,"LSB Industries, Inc. Common Stock",2012-11-07,2023-05-03,NYSE
+HR,43,Healthcare Realty Trust Incorporated Common Stock,2012-11-08,2023-05-09,NYSE
+TCBI,43,"Texas Capital Bancshares, Inc. - Common Stock",2013-01-24,2023-04-20,NASDAQ
+LXP,43,Lexington Realty Trust Common Stock,2012-11-06,2023-05-03,NYSE
+GLNG,43,Golar LNG Limited - Common Shares,2012-11-28,2023-05-30,NASDAQ
+ATO,43,Atmos Energy Corporation Common Stock,2012-11-08,2023-05-04,NYSE
+FAST,43,Fastenal Company - Common Stock,2013-01-17,2023-04-13,NASDAQ
+KMX,43,CarMax Inc,2012-12-20,2023-04-11,NYSE
+RPT,43,Ramco,2012-10-24,2023-05-06,NYSE
+CORT,43,Corcept Therapeutics Incorporated - Common Stock,2012-11-01,2023-02-28,NASDAQ
+UHAL,43,UHAL,2013-02-07,2023-05-31,NASDAQ
+ACGL,43,Arch Capital Group Ltd. - Common Stock,2012-11-02,2023-04-27,NASDAQ
+OMCL,43,"Omnicell, Inc. - Common Stock",2013-01-31,2023-05-02,NASDAQ
+NKE,43,"Nike, Inc. Common Stock",2012-12-20,2023-03-21,NYSE
+LPSN,43,"LivePerson, Inc. - Common Stock",2012-11-07,2023-05-09,NASDAQ
+RS,43,Reliance Steel & Aluminum Co. Common Stock,2012-10-25,2023-04-27,NYSE
+INVE,43,"Identiv, Inc. - Common Stock",2012-11-01,2023-05-06,NASDAQ
+ROIC,43,Retail Opportunity Investments Corp. - Common Stock,2012-11-01,2023-04-26,NASDAQ
+GME,43,Gamestop Corporation Common Stock,2012-11-15,2023-03-21,NYSE
+WPRT,43,Westport Fuel Systems Inc - Common Shares,2012-11-08,2023-05-10,NASDAQ
+GLDD,43,Great Lakes Dredge & Dock Corporation - Common Stock,2012-11-06,2023-05-02,NASDAQ
+CLH,43,"Clean Harbors, Inc. Common Stock",2012-11-07,2023-05-03,NYSE
+Z,43,"Zillow Group, Inc. - Class C Capital Stock",2012-11-06,2023-05-03,NASDAQ
+ALE,43,"Allete, Inc.",2012-10-31,2023-05-03,NYSE
+L,43,Loews Corporation Common Stock,2012-10-29,2022-10-31,NYSE
+TROX,43,Tronox Limited Ordinary Shares Class A $0.01 par,2013-02-21,2023-04-27,NYSE
+DY,43,"Dycom Industries, Inc. Common Stock",2013-02-27,2023-05-24,NYSE
+LUNA,43,Luna Innovations Incorporated - Common Stock,2012-11-08,2023-05-09,NASDAQ
+NDSN,43,Nordson Corporation - Common Stock,2012-12-14,2023-05-23,NASDAQ
+NLST,43,NLST,2012-11-13,2023-04-25,OTC
+JCI,43,"Johnson Controls, Inc. Common Stock",2012-10-30,2023-05-05,NYSE
+NLY,43,Annaly Capital Management Inc Common Stock,2012-11-06,2023-04-27,NYSE
+NRG,43,"NRG Energy, Inc. Common Stock",2012-11-02,2023-05-04,NYSE
+ERII,43,"Energy Recovery, Inc. - Common Stock",2012-11-08,2023-05-03,NASDAQ
+HDSN,43,"Hudson Technologies, Inc. - Common Stock",2013-02-28,2023-05-03,NASDAQ
+SANW,43,S&W Seed Company - Common Stock,2013-02-13,2023-05-13,NASDAQ
+KRG,43,Kite Realty Group Trust Common Stock,2012-11-02,2023-05-08,NYSE
+RMTI,43,"Rockwell Medical, Inc. - Common Stock",2013-03-18,2023-05-15,NASDAQ
+WIRE,43,Encore Wire Corporation - Common Stock,2012-10-25,2023-04-26,NASDAQ
+AVD,43,American Vanguard Corporation Common Stock ($0.10 Par Value),2012-11-01,2023-05-13,NYSE
+AES,43,The AES Corporation Common Stock,2012-11-07,2023-05-05,NYSE
+KTOS,43,"Kratos Defense & Security Solutions, Inc. - Common Stock",2012-11-08,2023-05-03,NASDAQ
+SSNC,43,"SS&C Technologies Holdings, Inc. - Common Stock",2013-05-01,2023-04-27,NASDAQ
+DVA,43,DaVita HealthCare Partners Inc. Common Stock,2012-10-30,2023-05-08,NYSE
+MHO,43,"M/I Homes, Inc. Common Stock",2013-01-31,2023-04-26,NYSE
+HAIN,43,"The Hain Celestial Group, Inc. - Common Stock",2012-11-01,2023-05-09,NASDAQ
+WLL,43,Whiting Petroleum Corporation Common Stock,2012-10-25,2022-02-24,NYSE
+GHL,43,"Greenhill & Co., Inc. Common Stock",2012-10-17,2023-05-07,NYSE
+TWI,43,"Titan International, Inc. Common Stock",2012-10-25,2023-05-06,NYSE
+BDN,43,Brandywine Realty Trust Common Stock,2012-10-25,2023-04-20,NYSE
+ITT,43,ITT Corporation Common Stock New,2012-11-02,2023-05-06,NYSE
+MPW,43,"Medical Properties Trust, Inc. common stock",2012-10-30,2023-04-27,NYSE
+HSTM,43,"HealthStream, Inc. - Common Stock",2012-10-23,2023-04-25,NASDAQ
+RGEN,43,Repligen Corporation - Common Stock,2012-11-08,2023-05-02,NASDAQ
+BIDU,43,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",2012-10-30,2023-05-16,NASDAQ
+AEO,43,"American Eagle Outfitters, Inc. Common Stock",2012-11-28,2023-05-24,NYSE
+STWD,43,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.",2012-11-08,2023-05-04,NYSE
+MTD,43,Mettler,2012-11-01,2023-05-05,NYSE
+SAVE,43,SAVE,2012-10-31,2023-04-27,NASDAQ
+PXLW,43,"Pixelworks, Inc. - Common Stock",2012-10-22,2023-05-09,NASDAQ
+DECK,43,Deckers Outdoor Corporation Common Stock,2012-10-25,2023-05-25,NYSE
+CVI,43,CVR Energy Inc. Common Stock,2012-11-06,2023-05-02,NYSE
+NWN,43,Northwest Natural Gas Company Common Stock,2012-11-06,2023-05-04,NYSE
+QUIK,43,QuickLogic Corporation - Common Stock,2012-10-30,2023-05-16,NASDAQ
+CTXS,43,CTXS,2012-10-24,2021-11-04,
+GPRE,43,"Green Plains, Inc. - Common Stock",2012-10-31,2023-05-06,NASDAQ
+GCO,43,Genesco Inc. Common Stock,2012-11-30,2023-05-25,NYSE
+NHI,43,"National Health Investors, Inc. Common Stock",2012-11-05,2023-05-10,NYSE
+STE,43,STERIS Corporation Common Stock,2013-02-06,2023-05-11,NYSE
+TZOO,43,Travelzoo - Common Stock,2012-10-26,2023-04-29,NASDAQ
+OHI,43,"Omega Healthcare Investors, Inc. Common Stock",2012-10-26,2023-05-03,NYSE
+HIMX,43,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares.",2012-11-08,2023-05-11,NASDAQ
+GOOD,43,Gladstone Commercial Corporation - Real Estate Investment Trust,2012-11-02,2023-05-04,NASDAQ
+DAR,43,Darling Ingredients Inc. Common Stock,2012-11-09,2023-05-10,NYSE
+OII,43,"Oceaneering International, Inc. Common Stock",2012-10-30,2023-04-27,NYSE
+FL,43,"Foot Locker, Inc.",2012-11-16,2023-05-19,NYSE
+ACIW,43,"ACI Worldwide, Inc. - Common Stock",2013-02-28,2023-05-06,NASDAQ
+TRN,43,"Trinity Industries, Inc. Common Stock",2012-10-25,2023-05-02,NYSE
+ARW,43,"Arrow Electronics, Inc. Common Stock",2012-10-31,2023-05-05,NYSE
+YUM,43,"Yum! Brands, Inc.",2012-12-06,2023-05-03,NYSE
+MAN,43,ManpowerGroup Common Stock,2012-10-19,2023-04-20,NYSE
+PNNT,43,PNNT,2012-11-15,2023-05-11,NASDAQ
+INN,43,"Summit Hotel Properties, Inc. Common Stock",2013-02-27,2023-05-06,NYSE
+PLAB,43,"Photronics, Inc. - Common Stock",2012-12-05,2023-05-24,NASDAQ
+HSC,43,Harsco Corporation Common Stock,2012-11-01,2023-05-07,NYSE
+PEGA,43,Pegasystems Inc. - Common Stock,2012-11-09,2023-04-26,NASDAQ
+ESS,43,"Essex Property Trust, Inc. Common Stock",2012-11-01,2023-04-28,NYSE
+ACLS,43,"Axcelis Technologies, Inc. - Common Stock",2012-11-02,2023-05-04,NASDAQ
+SRC,43,"Spirit Realty Capital, Inc. Common Stock",2012-11-07,2023-05-04,NYSE
+SHW,43,Sherwin,2012-10-25,2023-04-25,NYSE
+CWT,43,California Water Service Group Common Stock,2012-11-07,2023-04-28,NYSE
+HIBB,43,"Hibbett, Inc. - Common Stock",2012-11-16,2023-05-26,NASDAQ
+ACRX,43,"AcelRx Pharmaceuticals, Inc. - Common Stock",2013-03-06,2023-05-10,NASDAQ
+THRM,43,Gentherm Inc - Common Stock,2013-03-06,2023-04-29,NASDAQ
+MBI,43,MBIA Inc. Common Stock,2012-11-08,2023-05-10,NYSE
+GEOS,43,Geospace Technologies Corporation - Common Stock,2012-12-12,2023-05-12,NASDAQ
+SPG,43,"Simon Property Group, Inc. Common Stock",2012-10-25,2023-05-02,NYSE
+X,43,United States Steel Corporation Common Stock,2012-10-30,2023-04-28,NYSE
+BIO,43,Bio,2012-11-06,2023-05-04,NYSE
+REX,43,REX American Resources Corporation,2013-03-28,2023-05-25,NYSE
+TTEC,43,"TTEC Holdings, Inc. - Common Stock",2013-02-27,2023-05-06,NASDAQ
+ON,43,ON Semiconductor Corporation - Common Stock,2015-05-04,2023-06-06,NASDAQ
+MCHX,43,"Marchex, Inc. - Class B Common Stock",2013-02-27,2023-05-07,NASDAQ
+BIOL,43,"Biolase, Inc. - Common Stock",2012-11-06,2023-05-11,NASDAQ
+SUI,43,"Sun Communities, Inc. Common Stock",2012-10-25,2023-04-27,NYSE
+SHO,43,"Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares",2012-11-02,2023-05-05,NYSE
+NHYDY,43,NHYDY,2012-10-23,2023-04-28,OTC
+PEI,43,Pennsylvania Real Estate Investment Trust Common Stock,2012-10-24,2022-11-08,NYSE
+BLDR,43,BLDR,2012-10-19,2023-05-03,NASDAQ
+RHI,43,Robert Half International Inc. Common Stock,2012-10-18,2023-04-26,NYSE
+HT,43,Hersha Hospitality Trust Class A Common Shares of Beneficial Interest,2012-11-01,2023-04-27,NYSE
+ASH,43,Ashland Inc. (NEW) Common Stock,2012-10-30,2023-05-03,NYSE
+HEES,43,"H&E Equipment Services, Inc. - Common Stock",2013-03-05,2023-04-30,NASDAQ
+BECN,43,"Beacon Roofing Supply, Inc. - Common Stock",2013-02-08,2023-05-07,NASDAQ
+BCPC,43,Balchem Corporation - Common Stock,2012-11-02,2023-04-28,NASDAQ
+JJSF,43,J & J Snack Foods Corp. - Common Stock,2013-01-29,2023-05-02,NASDAQ
+MHK,43,"Mohawk Industries, Inc. Common Stock",2012-11-02,2023-04-28,NYSE
+FCN,43,"FTI Consulting, Inc. Common Stock",2012-11-08,2023-04-28,NYSE
+TILE,43,"Interface, Inc. - Common Stock",2013-02-15,2023-05-05,NASDAQ
+SBH,43,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",2012-11-15,2023-05-06,NYSE
+AMZN,43,"Amazon.com, Inc. - Common Stock",2012-10-26,2023-04-27,NASDAQ
+AINV,43,AINV,2012-11-08,2022-08-02,
+MIDD,43,The Middleby Corporation - Common Stock,2012-11-07,2023-05-10,NASDAQ
+BMI,43,"Badger Meter, Inc. Common Stock",2013-02-07,2023-04-20,NYSE
+GNE,43,Genie Energy Ltd. Class B Common Stock Stock,2013-03-13,2023-05-08,NYSE
+POST,43,"Post Holdings, Inc. Common Stock",2013-02-07,2023-05-05,NYSE
+MKL,43,Markel Corporation Common Stock,2012-11-09,2023-04-27,NYSE
+TEN,42,Tenneco Inc. Common Stock,2012-10-25,2021-11-05,NYSE
+IVZ,42,Invesco Plc New Common Stock,2012-11-01,2023-04-25,NYSE
+MANH,42,"Manhattan Associates, Inc. - Common Stock",2013-01-29,2023-04-25,NASDAQ
+RCKY,42,"Rocky Brands, Inc. - Common Stock",2012-10-24,2023-05-02,NASDAQ
+GHM,42,Graham Corporation Common Stock,2012-10-26,2023-02-06,NYSE
+DGII,42,Digi International Inc. - Common Stock,2013-01-25,2023-05-06,NASDAQ
+ULBI,42,Ultralife Corporation - Common Stock,2013-02-14,2023-04-30,NASDAQ
+LPX,42,Louisiana,2012-11-06,2023-05-03,NYSE
+NCR,42,NCR Corporation Common Stock,2012-10-18,2023-05-04,NYSE
+HBM,42,Hudbay Minerals Inc Ordinary Shares (Canada),2013-05-04,2023-05-09,NYSE
+DSX,42,Diana Shipping inc. common stock,2012-11-20,2023-05-26,NYSE
+BRKS,42,BRKS,2012-11-08,2021-11-10,
+WD,42,"Walker & Dunlop, Inc Common Stock",2013-03-06,2023-05-04,NYSE
+PNM,42,"PNM Resources, Inc. (Holding Co.) Common Stock",2012-11-02,2023-05-05,NYSE
+NSP,42,"Insperity, Inc. Common Stock",2013-02-08,2023-04-26,NYSE
+KAMN,42,Kaman Corporation Common Stock,2013-02-26,2023-05-04,NYSE
+VECO,42,Veeco Instruments Inc. - Common Stock,2012-10-22,2023-05-08,NASDAQ
+FET,42,"Forum Energy Technologies, Inc. Common Stock",2013-02-15,2023-05-05,NYSE
+PZZA,42,"Papa John's International, Inc. - Common Stock",2013-02-27,2023-05-04,NASDAQ
+PRAA,42,"PRA Group, Inc. - Common Stock",2012-10-31,2023-05-08,NASDAQ
+ENV,42,"Envestnet, Inc Common Stock",2013-05-17,2023-05-06,NYSE
+SMLP,42,"Summit Midstream Partners, LP Common Units Representing Limited Partner Interests",2012-11-13,2023-05-05,NYSE
+TGB,42,TGB,2012-11-01,2023-02-24,NYSE
+ARLP,42,"Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests",2012-10-26,2023-05-02,NASDAQ
+ACHC,42,"Acadia Healthcare Company, Inc. - Common Stock",2013-05-02,2023-04-27,NASDAQ
+CJREF,42,CJREF,2012-10-25,2023-04-13,OTC
+ICLR,42,ICON plc - Ordinary Shares,2013-02-19,2023-04-27,NASDAQ
+GIII,42,"G-III Apparel Group, LTD. - Common Stock",2013-04-02,2023-06-06,NASDAQ
+EPAM,42,"EPAM Systems, Inc. Common Stock",2013-02-28,2023-05-05,NYSE
+PRMW,42,PRMW,2012-11-07,2023-05-07,NASDAQ
+ORLY,42,"O'Reilly Automotive, Inc. - Common Stock",2012-10-25,2023-04-27,NASDAQ
+LVS,42,Las Vegas Sands Corp. Common Stock,2012-11-01,2023-04-19,NYSE
+KMT,42,Kennametal Inc. Common Stock,2012-10-24,2023-05-02,NYSE
+ICAD,42,icad inc. - Common Stock,2012-10-31,2023-05-15,NASDAQ
+EGY,42,Vaalco Energy Inc Common Stock,2012-11-09,2023-05-10,NYSE
+WTI,42,"W&T Offshore, Inc. Common Stock",2012-10-31,2023-05-10,NYSE
+CLDT,42,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,2013-02-20,2023-05-04,NYSE
+BLX,42,"Banco Latinoamericano de Comercio Exterior, S.A.",2012-10-17,2023-04-19,NYSE
+AME,42,"AMETEK, Inc.",2012-10-23,2023-05-02,NYSE
+ADUS,42,Addus HomeCare Corporation - Common Stock,2013-03-13,2023-05-02,NASDAQ
+GS,42,"Goldman Sachs Group, Inc. (The) Common Stock",2013-01-16,2020-01-15,NYSE
+CMCO,42,Columbus McKinnon Corporation - Common Stock,2013-05-23,2023-05-25,NASDAQ
+STNG,42,Scorpio Tankers Inc. Common Shares,2013-02-26,2023-05-02,NYSE
+NC,42,"NACCO Industries, Inc. Common Stock",2013-03-07,2023-05-06,NYSE
+LFVN,42,Lifevantage Corporation - Common Stock,2013-02-07,2023-05-07,NASDAQ
+ALIM,42,"Alimera Sciences, Inc. - Common Stock",2012-11-07,2023-03-31,NASDAQ
+PRA,42,ProAssurance Corporation Common Stock,2013-02-20,2023-05-13,NYSE
+CUBE,42,CubeSmart Common Shares,2013-02-22,2023-04-28,NYSE
+ASGN,42,"On Assignment, Inc. Common Stock",2013-02-14,2023-04-26,NYSE
+TRMB,42,Trimble Inc. - Common Stock,2012-11-01,2023-05-03,NASDAQ
+UCBI,42,"United Community Banks, Inc. - Common Stock",2013-01-24,2023-04-19,NASDAQ
+TREE,42,"LendingTree, Inc. - Common Stock",2013-03-13,2023-05-02,NASDAQ
+VSAT,42,"ViaSat, Inc. - Common Stock",2013-02-07,2023-05-17,NASDAQ
+MAA,42,Mid,2013-02-07,2023-04-27,NYSE
+ALLT,42,Allot Ltd. - Ordinary Shares,2012-10-30,2023-05-16,NASDAQ
+CTAS,42,Cintas Corporation - Common Stock,2012-12-20,2023-03-29,NASDAQ
+FMX,42,Fomento Economico Mexicano S.A.B. de C.V. Common Stock,2012-10-25,2023-04-28,NYSE
+QLYS,42,"Qualys, Inc. - Common Stock",2012-11-05,2023-05-04,NASDAQ
+TER,42,"Teradyne, Inc. - Common Stock",2012-10-25,2023-04-27,NYSE
+UMBF,42,UMB Financial Corporation - Common Stock,2013-04-24,2023-04-26,NASDAQ
+DCO,42,Ducommun Incorporated Common Stock,2013-03-04,2023-05-05,NYSE
+CNP,42,"CenterPoint Energy, Inc (Holding Co) Common Stock",2012-11-07,2023-04-27,NYSE
+WRLD,42,World Acceptance Corporation - Common Stock,2013-01-30,2023-05-05,NASDAQ
+MRC,42,MRC Global Inc. Common Stock,2013-02-22,2023-05-12,NYSE
+PLXS,42,Plexus Corp. - Common Stock,2013-04-18,2023-04-30,NASDAQ
+SEM,42,Select Medical Holdings Corporation Common Stock,2013-02-22,2023-05-05,NYSE
+KW,42,Kennedy,2013-03-13,2023-05-06,NYSE
+BBSI,42,"Barrett Business Services, Inc. - Common Stock",2012-10-24,2023-05-06,NASDAQ
+THS,42,"Treehouse Foods, Inc. Common Stock",2013-02-21,2023-05-08,NYSE
+BHE,42,"Benchmark Electronics, Inc. Common Stock",2013-02-04,2023-05-08,NYSE
+TITN,42,Titan Machinery Inc. - Common Stock,2012-12-06,2023-05-25,NASDAQ
+SBCF,42,Seacoast Banking Corporation of Florida - Common Stock,2013-04-26,2023-04-28,NASDAQ
+MCS,42,Marcus Corporation (The) Common Stock,2012-10-17,2023-05-05,NYSE
+LEN,42,Lennar Corporation Class A Common Stock,2013-01-15,2023-03-15,NYSE
+PFMT,42,Performant Financial Corporation - Common Stock,2013-02-28,2023-05-13,NASDAQ
+CWST,42,"Casella Waste Systems, Inc. - Class A Common Stock",2013-03-05,2023-04-28,NASDAQ
+ING,42,"ING Group, N.V. Common Stock",2012-11-07,2023-05-11,NYSE
+LOPE,42,"Grand Canyon Education, Inc. - Common Stock",2013-02-19,2023-05-02,NASDAQ
+AZZ,42,AZZ Incorporated Common Stock,2013-01-09,2023-04-26,NYSE
+XRAY,42,DENTSPLY SIRONA Inc. - Common Stock,2012-10-25,2023-05-03,NASDAQ
+ARI,42,"Apollo Commercial Real Estate Finance, Inc",2013-02-28,2023-04-27,NYSE
+NI,42,NiSource Inc Common Stock,2012-11-02,2023-05-03,NYSE
+GEL,42,"Genesis Energy, L.P. Common Units",2012-11-06,2023-05-04,NYSE
+IHG,42,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share),2012-11-06,2023-05-05,NYSE
+ANSS,42,"ANSYS, Inc. - Common Stock",2012-11-01,2023-05-04,NASDAQ
+CSTE,42,Caesarstone Ltd. - Ordinary Shares,2013-05-08,2023-05-12,NASDAQ
+TSM,42,Taiwan Semiconductor Manufacturing Company Ltd.,2012-10-25,2023-04-20,NYSE
+WWW,42,"Wolverine World Wide, Inc. Common Stock",2013-02-19,2023-05-10,NYSE
+AXGN,42,"Axogen, Inc. - Common Stock",2013-03-13,2023-05-09,NASDAQ
+NOAH,42,Noah Holdings Limited,2013-02-26,2023-05-31,NYSE
+TDY,42,Teledyne Technologies Incorporated Common Stock,2013-01-24,2023-04-26,NYSE
+SLP,42,"Simulations Plus, Inc. - Common Stock",2012-11-20,2023-04-05,NASDAQ
+NTWK,42,NETSOL Technologies Inc. - Common Stock,2012-11-14,2023-05-11,NASDAQ
+WDFC,42,WD-40 Company - Common Stock,2013-01-09,2023-04-06,NASDAQ
+TDOC,42,TDOC,2016-03-02,2023-04-28,NASDAQ
+SHEN,42,Shenandoah Telecommunications Co - Common Stock,2012-11-02,2023-04-28,NASDAQ
+JBL,42,"Jabil Circuit, Inc. Common Stock",2012-12-19,2023-03-16,NYSE
+MTN,42,"Vail Resorts, Inc. Common Stock",2013-03-06,2023-03-09,NYSE
+SEAC,42,"SeaChange International, Inc. - Common Stock",2012-12-05,2023-04-05,NASDAQ
+SMTC,42,Semtech Corporation - Common Stock,2013-03-06,2023-06-08,NASDAQ
+JKS,42,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),2012-11-20,2023-04-28,NYSE
+JSDA,42,JSDA,2012-11-09,2023-05-07,OTC
+BIG,42,"Big Lots, Inc. Common Stock",2012-12-04,2023-05-26,NYSE
+EPM,42,EPM,2012-11-09,2023-05-10,NYSE
+SCSC,42,"ScanSource, Inc. - Common Stock",2013-04-25,2023-05-11,NASDAQ
+OXM,42,"Oxford Industries, Inc. Common Stock",2013-03-13,2023-06-08,NYSE
+NMFC,42,New Mountain Finance Corporation - Common Stock,2013-03-07,2023-05-09,NYSE
+PLOW,42,"Douglas Dynamics, Inc. Common Stock",2013-03-12,2023-05-02,NYSE
+HTZ,42,"Hertz Global Holdings, Inc - Common Stock",2012-11-01,2023-04-27,NYSE
+SLCA,42,"U.S. Silica Holdings, Inc. Common Stock",2012-11-02,2023-04-28,NYSE
+ALSN,42,"Allison Transmission Holdings, Inc. Common Stock",2013-02-19,2023-04-27,NYSE
+BLKB,42,"Blackbaud, Inc. - Common Stock",2013-02-13,2023-05-03,NASDAQ
+YY,42,JOYY Inc. - American Depositary Shares,2013-03-08,2023-05-31,NASDAQ
+STAG,42,"Stag Industrial, Inc. Common Stock",2013-02-21,2023-04-27,NYSE
+DAC,42,Danaos Corporation Common Stock,2012-11-06,2023-05-16,NYSE
+KMPR,42,Kemper Corporation,2012-11-09,2023-05-09,NYSE
+ASUR,42,Asure Software Inc - Common Stock,2012-11-14,2023-05-08,NASDAQ
+OKE,42,"ONEOK, Inc. Common Stock",2013-02-26,2023-05-03,NYSE
+FLL,42,"Full House Resorts, Inc. - Common Stock",2013-03-06,2023-05-08,NASDAQ
+ITRI,42,"Itron, Inc. - Common Stock",2012-11-01,2023-05-06,NASDAQ
+FUL,42,H. B. Fuller Company Common Stock,2013-01-17,2023-03-30,NYSE
+LCI,42,Lannett Co Inc Common Stock,2013-02-07,2023-02-01,NYSE
+NLS,42,"Nautilus, Inc. Common Stock",2013-03-04,2023-05-23,NYSE
+CSGP,42,"CoStar Group, Inc. - Common Stock",2013-02-28,2023-04-25,NASDAQ
+GSM,42,Ferroglobe PLC - Ordinary Shares,2012-11-07,2023-05-10,NASDAQ
+FTEK,42,"Fuel Tech, Inc. - Common Stock",2012-11-06,2023-05-10,NASDAQ
+TA,42,TravelCenters of America LLC Common Stock,2012-11-06,2022-11-02,NYSE
+WGO,42,"Winnebago Industries, Inc. Common Stock",2013-03-28,2023-03-22,NYSE
+CAMP,42,CalAmp Corp. - Common Stock,2012-12-20,2023-04-27,NASDAQ
+PTN,42,PTN,2012-11-14,2023-05-16,NYSE
+CAE,42,CAE Inc. Ordinary Shares,2013-02-13,2023-05-31,NYSE
+CPIX,42,Cumberland Pharmaceuticals Inc. - Common Stock,2013-02-28,2023-05-13,NASDAQ
+HCKT,42,"The Hackett Group, Inc. - Common Stock",2013-02-19,2023-05-13,NASDAQ
+MMLP,42,Martin Midstream Partners L.P. - Common Units Representing Limited Partnership Interests,2012-11-06,2023-04-20,NASDAQ
+LBTYA,42,Liberty Global plc - Class A Ordinary Shares,2012-11-05,2023-05-10,NASDAQ
+GMED,42,"Globus Medical, Inc. Class A Common Stock",2013-02-27,2023-05-04,NYSE
+PCTI,42,"PCTEL, Inc. - Common Stock",2013-03-28,2023-05-07,NASDAQ
+AYI,42,Acuity Brands Inc (Holding Company),2013-01-08,2023-04-04,NYSE
+COF,42,Capital One Financial Corporation Common Stock,2012-10-18,2021-01-26,NYSE
+EGO,42,Eldorado Gold Corporation Ordinary Shares,2012-10-26,2023-04-28,NYSE
+ERIE,42,Erie Indemnity Company - Class A Common Stock,2012-11-02,2023-04-28,NASDAQ
+LMAT,42,"LeMaitre Vascular, Inc. - Common Stock",2012-10-30,2023-05-02,NASDAQ
+GNW,42,Genworth Financial Inc Common Stock,2012-10-31,2023-05-04,NYSE
+SPSC,42,"SPS Commerce, Inc. - Common Stock",2013-02-06,2023-04-26,NASDAQ
+PB,42,"Prosperity Bancshares, Inc. Common Stock",2013-01-25,2023-04-26,NYSE
+MLM,42,"Martin Marietta Materials, Inc. Common Stock",2012-11-06,2023-05-04,NYSE
+EXP,42,Eagle Materials Inc Common Stock,2013-02-07,2023-05-18,NYSE
+PDCO,42,"Patterson Companies, Inc. - Common Stock",2012-11-20,2023-03-02,NASDAQ
+SLB,42,Schlumberger N.V. Common Stock,2012-10-19,2023-04-21,NYSE
+RAIL,42,"Freightcar America, Inc. - Common Stock",2012-11-03,2023-05-10,NASDAQ
+NPO,42,Enpro Industries Inc,2013-05-02,2023-05-02,NYSE
+QNST,42,"QuinStreet, Inc. - Common Stock",2013-01-30,2023-05-06,NASDAQ
+VAC,42,Marriot Vacations Worldwide Corporation Common Stock,2013-02-21,2023-05-04,NYSE
+TCX,42,Tucows Inc. - Common Stock,2012-11-13,2023-02-09,NASDAQ
+FHN,42,First Horizon National Corporation Common Stock,2012-10-19,2023-05-04,NYSE
+KOPN,42,Kopin Corporation - Common Stock,2013-03-13,2023-05-11,NASDAQ
+LZB,42,La,2012-11-29,2023-02-22,NYSE
+LINC,42,Lincoln Educational Services Corporation - Common Stock,2013-03-06,2023-05-08,NASDAQ
+TRGP,42,"Targa Resources, Inc. Common Stock",2013-02-14,2023-05-04,NYSE
+HMST,42,"HomeStreet, Inc. - Common Stock",2013-04-29,2023-04-25,NASDAQ
+STLD,42,"Steel Dynamics, Inc. - Common Stock",2012-10-18,2023-04-20,NASDAQ
+WEX,42,WEX Inc. common stock,2013-05-01,2023-04-27,NYSE
+STN,42,Stantec Inc Common Stock,2013-02-21,2023-05-11,NYSE
+EMAN,42,EMAN,2012-11-05,2023-05-11,NYSE
+GEO,42,Geo Group Inc (The) REIT,2013-02-21,2023-04-25,NYSE
+AOS,42,A.O. Smith Corporation Common Stock,2012-10-17,2023-04-27,NYSE
+SCHL,42,Scholastic Corporation - Common Stock,2012-12-20,2023-03-23,NASDAQ
+FLWS,42,"1-800-FLOWERS.COM, Inc. - Class A Common Stock",2013-01-31,2023-05-11,NASDAQ
+FDS,42,FactSet Research Systems Inc. Common Stock,2012-12-18,2023-03-23,NYSE
+POR,42,Portland General Electric Co Common Stock,2012-11-08,2023-04-28,NYSE
+CHH,42,"Choice Hotels International, Inc. Common Stock",2012-10-25,2023-05-09,NYSE
+NEO,42,"NeoGenomics, Inc. - Common Stock",2013-02-15,2023-05-08,NASDAQ
+KRC,42,Kilroy Realty Corporation Common Stock,2013-01-31,2023-04-27,NYSE
+PCAR,42,PACCAR Inc. - Common Stock,2012-10-25,2023-04-25,NASDAQ
+SCVL,42,"Shoe Carnival, Inc. - Common Stock",2013-04-01,2023-05-24,NASDAQ
+CLR,42,"Continental Resources, Inc. Common Stock",2012-11-08,2022-05-05,NYSE
+WSR,42,Whitestone REIT Common Shares,2013-03-12,2023-05-03,NYSE
+REED,42,REED,2013-03-25,2023-06-01,NYSE
+RLI,42,RLI Corp. Common Stock,2013-01-24,2023-04-20,NYSE
+AAON,42,"AAON, Inc. - Common Stock",2013-03-14,2023-05-07,NASDAQ
+AMSWA,42,"American Software, Inc. - Class A Common Stock",2012-11-29,2023-02-26,NASDAQ
+TNK,42,Teekay Tankers Ltd.,2012-11-10,2023-05-11,NYSE
+SJW,42,SJW Corporation Common Stock,2013-02-20,2023-05-01,NYSE
+VALE,42,VALE S.A.  American Depositary Shares Each Representing one common share,2012-10-25,2023-04-27,NYSE
+JBSS,42,"John B. Sanfilippo & Son, Inc. - Common Stock",2013-01-31,2023-05-07,NASDAQ
+CWCO,42,Consolidated Water Co. Ltd. - Ordinary Shares,2012-11-12,2023-05-16,NASDAQ
+CLIR,42,ClearSign Technologies Corporation - Common Stock,2013-02-22,2023-05-18,NASDAQ
+HBIO,42,"Harvard Bioscience, Inc. - Common Stock",2013-02-28,2023-04-25,NASDAQ
+DQ,42,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",2012-11-30,2023-04-27,NYSE
+SALM,42,"Salem Media Group, Inc. - Class A Common Stock",2013-02-25,2023-05-13,NASDAQ
+ATI,42,Allegheny Technologies Incorporated Common Stock,2012-10-24,2023-05-04,NYSE
+WSFS,42,WSFS Financial Corporation - Common Stock,2012-10-31,2023-04-25,NASDAQ
+CACC,42,Credit Acceptance Corporation - Common Stock,2013-02-01,2023-05-01,NASDAQ
+PKG,42,Packaging Corporation of America Common Stock,2013-01-22,2023-04-25,NYSE
+CUZ,42,Cousins Properties Incorporated Common Stock,2013-02-14,2023-04-28,NYSE
+REFR,42,Research Frontiers Incorporated - Common Stock,2013-03-14,2023-05-06,NASDAQ
+HIW,42,"Highwoods Properties, Inc. Common Stock",2013-02-13,2023-04-26,NYSE
+FMS,42,Fresenius Medical Care AG Common Stock,2012-10-31,2023-05-09,NYSE
+CPA,42,"Copa Holdings, S.A. Copa Holdings, S.A. Class A Common Stock",2012-11-09,2023-05-11,NYSE
+TNC,42,Tennant Company Common Stock,2013-02-19,2023-04-28,NYSE
+SIFY,42,"Sify Technologies Limited - American Depository Shares, each represented by one Equity Share",2012-10-17,2023-04-24,NASDAQ
+FDUS,42,Fidus Investment Corporation - Closed End Fund,2013-03-08,2023-05-05,NASDAQ
+ADC,42,Agree Realty Corporation Common Stock,2013-02-28,2023-05-05,NYSE
+MITT,42,"AG Mortgage Investment Trust, Inc. Common Stock",2012-11-08,2023-05-05,NYSE
+CASY,42,"Caseys General Stores, Inc. - Common Stock",2012-12-11,2023-06-08,NASDAQ
+AMWD,42,American Woodmark Corporation - Common Stock,2013-02-19,2023-05-25,NASDAQ
+BRC,42,Brady Corporation Common Stock,2013-02-21,2023-05-18,NYSE
+SCHN,42,"Schnitzer Steel Industries, Inc. - Class A Common Stock",2012-10-25,2023-04-05,NASDAQ
+KSU,42,Kansas City Southern Common Stock,2012-10-19,2021-10-19,NYSE
+SKYW,42,"SkyWest, Inc. - Common Stock",2013-02-14,2023-04-27,NASDAQ
+VGR,42,Vector Group Ltd. Common Stock,2012-11-01,2023-05-09,NYSE
+DRRX,42,DURECT Corporation - Common Stock,2013-02-28,2023-05-08,NASDAQ
+RDCM,42,Radcom Ltd. - Ordinary Shares,2013-04-24,2023-05-10,NASDAQ
+NLSN,42,Nielsen N.V. Common Stock,2012-10-22,2022-02-28,NYSE
+PDFS,42,"PDF Solutions, Inc. - Common Stock",2013-02-14,2023-05-13,NASDAQ
+DK,42,"Delek US Holdings, Inc. Common Stock",2012-11-08,2023-05-08,NYSE
+MNRO,42,"Monro, Inc.  - Common Stock",2013-01-29,2023-05-18,NASDAQ
+PFS,42,"Provident Financial Services, Inc Common Stock",2013-04-26,2023-04-28,NYSE
+PNFP,42,"Pinnacle Financial Partners, Inc. - Common Stock",2013-04-16,2023-04-18,NASDAQ
+PRFT,42,"Perficient, Inc. - Common Stock",2012-11-01,2023-05-02,NASDAQ
+WMC,42,Western Asset Mortgage Capital Corporation Common Stock,2013-03-06,2023-05-05,NYSE
+EFC,42,"Ellington Financial LLC Common Shares representing Limitied Liability Company Interests, no par valu",2013-02-15,2023-05-09,NYSE
+BCC,42,"Boise Cascade, L.L.C. Common Stock",2013-04-22,2023-05-05,NYSE
+FFBC,42,First Financial Bancorp. - Common Stock,2012-10-26,2023-04-21,NASDAQ
+INFU,42,INFU,2013-03-28,2023-05-06,NYSE
+OESX,42,"Orion Energy Systems, Inc. - Common Stock",2013-02-05,2023-06-06,NYSE
+SGU,42,"Star Gas Partners, L.P. Common Stock",2012-12-12,2023-05-07,NYSE
+LODE,42,LODE,2013-03-14,2023-05-03,NYSE
+RHP,42,"Ryman Hospitality Properties, Inc. (REIT)",2013-02-15,2023-05-06,NYSE
+APH,42,Amphenol Corporation Common Stock,2012-10-17,2023-04-26,NYSE
+ADTN,42,"ADTRAN Holdings, Inc. - Common Stock",2013-01-16,2023-05-09,NASDAQ
+AVAV,42,"AeroVironment, Inc. - Common Stock",2012-12-04,2023-03-06,NASDAQ
+HELE,42,Helen of Troy Limited - Common Stock,2013-01-09,2023-04-27,NASDAQ
+TWIN,42,"Twin Disc, Incorporated - Common Stock",2012-10-23,2023-04-28,NASDAQ
+ESLT,42,Elbit Systems Ltd. - Ordinary Shares,2012-11-13,2023-05-30,NASDAQ
+ALGT,42,Allegiant Travel Company - Common Stock,2013-01-30,2023-05-03,NASDAQ
+CONN,42,"Conn's, Inc. - Common Stock",2013-04-03,2023-06-01,NASDAQ
+BUD,42,Anheuser,2012-10-31,2023-05-04,NYSE
+MKC,42,"McCormick & Company, Incorporated Common Stock",2013-01-24,2023-03-28,NYSE
+ADS,42,Alliance Data Systems Corporation Common Stock,2012-10-18,2022-01-27,NYSE
+PAG,42,"Penske Automotive Group, Inc. Common Stock",2013-02-06,2023-04-26,NYSE
+CVBF,42,CVB Financial Corporation - Common Stock,2013-01-17,2023-04-29,NASDAQ
+AMG,42,"Affiliated Managers Group, Inc. Common Stock",2012-10-31,2023-05-01,NYSE
+SOL,42,Renesola Ltd. Common Shares of Beneficial Interest,2012-11-30,2023-05-31,NYSE
+FSS,42,Federal Signal Corporation Common Stock,2013-03-15,2023-05-02,NYSE
+PETS,42,"PetMed Express, Inc. - Common Stock",2012-10-22,2023-05-25,NASDAQ
+TTC,42,Toro Company (The) Common Stock,2012-12-05,2023-03-09,NYSE
+SCL,42,Stepan Company Common Stock,2013-02-20,2023-04-25,NYSE
+CPF,42,Central Pacific Financial Corp New,2013-01-31,2023-04-26,NYSE
+HE,42,"Hawaiian Electric Industries, Inc. Common Stock",2012-11-08,2023-05-09,NYSE
+MIND,42,"MIND Technology, Inc. - Common Stock",2012-12-05,2023-04-20,NASDAQ
+IDN,42,"Intellicheck, Inc. - Common Stock",2013-03-28,2023-05-09,NYSE
+UTHR,42,United Therapeutics Corporation - Common Stock,2012-11-01,2023-05-03,NASDAQ
+HST,42,Host Hotels  - Common Stock,2013-02-21,2023-05-05,NYSE
+CGNX,42,Cognex Corporation - Common Stock,2012-11-01,2023-05-04,NASDAQ
+MOV,42,Movado Group Inc. Common Stock,2013-03-21,2023-05-25,NYSE
+FLR,42,Fluor Corporation Common Stock,2012-11-01,2023-05-05,NYSE
+ENDP,42,ENDP,2012-11-05,2022-05-06,
+EEFT,42,"Euronet Worldwide, Inc. - Common Stock",2013-02-13,2023-05-03,NASDAQ
+AGYS,42,"Agilysys, Inc. - Common Stock",2013-01-31,2023-05-16,NASDAQ
+EXPR,42,"Express, Inc. Common Stock",2013-03-13,2023-05-24,NYSE
+KMI,42,"Kinder Morgan, Inc. Common Stock",2014-01-15,2023-04-19,NYSE
+DXLG,42,"Destination XL Group, Inc. - Common Stock",2013-03-15,2023-05-25,NASDAQ
+NTCT,42,"NetScout Systems, Inc. - Common Stock",2013-04-25,2023-05-06,NASDAQ
+EGP,42,"EastGroup Properties, Inc. Common Stock",2013-02-13,2023-04-26,NYSE
+STRA,42,"Strategic Education, Inc. - Common Stock",2012-11-09,2023-04-27,NASDAQ
+COWN,42,COWN,2012-11-08,2022-04-29,
+ABMD,42,ABMD,2012-11-01,2022-11-01,
+LGND,42,Ligand Pharmaceuticals Incorporated - Common Stock,2012-11-05,2023-05-04,NASDAQ
+RPM,42,RPM International Inc. Common Stock,2013-01-08,2023-04-06,NYSE
+USAP,42,"Universal Stainless & Alloy Products, Inc. - Common Stock",2013-01-29,2023-04-26,NASDAQ
+WNS,42,WNS (Holdings) Limited Sponsored ADR (Jersey),2013-01-16,2023-04-29,NYSE
+HOMB,42,HOMB,2013-04-18,2023-04-20,NASDAQ
+SO,42,Southern Company (The) Common Stock,2012-11-05,2023-04-27,NYSE
+CPE,42,Callon Petroleum Company Common Stock,2012-11-08,2023-05-04,NYSE
+HCI,42,"HCI Group, Inc. Common Stock",2013-03-05,2023-05-13,NYSE
+USAC,42,"USA Compression Partners, LP Common Units Representing Limited Partner Interests",2013-02-26,2023-05-02,NYSE
+JLL,42,Jones Lang LaSalle Incorporated Common Stock,2012-10-30,2023-05-04,NYSE
+IOSP,41,Innospec Inc. - Common Stock,2013-02-13,2023-05-06,NASDAQ
+ESE,41,ESCO Technologies Inc. Common Stock,2013-04-18,2023-05-13,NYSE
+APOG,41,"Apogee Enterprises, Inc. - Common Stock",2013-04-11,2023-04-12,NASDAQ
+FELE,41,"Franklin Electric Co., Inc. - Common Stock",2013-04-30,2023-05-02,NASDAQ
+CHEF,41,"The Chefs' Warehouse, Inc. - Common Stock",2013-05-02,2023-05-03,NASDAQ
+TMHC,41,Taylor Morrison Home Corporation Class A Common Stock,2013-08-13,2023-04-26,NYSE
+CBZ,41,"CBIZ, Inc. Common Stock",2013-05-03,2023-04-29,NYSE
+CAMT,41,Camtek Ltd. - Ordinary Shares,2013-02-21,2023-05-10,NASDAQ
+MNTX,41,"Manitex International, Inc. - common stock",2013-03-11,2023-05-06,NASDAQ
+SFL,41,Ship Finance International Limited,2012-11-29,2023-05-15,NYSE
+CHUY,41,"Chuy's Holdings, Inc. - Common Stock",2013-02-25,2023-05-06,NASDAQ
+DISH,41,DISH Network Corporation - Class A Common Stock,2012-11-06,2023-05-08,NASDAQ
+PRLB,41,"Proto Labs, Inc. Common stock",2013-02-13,2023-05-05,NYSE
+IGT,41,International Game Technology Common Stock,2012-11-08,2023-05-09,NYSE
+AKR,41,Acadia Realty Trust Common Stock,2013-04-24,2023-05-06,NYSE
+KFY,41,Korn/Ferry International Common Stock,2013-03-06,2023-03-08,NYSE
+SYPR,41,"Sypris Solutions, Inc. - Common Stock",2013-03-12,2023-05-16,NASDAQ
+TNP,41,Tsakos Energy Navigation Ltd Common Shares,2012-11-21,2023-05-30,NYSE
+HEP,41,"Holly Energy Partners, L.P. Common Stock",2012-11-01,2023-02-24,NYSE
+NGVC,41,"Natural Grocers by Vitamin Cottage, Inc. Common Stock",2013-05-09,2023-05-07,NYSE
+FORR,41,"Forrester Research, Inc. - Common Stock",2013-04-24,2023-05-04,NASDAQ
+KWR,41,Quaker Chemical Corporation Common Stock,2013-03-07,2023-05-05,NYSE
+PCRX,41,"Pacira BioSciences, Inc. - Common Stock",2013-03-07,2023-05-03,NASDAQ
+AGM,41,Federal Agricultural Mortgage Corporation Common Stock,2013-03-19,2023-05-09,NYSE
+SAIA,41,"Saia, Inc. - Common Stock",2013-01-30,2023-04-28,NASDAQ
+NCLH,41,NCLH,2013-05-08,2023-05-01,NASDAQ
+FCEL,41,"FuelCell Energy, Inc. - Common Stock",2012-12-21,2023-03-09,NASDAQ
+SEAS,41,"SeaWorld Entertainment, Inc. Common Stock",2013-05-22,2023-05-09,NYSE
+PRGO,41,Perrigo Company plc Ordinary Shares,2012-11-07,2023-05-09,NYSE
+UBS,41,UBS Group AG Registered Ordinary Shares,2012-10-30,2023-04-25,NYSE
+LNDC,41,LNDC,2013-01-03,2022-10-06,
+POWL,41,"Powell Industries, Inc. - Common Stock",2013-05-08,2023-05-06,NASDAQ
+MTX,41,Minerals Technologies Inc. Common Stock,2013-04-26,2023-04-28,NYSE
+PRTS,41,"CarParts.com, Inc. - Common Stock",2013-03-25,2023-05-02,NASDAQ
+IPAR,41,"Inter Parfums, Inc. - Common Stock",2013-05-09,2023-05-13,NASDAQ
+FRGI,41,"Fiesta Restaurant Group, Inc. - Common Stock",2013-05-07,2023-05-10,NASDAQ
+HTLF,41,"Heartland Financial USA, Inc. - Common Stock",2013-04-29,2023-04-24,NASDAQ
+MYRG,41,"MYR Group, Inc. - Common Stock",2013-03-07,2023-04-27,NASDAQ
+FWRD,41,Forward Air Corporation - Common Stock,2013-04-19,2023-05-02,NASDAQ
+LSCC,41,Lattice Semiconductor Corporation - Common Stock,2012-10-19,2023-05-01,NASDAQ
+NEOG,41,Neogen Corporation - Common Stock,2012-12-20,2023-03-30,NASDAQ
+GVA,41,Granite Construction Incorporated Common Stock,2012-11-07,2023-05-02,NYSE
+SILC,41,Silicom Ltd - Ordinary Shares,2013-04-22,2023-05-01,NASDAQ
+PLCE,41,"Children's Place, Inc. (The) - Common Stock",2013-03-26,2023-05-24,NASDAQ
+HCCI,41,"Heritage-Crystal Clean, Inc. - Common Stock",2013-05-03,2023-05-10,NASDAQ
+MPAA,41,"Motorcar Parts of America, Inc. - Common Stock",2013-02-15,2023-02-10,NASDAQ
+ASTE,41,"Astec Industries, Inc. - Common Stock",2013-02-26,2023-05-07,NASDAQ
+CRI,41,"Carter's, Inc. Common Stock",2012-10-25,2023-04-29,NYSE
+VEEV,41,Veeva Systems Inc. Class A Common Stock,2013-12-05,2023-05-31,NYSE
+NURO,41,"NeuroMetrix, Inc. - Common Stock",2013-02-19,2023-05-03,NASDAQ
+SXI,41,Standex International Corporation Common Stock,2013-02-01,2023-05-05,NYSE
+HZO,41,"MarineMax, Inc. Common Stock",2012-11-01,2023-04-27,NYSE
+VNET,41,"VNET Group, Inc. - American Depositary Shares",2012-11-16,2023-05-25,NASDAQ
+KOF,41,Coca Cola Femsa S.A.B. de C.V.  Common Stock,2012-10-24,2023-04-27,NYSE
+FSP,41,FSP,2013-02-20,2023-05-06,NYSE
+SIVB,41,SIVB,2013-01-25,2023-01-19,
+ASPS,41,Altisource Portfolio Solutions S.A. - Common Stock,2012-10-27,2023-04-29,NASDAQ
+FIVE,41,"Five Below, Inc. - Common Stock",2013-03-27,2023-06-01,NASDAQ
+KLAC,41,KLA Corporation  - Common Stock,2012-10-25,2023-04-26,NASDAQ
+COHU,41,"Cohu, Inc. - Common Stock",2013-05-01,2023-05-04,NASDAQ
+CRWS,41,"Crown Crafts, Inc. - Common Stock",2013-02-13,2023-02-15,NASDAQ
+AIR,41,AAR Corp. Common Stock,2013-03-19,2023-03-21,NYSE
+FBP,41,First BanCorp. New Common Stock,2013-05-03,2023-04-25,NYSE
+FINGF,41,FINGF,2013-05-09,2023-05-13,OTC
+ODC,41,Oil,2012-12-10,2023-03-10,NYSE
+MTSI,41,"MACOM Technology Solutions Holdings, Inc. - Common Stock",2013-05-01,2023-05-04,NASDAQ
+COLB,41,"Columbia Banking System, Inc. - Common Stock",2013-04-25,2023-04-26,NASDAQ
+MLR,41,"Miller Industries, Inc. Common Stock",2013-03-07,2023-05-05,NYSE
+SBNY,41,SBNY,2013-01-22,2023-01-17,
+MPWR,41,"Monolithic Power Systems, Inc. - Common Stock",2013-02-06,2023-05-04,NASDAQ
+SSD,41,"Simpson Manufacturing Company, Inc. Common Stock",2013-02-08,2023-04-24,NYSE
+GOGO,41,Gogo Inc. - Common Stock,2013-08-07,2023-05-03,NASDAQ
+FN,41,Fabrinet Ordinary Shares,2013-02-05,2023-05-08,NYSE
+RGS,41,Regis Corporation Common Stock,2013-01-31,2023-05-06,NYSE
+CMS,41,CMS Energy Corporation Common Stock,2013-02-21,2023-04-27,NYSE
+WWD,41,"Woodward, Inc. - Common Stock",2013-01-22,2023-05-01,NASDAQ
+FDP,41,"Fresh Del Monte Produce, Inc. Common Stock",2013-02-19,2023-05-03,NYSE
+JBT,41,John Bean Technologies Corporation Common Stock,2013-05-08,2023-04-26,NYSE
+SPTN,41,SpartanNash Company - Common Stock,2013-05-23,2023-06-01,NASDAQ
+EDAP,41,"EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",2012-11-21,2023-05-17,NASDAQ
+ROL,41,"Rollins, Inc. Common Stock",2013-04-24,2023-04-27,NYSE
+SHERF,41,SHERF,2012-10-31,2023-05-11,OTC
+MYL,41,MYL,2012-10-25,2020-08-07,
+PRGS,41,Progress Software Corporation - Common Stock,2013-01-04,2023-03-28,NASDAQ
+WTFC,41,Wintrust Financial Corporation - Common Stock,2013-04-18,2023-04-20,NASDAQ
+ALTR,41,Altair Engineering Inc. - Class A Common Stock,2012-10-23,2023-05-07,NASDAQ
+MGRC,41,McGrath RentCorp - Common Stock,2013-05-01,2023-05-06,NASDAQ
+FARO,41,"FARO Technologies, Inc. - Common Stock",2013-02-28,2023-05-03,NASDAQ
+RNST,41,Renasant Corporation - Common Stock,2013-04-24,2023-04-26,NASDAQ
+APO,41,"Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests",2013-02-08,2023-05-09,NYSE
+KTCC,41,Key Tronic Corporation - Common Stock,2013-01-29,2023-05-02,NASDAQ
+RDNT,41,"RadNet, Inc. - Common Stock",2013-03-12,2023-05-13,NASDAQ
+GSIT,41,"GSI Technology, Inc. - Common Stock",2013-01-31,2023-05-16,NASDAQ
+VRNT,41,Verint Systems Inc. - Common Stock,2013-06-03,2023-06-08,NASDAQ
+IVAC,41,"Intevac, Inc. - Common Stock",2013-01-29,2023-05-06,NASDAQ
+BANR,41,Banner Corporation - Common Stock,2013-04-23,2023-04-20,NASDAQ
+SRI,41,"Stoneridge, Inc. Common Stock",2013-03-01,2023-05-06,NYSE
+AGI,41,Alamos Gold Inc Ordinary Shares,2013-04-25,2023-04-27,NYSE
+KIRK,41,"Kirkland's, Inc. - Common Stock",2013-03-14,2023-04-04,NASDAQ
+KAI,41,Kadant Inc Common Stock,2013-04-30,2023-05-06,NYSE
+UCTT,41,"Ultra Clean Holdings, Inc. - Common Stock",2013-02-19,2023-04-26,NASDAQ
+INTT,41,INTT,2013-03-06,2023-05-05,NYSE
+OTTR,41,Otter Tail Corporation - Common Stock,2013-05-07,2023-05-02,NASDAQ
+BLMN,41,"Bloomin' Brands, Inc. - Common Stock",2013-02-22,2023-04-28,NASDAQ
+CCK,41,"Crown Holdings, Inc.",2012-10-18,2023-04-25,NYSE
+HPP,41,"Hudson Pacific Properties, Inc. Common Stock",2013-05-06,2023-05-13,NYSE
+BKU,41,"BankUnited, Inc. Common Stock",2013-01-29,2023-04-25,NYSE
+IRIX,41,IRIDEX Corporation - Common Stock,2013-05-03,2023-05-11,NASDAQ
+UTL,41,UNITIL Corporation Common Stock,2013-01-30,2023-05-02,NYSE
+NEWT,41,"NewtekOne, Inc. - Common Stock",2013-05-08,2023-05-09,NASDAQ
+MBWM,41,Mercantile Bank Corporation - Common Stock,2013-01-15,2023-04-18,NASDAQ
+JAKK,41,"JAKKS Pacific, Inc. - Common Stock",2013-02-21,2023-04-27,NASDAQ
+NFYEF,41,NFYEF,2013-05-11,2023-05-06,OTC
+SMP,41,"Standard Motor Products, Inc. Common Stock",2013-03-04,2023-05-07,NYSE
+MPLX,41,MPLX LP Common Units Representing Limited Partner Interests,2013-01-30,2023-05-02,NYSE
+CSGS,41,"CSG Systems International, Inc. - Common Stock",2013-02-06,2023-05-06,NASDAQ
+IDT,41,IDT Corporation Class B Common Stock,2012-12-10,2023-06-05,NYSE
+WYY,41,WYY,2013-04-01,2023-05-15,NYSE
+PBF,41,PBF Energy Inc. Class A Common Stock,2013-02-21,2023-05-05,NYSE
+CMLS,41,Cumulus Media Inc. - Class A Common Stock,2013-03-18,2023-04-27,NASDAQ
+CCO,41,"Clear Channel Outdoor Holdings, Inc. Clear Channel Outdoor Holdings, Inc. Class A Common Stock",2012-11-02,2023-05-14,NYSE
+GBX,41,"Greenbrier Companies, Inc. (The) Common Stock",2012-11-01,2023-01-06,NYSE
+SMCI,41,"Super Micro Computer, Inc. - Common Stock",2012-10-23,2023-05-02,NASDAQ
+MEI,41,"Methode Electronics, Inc. Common Stock",2012-12-06,2023-03-09,NYSE
+TTM,41,Tata Motors Ltd Tata Motors Limited,2013-02-14,2023-05-12,NYSE
+SAR,41,Saratoga Investment Corp New,2013-01-15,2023-05-03,NYSE
+IEP,41,Icahn Enterprises L.P. - Depositary Units representing Limited Partner Interests,2013-03-15,2023-05-10,NASDAQ
+SIGI,41,"Selective Insurance Group, Inc. - Common Stock",2013-04-25,2023-05-06,NASDAQ
+BCOR,41,BCOR,2012-11-01,2022-11-01,
+IIVI,41,IIVI,2012-10-23,2023-05-10,
+ATHX,41,"Athersys, Inc. - Common Stock",2012-11-08,2022-11-15,NASDAQ
+FSM,41,Fortuna Silver Mines Inc Ordinary Shares (Canada),2012-11-09,2023-05-16,NYSE
+NNBR,41,"NN, Inc. - Common Stock",2013-03-11,2023-05-05,NASDAQ
+CCRN,41,"Cross Country Healthcare, Inc. - Common Stock",2013-05-08,2023-05-03,NASDAQ
+OPK,41,"Opko Health, Inc. - Common Stock",2014-08-12,2023-05-03,NYSE
+EGAN,41,eGain Corporation - Common Stock,2013-02-06,2023-05-11,NASDAQ
+CMRX,41,"Chimerix, Inc. - Common Stock",2013-08-14,2023-05-06,NASDAQ
+RBA,41,Ritchie Bros. Auctioneers Incorporated Common Stock,2013-02-26,2023-05-10,NYSE
+HSII,41,"Heidrick & Struggles International, Inc. - Common Stock",2013-02-26,2023-04-24,NASDAQ
+JHX,41,James Hardie Industries plc American Depositary Shares (Ireland),2013-02-27,2023-05-15,NYSE
+WTS,41,"Watts Water Technologies, Inc. Class A Common Stock",2013-02-20,2023-05-07,NYSE
+CATY,41,Cathay General Bancorp - Common Stock,2013-04-16,2023-04-20,NASDAQ
+AL,41,Air Lease Corporation Class A Common Stock,2012-11-08,2023-02-16,NYSE
+THR,41,"Thermon Group Holdings, Inc. Common Stock",2013-06-05,2023-05-26,NYSE
+BXMT,41,"Blackstone Mortgage Trust, Inc. Common Stock",2013-07-31,2023-04-26,NYSE
+FBHS,41,"Fortune Brands Home & Security, Inc. Common Stock",2012-10-23,2022-10-26,NYSE
+MTRN,41,Materion Corporation,2013-02-28,2023-05-06,NYSE
+RUTH,41,RUTH,2012-10-30,2023-02-23,
+GPK,41,Graphic Packaging Holding Company,2012-10-25,2023-05-02,NYSE
+TTGT,41,"TechTarget, Inc. - Common Stock",2013-05-08,2023-05-13,NASDAQ
+EMKR,41,EMCORE Corporation - Common Stock,2012-12-06,2023-05-06,NASDAQ
+AEHR,41,Aehr Test Systems - Common Stock,2013-01-09,2023-03-30,NASDAQ
+AVNW,41,"Aviat Networks, Inc. - Common Stock",2012-11-01,2023-05-03,NASDAQ
+ACRE,41,Ares Commercial Real Estate Corporation Common Stock,2013-04-01,2023-05-02,NYSE
+HUBG,41,"Hub Group, Inc. - Class A Common Stock",2013-04-18,2023-04-27,NASDAQ
+CTS,41,CTS Corporation Common Stock,2013-01-29,2023-05-01,NYSE
+SWX,41,Southwest Gas Corporation Common Stock,2013-02-28,2023-05-09,NYSE
+CFX,41,Colfax Corporation Common Stock,2012-10-25,2022-02-22,NYSE
+BGFV,41,Big 5 Sporting Goods Corporation - Common Stock,2013-02-26,2023-05-02,NASDAQ
+NBHC,41,National Bank Holdings Corporation Common Stock,2012-11-02,2023-04-20,NYSE
+TBBK,41,"The Bancorp, Inc. - Common Stock",2012-10-24,2023-04-28,NASDAQ
+MGLN,41,MGLN,2013-03-01,2020-10-31,
+NICE,40,NICE Ltd - American Depositary Shares each representing one Ordinary Share,2012-10-31,2023-05-11,NASDAQ
+SCKT,40,"Socket Mobile, Inc. - Common Stock",2012-11-06,2023-02-22,NASDAQ
+ISSC,40,"Innovative Solutions and Support, Inc. - Common Stock",2013-04-25,2023-05-08,NASDAQ
+BBBY,40,BBBY,2012-12-19,2023-01-10,
+BSQR,40,BSQUARE Corporation - Common Stock,2013-05-09,2023-05-11,NASDAQ
+VPG,40,"Vishay Precision Group, Inc. Common Stock",2013-05-07,2023-05-14,NYSE
+ITI,40,"Iteris, Inc. - Common Stock",2013-05-16,2023-02-02,NYSE
+AUDC,40,AudioCodes Ltd. - Ordinary Shares,2012-11-05,2023-05-12,NASDAQ
+IBKR,40,"Interactive Brokers Group, Inc. - Class A Common Stock",2013-01-15,2023-04-18,NASDAQ
+AEY,40,"ADDvantage Technologies Group, Inc. - Common Stock",2013-05-14,2023-05-15,NASDAQ
+ASX,40,"Advanced Semiconductor Engineering, Inc. Common Stock",2013-01-30,2023-04-27,NYSE
+SRT,40,"StarTek, Inc. Common Stock",2013-05-09,2023-05-11,NYSE
+RELL,40,"Richardson Electronics, Ltd. - Common Stock",2013-04-11,2023-04-06,NASDAQ
+XLNX,40,XLNX,2012-10-17,2020-10-21,
+CEMI,40,CEMI,2013-03-07,2022-11-06,
+RHHBY,40,RHHBY,2013-01-30,2023-04-26,OTC
+VVI,40,Viad Corp Common Stock,2013-04-26,2023-05-07,NYSE
+WEYS,40,"Weyco Group, Inc. - Common Stock",2013-05-03,2023-05-06,NASDAQ
+WIT,40,Wipro Limited Common Stock,2012-11-02,2023-04-27,NYSE
+ICFI,40,"ICF International, Inc. - Common Stock",2013-05-03,2023-05-13,NASDAQ
+GAIA,40,"Gaia, Inc. - Class A Common Stock",2013-05-08,2023-05-01,NASDAQ
+VG,40,Vonage Holdings Corp. Common Stock,2012-10-31,2021-11-04,NYSE
+PPBI,40,Pacific Premier Bancorp Inc - Common Stock,2013-07-23,2023-04-29,NASDAQ
+LMNR,40,Limoneira Co - Common Stock,2013-06-10,2023-06-06,NASDAQ
+NDLS,40,Noodles & Company - Common Stock,2013-08-11,2023-05-10,NASDAQ
+AMOT,40,"Allied Motion Technologies, Inc. - Common Stock",2013-05-10,2023-05-05,NASDAQ
+OSTK,40,"Overstock.com, Inc. - Common Stock",2012-10-30,2023-04-27,NASDAQ
+SUP,40,"Superior Industries International, Inc. Common Stock",2013-03-01,2023-05-06,NYSE
+TACT,40,TransAct Technologies Incorporated - Common Stock,2013-05-10,2023-05-13,NASDAQ
+CBU,40,"Community Bank System, Inc. Common Stock",2013-04-24,2023-04-25,NYSE
+CB,40,Chubb Corporation (The) Common Stock,2012-10-25,2023-04-26,NYSE
+ICPT,40,"Intercept Pharmaceuticals, Inc. - Common Stock",2013-03-18,2023-04-27,NASDAQ
+HQY,40,"HealthEquity, Inc. - Common Stock",2014-12-09,2023-06-05,NASDAQ
+CMTL,40,Comtech Telecommunications Corp. - Common Stock,2013-03-08,2023-03-09,NASDAQ
+DYAI,40,"Dyadic International, Inc. - Common Stock",2013-03-07,2023-05-10,NASDAQ
+RJF,40,"Raymond James Financial, Inc. Common Stock",2012-10-26,2023-04-26,NYSE
+RUSHA,40,"Rush Enterprises, Inc. - Class A Common Stock",2013-04-24,2023-04-26,NASDAQ
+KRA,40,"Kraton Performance Polymers, Inc Common Stock",2012-11-01,2021-07-31,NYSE
+TEAM,40,Atlassian Corporation  - Class A Common Stock,2016-02-05,2023-06-08,NASDAQ
+RBC,40,Regal Beloit Corporation Common Stock,2012-10-30,2023-05-19,NYSE
+CECE,40,CECE,2013-03-07,2022-08-08,
+WHG,40,Westwood Holdings Group Inc Common Stock,2013-04-18,2023-04-26,NYSE
+MHH,40,MHH,2013-04-24,2023-05-08,NYSE
+DLHC,40,DLH Holdings Corp. - Common Stock,2013-05-15,2023-05-06,NASDAQ
+CRAI,40,"CRA International,Inc. - Common Stock",2013-04-25,2023-05-05,NASDAQ
+STRL,40,"Sterling Infrastructure, Inc. - Common Stock",2013-03-18,2023-05-02,NASDAQ
+UEIC,40,Universal Electronics Inc. - Common Stock,2013-05-02,2023-05-07,NASDAQ
+AHH,40,"Armada Hoffler Properties, Inc. Common Stock",2013-11-08,2023-05-09,NYSE
+SXC,40,"SunCoke Energy, Inc. Common Stock",2013-04-25,2023-05-07,NYSE
+UFCS,40,"United Fire Group, Inc - Common Stock",2013-05-07,2023-05-13,NASDAQ
+MMYT,40,MakeMyTrip Limited - Ordinary Shares,2013-02-27,2023-05-16,NASDAQ
+CPRT,40,"Copart, Inc. - Common Stock",2012-11-28,2023-05-17,NASDAQ
+VIPS,40,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",2013-05-15,2023-05-23,NYSE
+CTRN,40,"Citi Trends, Inc. - Common Stock",2013-03-15,2023-05-23,NASDAQ
+CPXGF,40,CPXGF,2013-05-10,2023-05-12,OTC
+RM,40,Regional Management Corp. Common Stock,2013-05-02,2023-05-06,NYSE
+STRM,40,"Streamline Health Solutions, Inc. - Common Stock",2012-12-13,2023-04-28,NASDAQ
+ELTP,40,ELTP,2013-02-19,2023-02-15,OTC
+CHDN,40,"Churchill Downs, Incorporated - Common Stock",2013-02-28,2023-04-27,NASDAQ
+BRKL,40,"Brookline Bancorp, Inc. - Common Stock",2013-04-25,2023-04-29,NASDAQ
+GVP,40,"GSE Systems, Inc. - Common Stock",2013-05-15,2023-05-15,NYSE
+MTOR,40,"Meritor, Inc. Common Stock",2012-11-14,2022-02-03,NYSE
+UMPQ,40,UMPQ,2013-04-18,2023-01-24,
+NSSC,40,"NAPCO Security Technologies, Inc. - Common Stock",2013-05-13,2023-05-08,NASDAQ
+HRB,40,"H&R Block, Inc. Common Stock",2012-12-06,2023-05-09,NYSE
+ROCK,40,"Gibraltar Industries, Inc. - Common Stock",2013-05-02,2023-05-07,NASDAQ
+COTY,40,Coty Inc. Class A Common Stock,2013-09-17,2023-05-09,NYSE
+LPL,40,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",2012-10-26,2023-04-26,NYSE
+TBI,40,"TrueBlue, Inc. Common Stock",2013-04-24,2023-04-24,NYSE
+RCII,40,RCII,2013-01-29,2023-02-23,
+DKL,40,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",2013-03-06,2023-05-08,NYSE
+GASS,40,"StealthGas, Inc. - common stock",2012-11-27,2023-05-24,NASDAQ
+WSBC,40,"WesBanco, Inc. - Common Stock",2013-04-25,2023-04-25,NASDAQ
+SASR,40,"Sandy Spring Bancorp, Inc. - Common Stock",2013-04-18,2023-04-20,NASDAQ
+APAM,40,Artisan Partners Asset Management Inc. Class A Common Stock,2013-05-01,2023-05-03,NYSE
+IVC,40,Invacare Corporation Common Stock,2013-02-08,2022-11-12,NYSE
+PFBC,40,Preferred Bank - Common Stock,2013-04-18,2023-04-19,NASDAQ
+POWI,40,"Power Integrations, Inc. - Common Stock",2013-02-04,2023-05-07,NASDAQ
+ELY,40,Callaway Golf Company Common Stock,2012-10-25,2022-08-04,NYSE
+SFNC,40,Simmons First National Corporation - Common Stock,2014-01-23,2023-04-25,NASDAQ
+FIX,40,"Comfort Systems USA, Inc. Common Stock",2013-05-02,2023-04-27,NYSE
+EDIT,40,"Editas Medicine, Inc. - Common Stock",2016-05-16,2023-05-16,NASDAQ
+EDU,40,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 1 Ordinary Share (Cayman Islands)",2012-10-29,2023-04-19,NYSE
+UFPI,40,"UFP Industries, Inc. - Common Stock",2013-04-18,2023-05-02,NASDAQ
+TRMK,40,Trustmark Corporation - Common Stock,2013-04-24,2023-04-26,NASDAQ
+ZTS,40,Zoetis Inc. Class A Common Stock,2013-04-30,2023-05-04,NYSE
+TESS,40,TESSCO Technologies Incorporated - Common Stock,2013-01-18,2023-02-08,NASDAQ
+QGEN,40,QGEN,2012-11-05,2023-05-04,NASDAQ
+PFLT,40,PFLT,2013-05-09,2023-05-11,NASDAQ
+CRMT,40,"America's Car-Mart, Inc. - Common Stock",2013-02-19,2023-05-24,NASDAQ
+DLA,40,DLA,2013-04-25,2023-05-06,NYSE
+LPI,40,"Laredo Petroleum, Inc. Common Stock",2013-03-12,2022-11-04,NYSE
+EGBN,40,"Eagle Bancorp, Inc. - Common Stock",2013-04-23,2023-04-20,NASDAQ
+NVMI,40,Nova Ltd. - Ordinary Shares,2012-10-31,2023-05-11,NASDAQ
+KHC,40,The Kraft Heinz Company - Common Stock,2015-08-14,2023-06-08,NASDAQ
+BHLB,40,"Berkshire Hills Bancorp, Inc. Common Stock",2013-04-30,2023-04-20,NYSE
+CNS,40,Cohn & Steers Inc Common Stock,2013-04-18,2023-04-20,NYSE
+FRME,40,First Merchants Corporation - Common Stock,2013-04-25,2023-04-25,NASDAQ
+KVHI,40,"KVH Industries, Inc. - Common Stock",2013-02-12,2023-05-06,NASDAQ
+AIN,40,Albany International Corporation Common Stock,2013-05-02,2023-04-26,NYSE
+FC,40,Franklin Covey Company Common Stock,2012-11-08,2023-03-29,NYSE
+ATNI,40,"ATN International, Inc. - Common Stock",2013-04-30,2023-04-29,NASDAQ
+PTNR,40,PTNR,2012-11-21,2022-11-23,
+INFI,40,"Infinity Pharmaceuticals, Inc. - Common Stock",2013-03-05,2022-11-14,NASDAQ
+MYE,40,"Myers Industries, Inc. Common Stock",2013-04-24,2023-03-01,NYSE
+ESEA,40,Euroseas Ltd. - Common Stock,2012-11-08,2023-05-16,NASDAQ
+NGS,40,"Natural Gas Services Group, Inc. Common Stock",2013-03-14,2023-05-16,NYSE
+NMM,40,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,2012-10-23,2023-05-23,NYSE
+CFWFF,40,CFWFF,2013-05-08,2023-05-15,OTC
+ALOT,40,"AstroNova, Inc. - Common Stock",2013-03-20,2023-03-23,NASDAQ
+ENSG,40,"The Ensign Group, Inc. - Common Stock",2013-02-14,2023-04-29,NASDAQ
+CIR,40,"CIRCOR International, Inc. Common Stock",2013-05-02,2023-05-11,NYSE
+SGMS,40,SGMS,2013-03-11,2022-03-01,
+HRC,40,Hill,2012-10-26,2021-07-30,NYSE
+MSA,40,MSA Safety Incorporated Common Stock,2013-02-13,2023-05-02,NYSE
+DXPE,40,"DXP Enterprises, Inc. - Common Stock",2012-11-02,2023-05-13,NASDAQ
+SNCR,40,"Synchronoss Technologies, Inc. - Common Stock",2012-11-05,2023-05-09,NASDAQ
+MPX,40,Marine Products Corporation Common Stock,2013-04-24,2023-04-26,NYSE
+KEYUF,40,KEYUF,2013-05-08,2023-05-09,OTC
+MUSA,40,Murphy USA Inc. Common Stock,2013-11-07,2023-05-07,NYSE
+USPH,40,"U.S. Physical Therapy, Inc. Common Stock",2013-03-07,2023-05-04,NYSE
+EXPO,40,"Exponent, Inc. - Common Stock",2013-04-17,2023-04-29,NASDAQ
+LCUT,40,"Lifetime Brands, Inc. - Common Stock",2013-05-04,2023-05-10,NASDAQ
+FOJCF,40,FOJCF,2013-04-25,2023-05-11,OTC
+MATW,40,Matthews International Corporation - Class A Common Stock,2013-01-18,2023-04-28,NASDAQ
+EVC,40,Entravision Communications Corporation Common Stock,2013-05-03,2023-05-06,NYSE
+UNF,40,Unifirst Corporation Common Stock,2013-03-28,2023-03-29,NYSE
+UTI,40,Universal Technical Institute Inc Common Stock,2013-04-30,2023-05-13,NYSE
+GTE,40,GTE,2012-11-07,2023-05-03,NYSE
+NX,40,Quanex Building Products Corporation Common Stock,2013-06-07,2023-06-02,NYSE
+RNWK,40,RNWK,2013-02-06,2022-11-12,
+BTE,40,Baytex Energy Corp,2012-11-13,2023-05-05,NYSE
+GIFI,40,"Gulf Island Fabrication, Inc. - Common Stock",2013-04-26,2023-05-13,NASDAQ
+IIIN,40,IIIN,2013-04-18,2023-04-20,NASDAQ
+TCPC,40,BlackRock TCP Capital Corp. - Closed End Fund,2013-05-09,2023-05-04,NASDAQ
+PLUS,40,ePlus inc. - Common Stock,2013-06-05,2023-05-24,NASDAQ
+HTHT,40,H World Group Limited - American Depositary Shares,2013-03-07,2023-05-29,NASDAQ
+FSTR,40,L.B. Foster Company - Common Stock,2013-04-30,2023-05-14,NASDAQ
+WHF,40,"WhiteHorse Finance, Inc. - Closed End Fund",2013-05-14,2023-05-09,NASDAQ
+TS,40,Tenaris S.A. American Depositary Shares,2012-10-18,2023-04-27,NYSE
+UTX,40,United Technologies Corporation Common Stock,2012-10-23,2020-01-28,NYSE
+GPOR,40,GPOR,2012-11-07,2023-05-03,NASDAQ
+MDXG,39,"MiMedx Group, Inc - Common Stock",2013-03-07,2023-05-02,NASDAQ
+OCN,39,Ocwen Financial Corporation NEW Common Stock,2013-02-28,2023-05-04,NYSE
+HOFT,39,Hooker Furnishings Corporation - Common Stock,2013-04-15,2023-04-19,NASDAQ
+HMN,39,Horace Mann Educators Corporation Common Stock,2013-04-25,2023-05-05,NYSE
+PESI,39,"Perma-Fix Environmental Services, Inc. - Common Stock",2013-03-22,2023-05-13,NASDAQ
+EVTC,39,"Evertec, Inc. Common Stock",2013-08-07,2023-04-26,NYSE
+ONEXF,39,ONEXF,2013-05-10,2023-05-12,OTC
+HVT,39,"Haverty Furniture Companies, Inc. Common Stock",2013-05-03,2023-05-03,NYSE
+AMAG,39,AMAG,2012-11-01,2020-08-09,
+DRE,39,Duke Realty Corporation Common Stock,2012-11-01,2022-04-28,NYSE
+NCMI,39,"National CineMedia, Inc. - Common Stock",2013-02-21,2022-11-07,NASDAQ
+SD,39,Sandridge Energy Inc. Common Stock,2012-11-09,2023-05-05,NYSE
+OKTA,39,"Okta, Inc. - Class A Common Stock",2017-06-07,2023-05-31,NASDAQ
+ALXN,39,ALXN,2012-10-24,2020-10-29,
+CERN,39,CERN,2012-10-25,2021-10-29,
+SFM,39,"Sprouts Farmers Market, Inc. - Common Stock",2013-11-10,2023-05-01,NASDAQ
+EARN,39,Ellington Residential Mortgage REIT Common Shares of Beneficial Interest,2013-08-15,2023-05-12,NYSE
+TISI,39,"Team, Inc. Common Stock",2013-01-08,2021-08-08,NYSE
+ATEC,39,"Alphatec Holdings, Inc. - Common Stock",2013-02-28,2023-05-06,NASDAQ
+DXYN,39,"The Dixie Group, Inc. - Common Stock",2013-05-01,2023-05-05,NASDAQ
+MITK,39,"Mitek Systems, Inc. - Common Stock",2012-11-07,2022-07-28,NASDAQ
+UL,39,Unilever PLC Common Stock,2012-10-25,2023-04-27,NYSE
+AGIO,39,"Agios Pharmaceuticals, Inc. - Common Stock",2013-11-09,2023-05-04,NASDAQ
+HSKA,39,HSKA,2013-02-25,2023-02-28,
+CPK,39,Chesapeake Utilities Corporation Common Stock,2012-11-08,2023-05-06,NYSE
+PMNXF,39,PMNXF,2014-08-03,2023-04-19,OTC
+HAFC,39,Hanmi Financial Corporation - Common Stock,2013-04-25,2023-04-25,NASDAQ
+CORR,39,"CorEnergy Infrastructure Trust, Inc. Common Stock",2013-05-13,2023-05-11,NYSE
+TDW,39,Tidewater Inc. Common Stock,2012-11-06,2023-05-09,NYSE
+OFS,39,OFS Capital Corporation - Closed End Fund,2013-05-08,2023-05-05,NASDAQ
+VWDRY,39,VWDRY,2012-11-07,2023-05-10,OTC
+CX,39,"Cemex, S.A.B. de C.V. Sponsored ADR",2013-02-07,2023-05-02,NYSE
+SCOR,39,"comScore, Inc. - Common Stock",2013-02-14,2023-05-13,NASDAQ
+SUPN,39,"Supernus Pharmaceuticals, Inc. - Common Stock",2013-03-14,2023-05-09,NASDAQ
+HASI,39,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock",2013-08-11,2023-05-04,NYSE
+GCI,39,"Gannett Co., Inc. Common Stock",2013-02-04,2023-05-04,NYSE
+STXS,39,STXS,2012-11-05,2023-05-09,NASDAQ
+DNKN,39,DNKN,2012-10-25,2020-10-29,
+MS,39,Morgan Stanley Common Stock,2012-10-18,2020-01-16,NYSE
+ACU,39,ACU,2013-04-19,2023-04-21,NYSE
+NSTG,39,"NanoString Technologies, Inc. - Common Stock",2013-08-11,2023-05-03,NASDAQ
+TAL,39,"TAL International Group, Inc. Common Stock",2012-10-25,2023-04-27,NYSE
+ARRY-OLD,39,ARRY-OLD,2012-10-30,2019-05-07,
+CRVL,39,CorVel Corp. - Common Stock,2013-05-30,2022-11-01,NASDAQ
+GFF,39,Griffon Corporation Common Stock,2013-01-30,2023-05-03,NYSE
+MRIN,39,Marin Software Incorporated - Common Stock,2013-05-08,2023-05-06,NYSE
+AGGZF,39,AGGZF,2013-05-10,2023-05-13,OTC
+LPTH,39,"LightPath Technologies, Inc. - Class A Common Stock",2013-05-02,2023-05-11,NASDAQ
+BTU,39,Peabody Energy Corporation Common Stock,2012-10-22,2023-04-27,NYSE
+TX,39,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",2013-02-20,2023-04-26,NYSE
+CMRE,39,Costamare Inc. Common Stock $0.0001 par value,2013-04-25,2023-05-15,NYSE
+FBC,39,"Flagstar Bancorp, Inc. Common Stock",2012-10-24,2021-05-03,NYSE
+PFSW,39,"PFSweb, Inc. - Common Stock",2013-03-28,2023-05-13,NASDAQ
+KOP,39,Koppers Holdings Inc. Koppers Holdings Inc. Common Stock,2013-02-14,2023-05-05,NYSE
+HFC,39,HollyFrontier Corporation Common Stock,2012-11-07,2022-02-23,NYSE
+RLJ,39,RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value,2013-08-12,2023-05-05,NYSE
+CTG,39,"Computer Task Group, Incorporated - Common Stock",2013-07-23,2023-05-14,NASDAQ
+BURL,39,"Burlington Stores, Inc. Common Stock",2013-12-10,2023-05-25,NYSE
+SAND,39,SAND,2012-10-26,2023-05-11,NYSE
+ZIXI,39,ZIXI,2012-10-23,2021-08-08,
+HTH,39,Hilltop Holdings Inc.,2014-03-04,2023-04-21,NYSE
+AAWW,39,AAWW,2013-02-13,2022-05-05,
+PKOH,39,Park-Ohio Holdings Corp. - Common Stock,2013-05-03,2023-05-07,NASDAQ
+UPMKF,39,UPMKF,2013-04-25,2023-04-25,OTC
+REXR,39,"Rexford Industrial Realty, Inc. Common Stock",2013-09-03,2023-04-20,NYSE
+NVTA,39,NVTA,2015-11-05,2023-06-08,NASDAQ
+LAKE,39,"Lakeland Industries, Inc. - Common Stock",2013-05-21,2023-04-13,NASDAQ
+SCM,39,Stellus Capital Investment Corporation Common Stock,2013-05-10,2023-05-10,NYSE
+LXFR,39,Luxfer Holdings PLC American Depositary Shares (each representing one,2013-03-12,2023-04-30,NYSE
+SATS,39,EchoStar Corporation - Common stock,2012-11-06,2023-05-14,NASDAQ
+SYN,39,SYN,2013-06-25,2022-08-11,NYSE
+CCXI,39,CCXI,2013-03-05,2022-05-05,
+VICR,39,Vicor Corporation - Common Stock,2013-04-25,2023-04-25,NASDAQ
+NWPX,39,Northwest Pipe Company - Common Stock,2013-03-15,2023-05-05,NASDAQ
+LLNW,39,LLNW,2012-11-02,2022-04-28,
+LAND,39,Gladstone Land Corporation - Common Stock,2013-03-28,2023-05-09,NASDAQ
+CFPZF,39,CFPZF,2012-10-24,2023-05-05,OTC
+UFI,39,"Unifi, Inc. New Common Stock",2013-04-25,2023-05-06,NYSE
+KELYA,39,"Kelly Services, Inc. - Class A Common Stock",2013-05-08,2023-05-11,NASDAQ
+HSON,39,"Hudson Global, Inc. - Common Stock",2013-05-07,2023-05-14,NASDAQ
+PDLI,39,PDLI,2012-11-05,2020-11-11,
+AXU,39,AXU,2012-11-06,2022-05-13,NYSE
+ORC,39,"Orchid Island Capital, Inc. Common Stock",2013-05-03,2023-04-28,NYSE
+CTL,39,"CenturyLink, Inc. Common Stock",2012-11-07,2020-09-15,NYSE
+RGR,39,"Sturm, Ruger & Company, Inc. Common Stock",2013-02-28,2023-05-04,NYSE
+CRMD,39,CorMedix Inc. - Common Stock,2014-04-01,2023-05-15,NYSE
+WBA,39,"Walgreens Boots Alliance, Inc. - Common Stock",2015-07-09,2023-03-28,NASDAQ
+DYNT,39,Dynatronics Corporation - Common Stock,2013-02-13,2023-05-12,NASDAQ
+RICK,39,"RCI Hospitality Holdings, Inc. - Common Stock",2013-02-12,2023-05-10,NASDAQ
+CREE,39,CREE,2013-01-22,2021-08-17,
+PSA,39,Public Storage Common Stock,2012-11-09,2022-08-05,NYSE
+MOG.A,39,Moog Inc. Class A Common Stock,2013-01-25,2023-02-03,NYSE
+FNHC,39,FNHC,2012-11-08,2022-05-14,
+PTCT,39,"PTC Therapeutics, Inc. - Common Stock",2013-08-12,2023-04-28,NASDAQ
+TPH,39,"Tri Pointe Homes, Inc. Common Stock",2013-03-28,2023-04-27,NYSE
+E,39,ENI S.p.A. Common Stock,2012-10-30,2023-04-28,NYSE
+GILT,39,Gilat Satellite Networks Ltd. - Ordinary Shares,2012-11-14,2023-05-09,NASDAQ
+JOUT,39,Johnson Outdoors Inc. - Class A Common Stock,2013-05-03,2023-05-05,NASDAQ
+PAR,39,PAR Technology Corporation Common Stock,2013-05-01,2023-05-10,NYSE
+AR,38,Antero Resources Corporation Common Stock,2014-02-27,2023-04-27,NYSE
+ROLL,38,ROLL,2013-05-29,2022-08-07,
+TCEHY,38,TCEHY,2013-11-13,2023-05-17,OTC
+LHCG,38,LHCG,2012-11-08,2022-02-24,
+NBL,38,Noble Energy Inc. Common Stock,2012-10-25,2020-05-08,NYSE
+OSBC,38,"Old Second Bancorp, Inc. - Common Stock",2013-04-25,2023-04-20,NASDAQ
+BBVA,38,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,2012-10-31,2023-04-27,NYSE
+RUSMF,38,RUSMF,2013-05-03,2023-05-15,OTC
+YNDX,38,Yandex N.V. - Class A Ordinary Shares,2012-10-30,2022-02-15,
+GPL,38,GPL,2012-11-15,2022-08-04,NYSE
+ELGX,38,ELGX,2012-10-25,2020-05-13,
+FVE,38,"Five Star Quality Care, Inc. Common Stock",2012-10-29,2021-11-06,NYSE
+PFIN,38,"P & F Industries, Inc. - Class A Common Stock",2013-05-09,2023-05-12,NASDAQ
+MIC,38,Macquarie Infrastructure Company LLC (New) Shares representing one Limited Liability Interest,2012-11-05,2021-05-04,NYSE
+ESRT,38,"Empire State Realty Trust, Inc. Class A Common Stock",2014-02-28,2023-04-27,NYSE
+CRY,38,"CryoLife, Inc. Common Stock",2012-10-30,2021-11-07,NYSE
+FTR,38,FTR,2012-11-06,2019-11-05,
+GSS,38,GSS,2012-11-08,2021-11-02,NYSE
+OIIM,38,OIIM,2013-05-01,2022-11-04,
+SEDG,38,"SolarEdge Technologies, Inc. - Common Stock",2015-11-04,2023-05-03,NASDAQ
+MFCSF,38,MFCSF,2013-05-15,2023-05-11,OTC
+SMED,38,SMED,2013-01-30,2022-05-12,
+REGI,38,REGI,2012-11-06,2021-11-04,
+MBUU,38,"Malibu Boats, Inc. - Common Stock",2014-09-11,2023-05-03,NASDAQ
+VCRA,38,"Vocera Communications, Inc. Common Stock",2013-02-27,2021-10-28,NYSE
+FENG,38,"Phoenix New Media Limited American Depositary Shares, each representing 8 Class A ordinary shares.",2013-03-07,2023-05-15,NYSE
+RBS,38,Royal Bank of Scotland Group Plc New (The) ADS,2012-11-02,2021-02-19,NYSE
+CVA,38,Covanta Holding Corporation Common Stock,2012-10-18,2023-04-26,NYSE
+INUV,38,INUV,2013-03-13,2023-03-09,NYSE
+IONS,38,"Ionis Pharmaceuticals, Inc. - Common Stock",2016-02-25,2023-05-03,NASDAQ
+PROV,38,"Provident Financial Holdings, Inc. - Common Stock",2013-04-26,2023-04-29,NASDAQ
+DOCU,38,"DocuSign, Inc. - Common Stock",2018-06-07,2023-03-09,NASDAQ
+ATVI,38,"Activision Blizzard, Inc - Common Stock",2012-11-07,2021-11-02,NASDAQ
+PINC,38,"Premier, Inc. - Class A Common Stock",2014-02-14,2023-05-02,NASDAQ
+OAS,38,Oasis Petroleum Inc. Common Stock,2012-11-08,2022-05-05,NYSE
+ASC,38,Ardmore Shipping Corporation Common Stock,2013-11-11,2023-05-09,NYSE
+BLL,38,Ball Corporation Common Stock,2012-10-25,2022-05-05,NYSE
+PCYG,38,"Park City Group, Inc. - Common Stock",2014-05-12,2023-05-15,NASDAQ
+MEGEF,38,MEGEF,2013-04-24,2023-05-02,OTC
+TU,38,Telus Corporation Ordinary Shares,2013-02-15,2023-05-04,NYSE
+UGP,38,Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share),2013-02-22,2023-02-16,NYSE
+BLRX,38,BioLineRx Ltd. - American Depositary Shares,2013-03-12,2023-05-24,NASDAQ
+RAD,38,Rite Aid Corporation Common Stock,2012-12-20,2023-04-20,NYSE
+SB,38,"Safe Bulkers, Inc Common Stock ($0.001 par value)",2012-11-15,2023-05-11,NYSE
+DOOR,38,Masonite International Corporation Ordinary Shares (Canada),2014-02-24,2023-05-14,NYSE
+CIDM,38,CIDM,2013-02-13,2023-02-14,
+SAIC,38,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock,2014-04-08,2023-06-05,NYSE
+ZGNX,38,ZGNX,2012-11-09,2021-11-04,
+CHGG,38,"Chegg, Inc. Common Stock",2014-02-15,2023-05-01,NYSE
+MXIM,38,MXIM,2012-10-25,2020-04-28,
+GWPH,38,GWPH,2013-08-05,2021-01-12,
+MANT,38,MANT,2013-02-20,2022-05-08,
+NEON,38,Neonode Inc. - Common Stock,2012-11-14,2023-05-11,NASDAQ
+TECH,38,Bio-Techne Corp - Common Stock,2013-10-29,2023-05-03,NASDAQ
+PATK,38,"Patrick Industries, Inc. - Common Stock",2014-02-20,2023-04-27,NASDAQ
+PZN,38,Pzena Investment Management Inc Class A Common Stock,2012-10-24,2022-04-20,NYSE
+CRTO,38,Criteo S.A. - American Depositary Shares,2014-08-05,2023-05-03,NASDAQ
+ARCO,38,Arcos Dorados Holdings Inc. Class A Shares,2013-03-08,2023-05-17,NYSE
+RIBT,38,RiceBran Technologies - Common Stock,2013-04-04,2023-05-12,NASDAQ
+ANGI,38,Angi Inc. - Class A Common Stock,2012-10-24,2023-05-10,NASDAQ
+CDW,38,CDW Corporation - Common Stock,2013-11-01,2023-05-03,NASDAQ
+EIG,38,Employers Holdings Inc Common Stock,2013-05-09,2023-04-28,NYSE
+DSGX,38,The Descartes Systems Group Inc. - Common Stock,2013-12-04,2023-05-31,NASDAQ
+PARR,38,PARR,2014-03-31,2023-05-07,NYSE
+APDN,38,"Applied DNA Sciences, Inc. - Common Stock",2013-02-15,2023-05-11,NASDAQ
+RDY,38,Dr. Reddy's Laboratories Ltd Common Stock,2012-10-30,2023-05-11,NYSE
+TRIB,38,Trinity Biotech plc - American Depositary Shares each representing 4 A Ordinary Shares,2012-10-18,2023-03-23,NASDAQ
+CSPI,38,CSP Inc. - Common Stock,2013-05-08,2023-05-14,NASDAQ
+HAYN,38,"Haynes International, Inc. - Common Stock",2013-02-01,2023-05-05,NASDAQ
+GLUU,38,GLUU,2012-11-01,2020-11-06,
+ECOL,38,ECOL,2012-10-30,2021-11-05,
+COR,38,CoreSite Realty Corporation Common Stock,2012-11-01,2021-10-28,NYSE
+APPS,38,"Digital Turbine, Inc. - Common Stock",2015-06-11,2023-05-24,NASDAQ
+INOD,38,Innodata Inc. - Common Stock,2013-02-07,2023-05-11,NASDAQ
+NP,38,"Neenah Paper, Inc. Common Stock",2013-02-21,2022-05-08,NYSE
+CENT,38,Central Garden & Pet Company - Common Stock,2013-02-07,2023-05-07,NASDAQ
+WES,38,"Western Gas Partners, LP Limited Partner Interests",2012-11-01,2023-05-04,NYSE
+PACB,38,"Pacific Biosciences of California, Inc. - Common Stock",2012-10-25,2023-05-02,NASDAQ
+EFSC,38,Enterprise Financial Services Corporation - Common Stock,2014-01-23,2023-04-25,NASDAQ
+CPSS,38,"Consumer Portfolio Services, Inc. - Common Stock",2013-02-05,2023-04-29,NASDAQ
+SAPIF,38,SAPIF,2012-11-07,2023-02-10,OTC
+ACC,38,American Campus Communities Inc Common Stock,2012-10-23,2022-02-23,NYSE
+AIMC,38,AIMC,2013-04-26,2022-07-30,
+SUBCY,38,SUBCY,2013-05-16,2023-04-29,OTC
+ORI,38,Old Republic International Corporation Common Stock,2012-10-25,2023-04-27,NYSE
+YARIY,38,YARIY,2013-04-22,2023-04-28,OTC
+OREX,38,OREX,2012-10-22,2017-11-13,
+EXETF,38,EXETF,2013-08-09,2023-05-05,OTC
+UMH,38,"UMH Properties, Inc. Common Stock",2014-03-13,2023-05-10,NYSE
+CCL,38,Carnival Corporation Common Stock,2012-12-20,2023-03-27,NYSE
+HENKY,38,HENKY,2013-05-08,2023-05-06,OTC
+ATRS,38,ATRS,2013-03-13,2022-03-03,
+ARES,38,Ares Management L.P. Common Units representing Limited Partner Interests,2014-08-13,2023-04-28,NYSE
+FALC,38,FALC,2013-03-18,2023-05-12,OTC
+VCYT,38,"Veracyte, Inc. - Common Stock",2014-03-18,2023-05-04,NASDAQ
+LYG,38,Lloyds Banking Group Plc American Depositary Shares,2012-11-01,2023-02-22,NYSE
+TEF,38,Telefonica SA Common Stock,2012-11-07,2023-05-11,NYSE
+CSII,38,CSII,2013-05-01,2022-11-05,
+PANL,38,Pangaea Logistics Solutions Ltd. - Common Stock,2012-11-07,2023-05-11,NASDAQ
+CTHR,38,Charles & Colvard Ltd. - Common Stock,2013-04-25,2023-05-06,NASDAQ
+IBTX,38,"Independent Bank Group, Inc - Common Stock",2013-10-29,2023-04-25,NASDAQ
+AMC,38,"AMC Entertainment Holdings, Inc. Class A Common Stock",2014-04-29,2023-05-05,NYSE
+CY,38,CY,2012-10-18,2019-04-25,
+PBPB,38,Potbelly Corporation - Common Stock,2014-02-18,2023-05-06,NASDAQ
+RRD,38,RRD,2012-11-01,2022-02-18,
+CLSN,38,CLSN,2013-03-18,2022-08-15,
+WIX,38,Wix.com Ltd. - Ordinary Shares,2014-02-14,2023-05-17,NASDAQ
+HLT,38,Hilton Worldwide Holdings Inc. Common Stock,2014-02-27,2023-04-26,NYSE
+SUNS,37,SUNS,2013-02-26,2022-03-02,
+IZEA,37,"IZEA Worldwide, Inc. - Common Stock",2013-04-02,2023-05-15,NASDAQ
+HFWA,37,Heritage Financial Corporation - Common Stock,2014-07-25,2023-04-20,NASDAQ
+IBCP,37,Independent Bank Corporation - Common Stock,2014-07-28,2023-04-29,NASDAQ
+TSEM,37,Tower Semiconductor Ltd. - Ordinary Shares,2012-11-15,2021-11-08,NASDAQ
+EFOI,37,"Energy Focus, Inc. - Common Stock",2013-03-27,2023-03-24,NASDAQ
+NMIH,37,NMI Holdings Inc - Common Stock,2014-03-10,2023-05-02,NASDAQ
+AAOI,37,"Applied Optoelectronics, Inc. - Common Stock",2014-02-27,2023-05-04,NASDAQ
+ITRN,37,Ituran Location and Control Ltd. - Ordinary Shares,2013-08-05,2023-05-24,NASDAQ
+AOSL,37,Alpha and Omega Semiconductor Limited - Common Shares,2013-08-13,2023-05-04,NASDAQ
+SHOP,37,SHOP,2016-05-04,2023-05-04,NASDAQ
+MT,37,Arcelor Mittal NY Registry Shares NEW,2012-10-31,2023-05-04,NYSE
+WATT,37,Energous Corporation - Common Stock,2014-05-14,2023-05-10,NASDAQ
+IO,37,Ion Geophysical Corporation Common Stock,2012-11-09,2021-11-06,NYSE
+BOKF,37,BOK Financial Corporation - Common Stock,2014-07-30,2023-04-26,NASDAQ
+ALG,37,"Alamo Group, Inc. Common Stock",2013-11-08,2023-05-05,NYSE
+INGN,37,"Inogen, Inc - Common Stock",2014-08-12,2023-05-05,NASDAQ
+BB,37,BB,2017-12-20,2023-03-30,NASDAQ
+STL,37,Sterling Bancorp,2012-11-02,2021-10-21,NYSE
+MDCA,37,MDCA,2013-04-25,2021-05-08,
+VNO,37,Vornado Realty Trust Common Stock,2012-11-02,2023-05-02,NYSE
+FATE,37,"Fate Therapeutics, Inc. - Common Stock",2014-03-17,2023-05-03,NASDAQ
+SQ,37,SQ,2016-03-09,2023-05-23,NASDAQ
+RLGY,37,Realogy Holdings Corp. Common Stock,2013-02-14,2022-04-28,NYSE
+GNK,37,GNK,2012-11-01,2023-05-04,NASDAQ
+PCTY,37,Paylocity Holding Corporation - Common Stock,2014-05-15,2023-05-04,NASDAQ
+PTC,37,PTC Inc. - Common Stock,2014-07-24,2023-04-26,NASDAQ
+WSTG,37,WSTG,2013-04-26,2022-08-05,
+TRST,37,TrustCo Bank Corp NY - Common Stock,2014-01-22,2023-04-25,NASDAQ
+BRX,37,Brixmor Property Group Inc. Common Stock,2014-02-20,2023-05-02,NYSE
+PCG,37,Pacific Gas & Electric Co. Common Stock,2012-10-29,2023-05-04,NYSE
+ARCB,37,ArcBest Corporation - Common Stock,2014-07-31,2023-04-28,NASDAQ
+BLIN,37,"Bridgeline Digital, Inc. - Common Stock",2013-02-14,2023-05-16,NASDAQ
+LMNX,37,LMNX,2013-02-04,2021-02-08,
+CLS,37,"Celestica, Inc. Common Stock",2013-01-22,2023-04-27,NYSE
+LIQT,37,"LiqTech International, Inc. - Common Stock",2013-05-14,2023-05-11,NYSE
+DGLY,37,"Digital Ally, Inc. - Common Stock",2013-04-30,2023-05-16,NASDAQ
+DISCA,37,DISCA,2012-11-06,2022-02-24,
+ISIS,37,ISIS,2012-10-19,2015-11-09,
+AAT,37,"American Assets Trust, Inc. Common Stock",2014-02-19,2023-04-26,NYSE
+MDP,37,Meredith Corporation Common Stock,2012-10-25,2021-08-12,NYSE
+HCP,37,"HashiCorp, Inc. - Class A Common Stock",2012-10-30,2023-06-08,NYSE
+ESNT,37,Essent Group Ltd. Common Shares,2014-02-19,2023-05-05,NYSE
+SPNS,37,Sapiens International Corporation N.V. - Common Shares,2014-02-26,2023-05-08,NASDAQ
+EMRAF,37,EMRAF,2013-05-07,2023-05-12,OTC
+IRT,37,IRT,2013-11-01,2023-04-27,NYSE
+JW.A,37,"John Wiley & Sons, Inc. Common Stock",2012-12-10,2022-03-08,NYSE
+SUMR,37,SUMR,2013-03-12,2021-11-11,
+FPLSF,37,FPLSF,2013-05-14,2023-05-06,OTC
+MSTR,37,MicroStrategy Incorporated - Class A Common Stock,2013-08-20,2023-05-01,NASDAQ
+PSB,37,"PS Business Parks, Inc. Common Stock",2013-02-20,2022-02-23,NYSE
+ALLE,37,Allegion plc Ordinary Shares,2014-07-31,2023-04-26,NYSE
+MDB,37,"MongoDB, Inc. - Class A Common Stock",2017-12-13,2023-06-09,NASDAQ
+VOYA,37,"Voya Financial, Inc. Common Stock",2013-08-07,2023-05-03,NYSE
+TWLO,37,TWLO,2016-08-08,2023-05-22,NASDAQ
+CIB,37,BanColombia S.A. Common Stock,2012-11-06,2023-05-12,NYSE
+EC,37,Ecopetrol S.A. American Depositary Shares,2012-10-30,2023-05-15,NYSE
+BSAC,37,Banco Santander,2013-08-02,2023-04-28,NYSE
+ARMK,37,Aramark Common Stock,2014-05-09,2023-05-09,NYSE
+UFS,37,Domtar Corporation (NEW) Common Stock,2012-10-25,2021-05-08,NYSE
+SWM,37,Schweitzer,2013-02-07,2022-05-07,NYSE
+ECOM,37,ChannelAdvisor Corporation Common Stock,2013-08-08,2022-08-09,NYSE
+MODN,37,"Model N, Inc. Common Stock",2014-05-01,2023-05-13,NYSE
+GORO,37,GORO,2012-11-15,2023-04-26,NYSE
+MDCO,37,MDCO,2013-02-20,2019-10-30,
+SSB,37,SouthState Corporation - Common Stock,2014-07-29,2023-04-28,NASDAQ
+RNG,37,"Ringcentral, Inc. Class A Common Stock",2014-07-29,2023-05-09,NYSE
+TGTX,37,"TG Therapeutics, Inc. - Common Stock",2013-05-14,2023-05-01,NASDAQ
+MGI,37,MGI,2012-11-09,2021-10-29,
+RANJF,37,RANJF,2013-04-26,2023-04-25,OTC
+CPST,37,CPST,2012-11-09,2021-02-09,
+HHS,37,"Harte-Hanks, Inc. - Common Stock",2013-01-31,2023-05-03,NYSE
+CRZBF,37,CRZBF,2013-08-09,2023-05-17,OTC
+SQM,37,Sociedad Quimica y Minera S.A. Common Stock,2012-11-21,2023-05-18,NYSE
+FOXF,37,Fox Factory Holding Corp. - Common Stock,2013-11-10,2023-05-07,NASDAQ
+ELTK,37,Eltek Ltd. - Ordinary Shares,2013-05-29,2023-05-18,NASDAQ
+AMH,37,American Homes 4 Rent Common Shares of Beneficial Interest,2013-11-09,2023-05-05,NYSE
+IFCZF,37,IFCZF,2013-05-11,2023-05-11,OTC
+OPRX,37,OptimizeRx Corporation - Common Stock,2013-08-14,2023-05-10,NASDAQ
+JCOM,37,JCOM,2012-11-01,2021-08-06,
+OCC,37,Optical Cable Corporation - Common Stock,2013-06-12,2023-03-13,NASDAQ
+ALLY,37,Ally Financial Inc. Common Stock,2014-07-29,2023-04-19,NYSE
+ITUB,37,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),2012-10-24,2023-05-08,NYSE
+SOHO,37,Sotherly Hotels Inc. - Common Stock,2014-08-08,2023-05-11,NASDAQ
+INSM,37,Insmed Incorporated - Common Stock,2012-11-07,2023-05-06,NASDAQ
+IMOS,37,ChipMOS TECHNOLOGIES INC. - American Depositary Shares,2012-11-20,2023-05-04,NASDAQ
+AMSF,37,"AMERISAFE, Inc. - Common Stock",2014-02-27,2023-04-27,NASDAQ
+ARESF,37,ARESF,2013-03-01,2023-05-12,OTC
+LDOS,37,"Leidos Holdings, Inc. Common Stock",2014-09-09,2023-05-02,NYSE
+CTSO,37,Cytosorbents Corporation - Common Stock,2014-03-31,2023-05-02,NASDAQ
+BAP,37,Credicorp Ltd. Common Stock,2013-05-07,2023-05-08,NYSE
+UVE,37,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,2013-11-05,2023-04-28,NYSE
+CPXWF,37,CPXWF,2014-08-01,2023-05-01,OTC
+EZPW,37,"EZCORP, Inc. - Class A Non-Voting Common Stock",2012-11-06,2023-05-06,NASDAQ
+GOL,37,Gol Linhas Aereas Inteligentes S.A. Sponsored ADR representing Pfd Shares,2012-11-15,2023-04-26,NYSE
+SABR,37,Sabre Corporation - Common Stock,2014-08-07,2023-05-04,NASDAQ
+ACDVF,37,ACDVF,2015-02-11,2023-05-12,OTC
+CEQP,37,Crestwood Equity Partners LP,2014-02-26,2023-05-02,NYSE
+HY,37,Hyster,2014-02-20,2023-05-05,NYSE
+FARM,37,Farmer Brothers Company - Common Stock,2014-09-09,2023-05-10,NASDAQ
+BXS,37,"BancorpSouth, Inc. Common Stock",2013-01-24,2021-10-26,NYSE
+FRFHF,37,FRFHF,2012-10-26,2023-02-17,OTC
+NGL,37,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,2013-02-15,2023-05-31,NYSE
+SP,37,SP Plus Corporation - Common Stock,2014-03-06,2023-05-07,NASDAQ
+DSNY,36,DSNY,2013-04-16,2023-04-17,OTC
+IBP,36,"Installed Building Products, Inc. Common Stock",2014-08-12,2023-05-06,NYSE
+CADNF,36,CADNF,2014-08-12,2023-05-13,OTC
+RMAX,36,"RE/MAX Holdings, Inc. Class A Common Stock",2013-11-14,2023-05-05,NYSE
+KEY,36,KeyCorp Common Stock,2012-10-18,2020-01-23,NYSE
+SJI,36,"South Jersey Industries, Inc. Common Stock",2013-02-28,2021-11-06,NYSE
+DGICA,36,"Donegal Group, Inc. - Class A Common Stock",2014-02-21,2023-04-29,NASDAQ
+UEPS,36,UEPS,2013-02-08,2022-05-11,
+DLR,36,"Digital Realty Trust, Inc. Common Stock",2012-10-26,2019-10-29,NYSE
+PX,36,"Praxair, Inc. Common Stock",2012-10-24,2023-05-15,NYSE
+NVGS,36,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),2014-03-19,2023-05-23,NYSE
+XEC,36,Cimarex Energy Co Common Stock,2012-11-02,2021-08-05,NYSE
+BEP,36,Brookfield Renewable Energy Partners LP Partnership Units (Bermuda),2013-08-09,2023-05-05,NYSE
+CYD,36,China Yuchai International Limited Common Stock,2012-11-12,2023-02-27,NYSE
+OFIX,36,Orthofix Medical Inc.  - Common Stock,2013-02-21,2023-05-14,NASDAQ
+BELFB,36,Bel Fuse Inc. - Class B Common Stock,2014-02-15,2023-04-29,NASDAQ
+ENZ,36,"Enzo Biochem, Inc. Common Stock ($0.01 Par Value)",2013-03-13,2022-12-13,NYSE
+OCFC,36,OceanFirst Financial Corp. - Common Stock,2014-07-25,2023-04-21,NASDAQ
+DDOG,36,"Datadog, Inc. - Class A Common Stock",2019-11-12,2023-06-08,NASDAQ
+PCOM,36,PCOM,2013-05-02,2022-05-11,
+CESDF,36,CESDF,2013-03-04,2023-05-12,OTC
+RLGT,36,RLGT,2013-05-15,2023-05-10,NYSE
+WIN,36,WIN,2012-11-08,2018-12-05,
+DOC,36,Physicians Realty Trust Common Shares of Beneficial Interest,2014-08-13,2023-05-04,NYSE
+SNSS,36,SNSS,2012-11-08,2020-11-16,
+AVID,36,"Avid Technology, Inc. - Common Stock",2014-09-24,2023-05-04,NASDAQ
+EVOL,36,EVOL,2012-11-13,2021-08-12,
+MX,36,"MagnaChip Semiconductor Corporation Depositary Shares, each representing one share of common stock",2013-01-31,2023-05-03,NYSE
+RGLS,36,Regulus Therapeutics Inc. - Common Stock,2012-11-19,2022-11-10,NASDAQ
+MN,36,"Manning & Napier, Inc. Class A Common Stock",2013-02-14,2022-02-08,NYSE
+KPTI,36,Karyopharm Therapeutics Inc. - Common Stock,2014-08-08,2023-05-06,NASDAQ
+HEAR,36,Turtle Beach Corporation - Common Stock,2014-05-14,2023-05-04,NASDAQ
+CDR,36,"Cedar Realty Trust, Inc. Common Stock",2012-11-09,2021-07-29,NYSE
+SAN,36,"Banco Santander, S.A. Sponsored ADR (Spain)",2012-10-25,2023-04-25,NYSE
+KN,36,Knowles Corporation Common Stock,2014-07-28,2023-04-27,NYSE
+RXN,36,Rexnord Corporation Common Stock,2012-11-08,2021-07-21,NYSE
+ETH,36,Ethan Allen Interiors Inc. Common Stock,2013-04-24,2021-08-09,NYSE
+BLFS,36,"BioLife Solutions, Inc. - Common Stock",2014-08-08,2023-05-10,NASDAQ
+WASH,36,"Washington Trust Bancorp, Inc. - Common Stock",2014-01-29,2023-04-24,NASDAQ
+MRCC,36,Monroe Capital Corporation - Closed End Fund,2014-08-11,2023-05-11,NASDAQ
+INDB,36,Independent Bank Corp. - Common Stock,2014-01-24,2023-04-21,NASDAQ
+PAYC,36,"Paycom Software, Inc. Common Stock",2014-08-05,2023-05-02,NYSE
+TPCS,36,TechPrecision Corporation - Common stock,2013-08-19,2023-02-14,NASDAQ
+BTN,36,BTN,2012-11-09,2022-11-12,NYSE
+HSBC,36,"HSBC Holdings, plc. Common Stock",2014-02-24,2023-05-02,NYSE
+ATHM,36,"Autohome Inc. American Depositary Shares, each representing one class A ordinary share.",2014-02-24,2023-05-11,NYSE
+TWOU,36,"2U, Inc. - Common Stock",2014-08-06,2023-04-27,NASDAQ
+OGS,36,"ONE Gas, Inc. Common Stock",2014-08-05,2023-05-02,NYSE
+XNCR,36,"Xencor, Inc. - Common Stock",2014-03-19,2023-05-08,NASDAQ
+ACFN,36,ACFN,2012-11-08,2023-05-11,OTC
+SE,36,Spectra Energy Corp Common Stock,2012-11-01,2023-05-16,NYSE
+RPAI,36,"Retail Properties of America, Inc. Class A Common Stock",2012-11-06,2021-05-08,NYSE
+WLDN,36,"Willdan Group, Inc. - Common Stock",2014-08-09,2023-05-06,NASDAQ
+GLPI,36,"Gaming and Leisure Properties, Inc. - Common Stock",2014-07-29,2023-04-28,NASDAQ
+AGRO,36,Adecoagro S.A. Common Shares,2012-11-14,2023-05-12,NYSE
+MGNX,36,"MacroGenics, Inc. - Common Stock",2014-08-05,2023-05-09,NASDAQ
+TCS,36,Container Store (The) Common Stock,2014-04-29,2023-05-16,NYSE
+SYNC,36,SYNC,2012-10-24,2020-11-11,
+AT-OLD,36,AT-OLD,2012-11-06,2021-03-05,
+EPAY,36,EPAY,2013-02-05,2021-11-09,
+DWSN,36,Dawson Geophysical Company - Common Stock,2012-11-14,2021-11-06,NASDAQ
+ERJ,36,Embraer S.A. Common Stock,2013-02-06,2023-03-10,NYSE
+COMM,36,"CommScope Holding Company, Inc. - Common Stock",2014-02-20,2023-05-04,NASDAQ
+TK,36,Teekay Corporation Common Stock,2012-11-08,2022-02-24,NYSE
+BABA,36,Alibaba Group Holding Limited American Depositary Shares each representing one Ordinary share,2014-11-04,2023-05-18,NYSE
+ROG,36,Rogers Corporation Common Stock,2013-02-20,2023-04-29,NYSE
+INGXF,36,INGXF,2013-05-15,2023-05-10,OTC
+TNET,36,"TriNet Group, Inc. Common Stock",2014-08-04,2023-04-26,NYSE
+COG,36,Cabot Oil & Gas Corporation Common Stock,2012-10-26,2021-07-30,NYSE
+TRUE,36,"TrueCar, Inc. - Common Stock",2014-08-08,2023-05-12,NASDAQ
+AEG,36,AEGON N.V. Common Stock,2013-02-15,2023-05-17,NYSE
+BKEP,36,BKEP,2013-03-14,2022-03-09,
+CPS,36,Cooper,2014-02-25,2023-05-06,NYSE
+STAR,36,iStar Financial Inc. Common Stock,2014-02-20,2023-02-21,NYSE
+FQVLF,36,FQVLF,2013-05-07,2023-04-26,OTC
+LADR,36,Ladder Capital Corp Class A Common Stock,2014-08-05,2023-04-27,NYSE
+TNDM,36,"Tandem Diabetes Care, Inc. - Common Stock",2014-07-31,2023-05-03,NASDAQ
+MMI,36,"Marcus & Millichap, Inc. Common Stock",2014-08-11,2023-05-05,NYSE
+RCMT,36,"RCM Technologies, Inc. - Common Stock",2013-05-10,2023-05-11,NASDAQ
+KODK,36,Eastman Kodak Company Common New,2014-08-05,2023-05-09,NYSE
+RVNC,36,"Revance Therapeutics, Inc. - Common Stock",2014-08-12,2023-05-09,NASDAQ
+STMP,36,STMP,2012-10-26,2021-05-06,
+PLT,36,"Plantronics, Inc. Common Stock",2012-10-30,2021-07-29,NYSE
+CNHI,36,CNH Industrial N.V. Common Shares,2014-08-02,2023-05-05,NYSE
+CDNTF,36,CDNTF,2013-05-09,2023-05-11,OTC
+BEAT,36,"Heartbeam, Inc. - Common Stock",2013-02-13,2023-05-14,NASDAQ
+ODP,36,The ODP Corporation - Common Stock,2012-11-06,2023-05-10,NASDAQ
+CSU,36,Capital Senior Living Corporation Common Stock,2013-03-07,2021-11-11,NYSE
+SNN,36,"Smith & Nephew SNATS, Inc. Common Stock",2012-11-01,2023-02-21,NYSE
+MGIC,36,Magic Software Enterprises Ltd. - Ordinary Shares,2014-08-11,2023-05-18,NASDAQ
+QTWO,36,"Q2 Holdings, Inc. Common Stock",2014-08-09,2023-05-09,NYSE
+AXTA,36,Axalta Coating Systems Ltd. Common Shares,2015-03-11,2023-05-03,NYSE
+LBLCF,36,LBLCF,2014-07-25,2023-05-03,OTC
+MC,36,Moelis & Company Class A Common Stock,2014-07-30,2023-04-26,NYSE
+VAR,36,"Varian Medical Systems, Inc. Common Stock",2012-10-25,2020-05-04,NYSE
+AMPH,36,"Amphastar Pharmaceuticals, Inc. - Common Stock",2014-11-13,2023-05-13,NASDAQ
+RFP,36,Resolute Forest Products Inc. Common Stock,2013-02-12,2022-05-05,NYSE
+SGC,36,"Superior Group of Companies, Inc. - Common Stock",2014-07-23,2023-05-08,NASDAQ
+UIHC,36,United Insurance Holdings Corp. - Common Stock,2014-07-29,2023-05-15,NASDAQ
+CO,36,China Cord Blood Corporation Common Stock,2013-02-27,2022-03-01,NYSE
+ANIP,36,"ANI Pharmaceuticals, Inc. - Common Stock",2014-08-04,2023-05-08,NASDAQ
+PEBO,36,Peoples Bancorp Inc. - Common Stock,2014-10-21,2023-04-25,NASDAQ
+BRFS,36,BRF S.A.,2013-04-30,2023-05-16,NYSE
+SAWLF,36,SAWLF,2014-08-08,2023-05-12,OTC
+LGIH,36,"LGI Homes, Inc. - Common Stock",2014-08-12,2023-05-02,NASDAQ
+IMMR,35,Immersion Corporation - Common Stock,2012-11-02,2021-08-16,NASDAQ
+FIVN,35,"Five9, Inc. - Common Stock",2014-08-04,2023-05-04,NASDAQ
+ARNGF,35,ARNGF,2013-05-14,2023-02-27,OTC
+ZURVY,35,ZURVY,2014-02-13,2023-05-17,OTC
+ECHO,35,ECHO,2013-02-08,2021-07-28,
+REV,35,"Revlon, Inc. New Common Stock",2012-10-25,2022-05-06,NYSE
+XNET,35,Xunlei Limited - American Depositary Shares,2014-11-11,2023-05-16,NASDAQ
+BRS,35,Bristow Group Inc. Common Stock,2013-02-05,2021-08-07,NYSE
+TBPH,35,"Theravance Biopharma, Inc. - Ordinary Shares",2014-11-07,2023-05-08,NASDAQ
+UBER,35,UBER,2019-05-30,2023-05-02,NASDAQ
+HMSY,35,HMSY,2012-10-26,2020-11-06,
+DNB,35,Dun & Bradstreet Corporation (The) Common Stock,2012-10-26,2023-05-06,NYSE
+BANC,35,"Banc of California, Inc. Common Stock",2014-03-14,2023-04-20,NYSE
+PBCT,35,PBCT,2012-10-18,2021-01-21,
+ALDX,35,"Aldeyra Therapeutics, Inc. - Common Stock",2014-11-10,2023-03-09,NASDAQ
+HIL,35,"Hill International, Inc. Common Stock",2013-03-12,2022-08-10,NYSE
+NRZ,35,New Residential Investment Corp. Common Stock,2014-03-20,2022-05-03,NYSE
+CFG,35,"Citizens Financial Group, Inc. Common Stock",2015-01-26,2023-04-19,NYSE
+VTNR,35,"Vertex Energy, Inc - Common Stock",2013-03-21,2023-05-09,NASDAQ
+FMBI,35,FMBI,2013-04-24,2021-07-20,
+MTLS,35,Materialise NV - American Depositary Shares,2014-11-12,2023-04-27,NASDAQ
+VOD,35,Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares,2012-11-13,2023-05-16,NASDAQ
+CIM,35,Chimera Investment Corporation Common Stock,2014-08-12,2023-05-04,NYSE
+NBN,35,Northeast Bank - Common Stock,2014-07-25,2023-04-25,NASDAQ
+EQC,35,Equity Commonwealth Common Shares of Beneficial Interest,2014-11-04,2023-05-06,NYSE
+PDS,35,Precision Drilling Corporation Common Stock,2014-10-27,2023-04-26,NYSE
+DLNG,35,Dynagas LNG Partners LP Common Units,2014-08-08,2023-03-17,NYSE
+GRA,35,W.R. Grace & Co. Common Stock,2012-10-24,2021-02-10,NYSE
+CHMI,35,Cherry Hill Mortgage Investment Corporation Common Stock,2014-08-12,2023-05-08,NYSE
+PFIE,35,"Profire Energy, Inc. - Common Stock",2014-11-11,2023-05-13,NASDAQ
+LOCO,35,"El Pollo Loco Holdings, Inc. - Common Stock",2014-11-06,2023-05-07,NASDAQ
+RYAM,35,Rayonier Advanced Materials Inc. Common Stock,2015-01-28,2023-05-10,NYSE
+GBNXF,35,GBNXF,2014-08-08,2023-05-02,OTC
+BBT,35,BB&T Corporation Common Stock,2012-10-18,2019-10-17,NYSE
+CMO,35,Capstead Mortgage Corporation Common Stock,2012-10-26,2021-04-29,NYSE
+FLDM,35,FLDM,2013-05-01,2021-11-08,
+TSLX,35,"TPG Specialty Lending, Inc. Common Stock",2014-11-06,2023-05-09,NYSE
+CYBR,35,CyberArk Software Ltd. - Ordinary Shares,2015-02-13,2023-05-11,NASDAQ
+CLGX,35,"CoreLogic, Inc. Common Stock",2012-10-25,2020-07-23,NYSE
+APTS,35,APTS,2013-03-12,2021-11-09,NYSE
+NUAN,35,NUAN,2012-11-19,2021-02-08,
+CSTM,35,Constellium N.V. Ordinary Shares,2014-03-20,2023-04-26,NYSE
+LITB,35,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing 2 ordinary shares",2013-08-20,2023-05-26,NYSE
+TRNS,35,"Transcat, Inc. - Common Stock",2014-07-30,2023-05-23,NASDAQ
+COHR,35,COHR,2013-04-24,2023-02-10,NASDAQ
+ASM,35,ASM,2014-08-21,2023-05-11,NYSE
+ADT,35,ADT Corporation Common Stock,2013-05-01,2023-05-02,NYSE
+CDPYF,35,CDPYF,2013-05-08,2023-05-15,OTC
+EKTAF,35,EKTAF,2013-06-06,2023-05-25,OTC
+NTIC,35,Northern Technologies International Corporation - Common Stock,2014-11-12,2023-04-13,NASDAQ
+JCP,35,"J.C. Penney Company, Inc. Holding Company Common Stock",2013-02-27,2020-02-27,NYSE
+JD,35,"JD.com, Inc. - American Depositary Shares",2014-11-17,2023-05-11,NASDAQ
+TIVO,35,TIVO,2012-11-28,2020-05-06,
+SREV,35,SREV,2013-05-09,2022-02-23,
+CHT,35,"Chunghwa Telecom Co., Ltd.",2012-10-26,2023-05-13,NYSE
+AMBC,35,AMBC,2014-08-12,2023-05-12,NASDAQ
+BDRFF,35,BDRFF,2013-05-02,2023-04-26,OTC
+TGP,35,Teekay LNG Partners L.P.,2012-11-09,2021-08-05,NYSE
+WFCF,35,"Where Food Comes From, Inc. - Common Stock",2014-11-03,2023-05-15,NASDAQ
+BNFT,35,BNFT,2014-03-07,2022-08-03,
+YRCW,35,YRCW,2012-11-02,2021-02-04,
+KEM,35,Kemet Corporation New Common Stock,2012-11-01,2020-05-14,NYSE
+SNE,35,Sony Corporation Common Stock,2012-11-01,2021-02-03,NYSE
+AMS,35,AMS,2013-04-01,2023-05-12,NYSE
+SDVKF,35,SDVKF,2014-07-17,2023-04-21,OTC
+DAIO,35,Data I/O Corporation - Common Stock,2014-07-31,2023-04-29,NASDAQ
+PAHC,35,Phibro Animal Health Corporation - Class A Common Stock,2014-11-12,2023-05-06,NASDAQ
+TRQ,35,Turquoise Hill Resources Ltd. Ordinary Shares,2013-03-26,2022-08-05,NYSE
+GTIM,35,Good Times Restaurants Inc. - Common Stock,2014-12-09,2023-05-13,NASDAQ
+SAFM,35,SAFM,2013-02-14,2021-05-27,
+CDNA,35,"CareDx, Inc. - Common Stock",2014-11-10,2023-05-12,NASDAQ
+ABCB,35,Ameris Bancorp - Common Stock,2015-01-30,2023-04-28,NASDAQ
+NAVI,35,Navient Corporation - Common Stock,2015-01-22,2023-04-26,NASDAQ
+SYF,35,Synchrony Financial Common Stock,2015-01-23,2023-04-19,NYSE
+KT,35,KT Corporation Common Stock,2013-02-01,2023-05-11,NYSE
+SWI,35,"Solarwinds, Inc. Common Stock",2012-10-25,2023-04-27,NYSE
+OCUL,35,"Ocular Therapeutix, Inc. - Common Stock",2014-11-12,2023-05-08,NASDAQ
+ALSK,35,ALSK,2012-11-02,2020-11-07,
+MBT,35,Mobile TeleSystems OJSC,2012-11-14,2022-08-18,NYSE
+CONE,35,CONE,2013-02-26,2021-10-28,
+STI,35,"SunTrust Banks, Inc. Common Stock",2012-10-22,2019-10-17,NYSE
+ZAGG,35,ZAGG,2012-11-02,2020-11-09,
+CVEO,35,Civeo Corporation Common Stock,2015-03-13,2023-04-28,NYSE
+MDWD,35,MediWound Ltd. - Ordinary Shares,2014-11-05,2023-05-30,NASDAQ
+CARA,35,"Cara Therapeutics, Inc. - Common Stock",2014-08-09,2023-05-15,NASDAQ
+BDRBF,35,BDRBF,2012-11-07,2023-04-27,OTC
+DAKT,35,"Daktronics, Inc. - Common Stock",2012-11-20,2023-03-08,NASDAQ
+CSOD,35,CSOD,2012-11-12,2021-05-09,
+LEE,35,"Lee Enterprises, Incorporated - Common Stock",2014-08-07,2023-05-07,NYSE
+APC,35,Anadarko Petroleum Corporation Common Stock,2012-10-30,2019-02-06,NYSE
+OUT,35,OUTFRONT Media Inc. Common Stock,2015-02-26,2023-05-03,NYSE
+ICCC,35,ImmuCell Corporation - Common Stock,2014-11-12,2023-05-12,NASDAQ
+TMOAF,35,TMOAF,2013-07-25,2023-04-14,OTC
+ARKR,35,Ark Restaurants Corp. - Common Stock,2013-02-13,2023-05-16,NASDAQ
+QUMU,35,QUMU,2014-02-24,2022-10-30,
+MANU,35,Manchester United Ltd. Class A Ordinary Shares,2013-02-14,2022-09-22,NYSE
+RARE,35,Ultragenyx Pharmaceutical Inc. - Common Stock,2015-03-25,2023-05-04,NASDAQ
+LNTH,35,"Lantheus Holdings, Inc. - Common Stock",2014-11-12,2023-05-04,NASDAQ
+STFC,35,STFC,2012-11-06,2021-05-09,
+MLHR,35,MLHR,2013-03-21,2021-09-29,
+CIT,35,CIT Group Inc (DEL) Common Stock,2012-10-23,2020-07-21,NYSE
+CCMP,35,CCMP,2013-04-25,2021-11-11,
+TTOO,35,"T2 Biosystems, Inc. - Common Stock",2014-11-04,2023-05-23,NASDAQ
+IRMD,35,iRadimed Corporation - Common Stock,2015-02-05,2023-05-08,NASDAQ
+TSC,35,TSC,2013-07-25,2021-10-21,
+VJET,35,voxeljet AG - American Depositary Shares,2014-03-28,2023-05-19,NYSE
+ETFC,35,ETFC,2012-10-18,2020-01-23,
+GURE,34,"Gulf Resources, Inc. - Common Stock",2012-11-09,2023-05-16,NASDAQ
+EPZM,34,EPZM,2013-09-11,2022-05-10,
+VRS,34,Verso Corporation Common Stock,2012-11-13,2021-11-05,NYSE
+OPTT,34,OPTT,2012-12-14,2023-03-14,NASDAQ
+RDS.A,34,Royal Dutch Shell PLC Royal Dutch Shell American Depositary Shares (Each representing two Class A Ordinary Shares),2012-11-01,2021-07-31,NYSE
+TRUP,34,"Trupanion, Inc. - Common Stock",2015-02-12,2023-05-04,NYSE
+WTBA,34,West Bancorporation - Common Stock,2015-01-30,2023-04-29,NASDAQ
+CTRE,34,CTRE,2015-02-12,2023-05-11,NASDAQ
+ORKLY,34,ORKLY,2014-11-02,2023-05-14,OTC
+ADES,34,"Advanced Emissions Solutions, Inc. - Common Stock",2013-03-14,2023-05-10,NASDAQ
+TSQ,34,"Townsquare Media, Inc. Class A Common Stock",2015-03-16,2023-05-10,NYSE
+CUBI,34,"Customers Bancorp, Inc Common Stock",2015-01-28,2023-04-28,NYSE
+SJR,34,Shaw Communications Inc. Common Stock,2012-10-25,2021-01-13,NYSE
+RSGUF,34,RSGUF,2013-05-01,2023-05-12,OTC
+CLI,34,Mack,2012-10-25,2021-11-06,NYSE
+NEPT,34,Neptune Wellness Solutions Inc. - Ordinary Shares,2013-01-17,2023-03-31,NASDAQ
+CCS,34,"Century Communities, Inc. Common Stock",2015-02-19,2023-04-26,NYSE
+CAPL,34,CrossAmerica Partners LP Common Units representing limited partner interests,2015-02-28,2023-05-09,NYSE
+BMNM,34,BMNM,2015-03-17,2023-05-12,OTC
+AIV,34,Apartment Investment and Management Company Common Stock,2012-11-02,2021-11-01,NYSE
+WRK,34,WRK,2015-08-02,2023-05-04,NASDAQ
+BOSC,34,B.O.S. Better Online Solutions - Ordinary Shares,2013-04-04,2023-05-30,NASDAQ
+PBR,34,Petroleo Brasileiro S.A.,2012-10-29,2023-05-12,NYSE
+ECC,34,Eagle Point Credit Company Inc. Common Stock,2015-02-27,2023-05-23,NYSE
+ASPN,34,"Aspen Aerogels, Inc. Common Stock",2015-02-26,2023-05-06,NYSE
+TGEN,34,TGEN,2014-11-18,2023-05-12,OTC
+ENVA,34,"Enova International, Inc. Common Stock",2015-02-03,2023-04-25,NYSE
+ISBC,34,ISBC,2013-02-01,2021-05-01,
+DO,34,"Diamond Offshore Drilling, Inc. Common Stock",2012-10-18,2023-05-09,NYSE
+NEWR,34,"New Relic, Inc. Common Stock",2015-08-08,2023-05-23,NYSE
+ENTA,34,"Enanta Pharmaceuticals, Inc. - Common Stock",2014-11-24,2023-05-08,NASDAQ
+CIO,34,"City Office REIT, Inc. Common Stock",2015-03-05,2023-05-05,NYSE
+VRTV,34,Veritiv Corporation Common Stock,2015-03-23,2023-05-09,NYSE
+ORBC,34,ORBC,2013-03-14,2021-02-24,
+CXO,34,Concho Resources Inc. Common Stock,2012-11-08,2020-07-30,NYSE
+IRET,34,Investors Real Estate Trust Shares of Beneficial Interest,2012-12-11,2020-11-03,NYSE
+KNOP,34,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,2014-08-14,2023-05-26,NYSE
+BOOT,34,"Boot Barn Holdings, Inc. Common Stock",2015-02-04,2023-05-18,NYSE
+HTHIY,34,HTHIY,2013-02-04,2023-05-01,OTC
+SMLR,34,"Semler Scientific, Inc. - Common Stock",2014-10-31,2023-05-10,NASDAQ
+ASPU,34,ASPU,2014-12-01,2022-12-13,OTC
+VVUS,34,VVUS,2012-11-06,2020-05-06,
+FLIR,34,FLIR,2012-10-25,2020-10-30,
+PEIX,34,PEIX,2012-11-13,2020-11-10,
+AERI,34,AERI,2014-08-10,2022-08-07,
+MLNX,34,MLNX,2012-10-17,2019-01-30,
+PKE,34,Park Electrochemical Corporation Common Stock,2013-05-10,2023-05-13,NYSE
+CYBE,34,CYBE,2014-07-29,2022-07-27,
+VLRS,34,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates",2014-10-23,2023-04-25,NYSE
+VUZI,34,Vuzix Corporation  - Common Stock,2015-04-03,2023-05-10,NASDAQ
+NVEE,34,"NV5 Global, Inc. - Common Stock",2015-03-26,2023-05-07,NASDAQ
+CVCO,34,"Cavco Industries, Inc. - Common Stock",2014-08-02,2023-05-19,NASDAQ
+VCEL,34,Vericel Corporation - Common Stock,2015-03-23,2023-05-10,NASDAQ
+ALARF,34,ALARF,2015-03-19,2023-05-10,
+DDAIF,34,DDAIF,2013-10-24,2022-04-27,
+HRTG,34,"Heritage Insurance Holdings, Inc. Common Stock",2015-03-05,2023-05-05,NYSE
+IMH,34,IMH,2013-02-28,2023-03-17,NYSE
+WLKP,34,Westlake Chemical Partners LP Common Units representing limited partner interests,2015-02-24,2023-05-07,NYSE
+CAAS,34,"China Automotive Systems, Inc. - Common Stock",2012-11-08,2023-05-12,NASDAQ
+NM,34,Navios Maritime Holdings Inc. Common Stock,2012-11-20,2023-05-24,NYSE
+PGR,34,Progressive Corporation (The) Common Stock,2012-11-02,2023-05-03,NYSE
+VGZ,34,VGZ,2012-10-27,2023-02-27,NYSE
+BDSI,34,BDSI,2013-03-08,2021-11-03,
+CBAY,34,CymaBay Therapeutics Inc. - Common Stock,2014-11-12,2023-05-15,NASDAQ
+ABX,34,Barrick Gold Corporation Common Stock,2012-11-01,2018-10-25,NYSE
+CYRN,34,CYRN,2014-08-19,2022-11-14,
+HUBS,34,"HubSpot, Inc. Common Stock",2015-02-11,2023-05-03,NYSE
+GLOP,34,GasLog Partners LP Common Units representing limited partnership interests,2014-07-31,2023-04-29,NYSE
+NATR,34,"Nature's Sunshine Products, Inc. - Common Stock",2014-08-06,2023-05-13,NASDAQ
+MIXT,34,"MiX Telematics Limited American Depositary Shares, each representing 25 Ordinary Shares",2013-11-07,2023-05-25,NYSE
+FOE,34,Ferro Corporation Common Stock,2012-10-30,2021-03-02,NYSE
+CNCE,34,CNCE,2014-08-12,2022-11-07,
+FRPT,34,"Freshpet, Inc. - Common Stock",2015-03-31,2023-05-08,NASDAQ
+XLRN,34,XLRN,2014-03-03,2021-08-08,
+AMRK,34,"A-Mark Precious Metals, Inc. - Common Stock",2014-11-07,2023-05-09,NASDAQ
+GNMK,34,GNMK,2013-03-12,2021-02-25,
+EVOTF,34,EVOTF,2014-08-12,2023-03-28,OTC
+DLMAF,34,DLMAF,2013-12-05,2023-06-08,OTC
+KINS,34,"Kingstone Companies, Inc - Common Stock",2015-03-26,2023-05-12,NASDAQ
+VRNS,34,"Varonis Systems, Inc. - Common Stock",2014-08-04,2023-05-01,NASDAQ
+DIIBF,34,DIIBF,2014-03-04,2023-05-15,OTC
+CPG,34,Crescent Point Energy Corporation Ordinary Shares (Canada),2015-03-11,2023-05-12,NYSE
+FOR,34,Forestar Group Inc Common Stock,2013-02-14,2023-04-20,NYSE
+CRWD,34,"CrowdStrike Holdings, Inc. - Class A Common Stock",2019-07-18,2023-05-31,NASDAQ
+WDR,34,"Waddell & Reed Financial, Inc. Common Stock",2012-11-01,2020-10-27,NYSE
+ASB,34,Associated Banc,2015-01-22,2023-04-20,NYSE
+WRI,34,Weingarten Realty Investors Common Stock,2012-10-31,2021-02-23,NYSE
+GIGA,34,GIGA,2013-06-27,2022-07-06,OTC
+PFPT,34,PFPT,2013-03-06,2021-02-04,
+HNRG,34,Hallador Energy Company - Common Stock,2014-11-11,2023-05-09,NASDAQ
+OMAB,34,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. - American Depositary Shares each representing 8 Series B shares,2013-04-29,2023-04-27,NASDAQ
+MRRTY,34,MRRTY,2013-05-15,2023-05-16,OTC
+LAWS,34,LAWS,2013-07-29,2022-04-30,
+LUMN,34,LUMN,2020-11-05,2023-05-02,NASDAQ
+MOFG,34,"MidWestOne Financial Group, Inc. - Common Stock",2015-01-23,2023-04-28,NASDAQ
+TPVG,34,TriplePoint Venture Growth BDC Corp. Common Stock,2015-03-16,2023-05-03,NYSE
+OEC,34,Orion Engineered Carbons S.A Common Shares,2015-03-05,2023-05-05,NYSE
+CATM,34,CATM,2012-11-01,2020-11-01,
+NBY,34,NBY,2015-03-26,2023-05-11,NYSE
+LUCRF,34,LUCRF,2014-12-09,2023-05-12,OTC
+SNCAF,34,SNCAF,2014-08-08,2023-05-14,OTC
+EGRX,34,"Eagle Pharmaceuticals, Inc. - Common Stock",2014-12-17,2023-05-09,NASDAQ
+GPRK,34,Geopark Ltd Common Shares,2015-03-23,2023-05-06,NYSE
+SBFG,34,"SB Financial Group, Inc. - Common Stock",2015-01-22,2023-04-21,NASDAQ
+KBCSF,34,KBCSF,2013-08-12,2023-05-16,OTC
+CPPMF,34,CPPMF,2014-02-21,2023-04-28,
+TSE,34,Trinseo S.A. Ordinary Shares,2015-03-05,2023-05-05,NYSE
+AMTX,34,"Aemetis, Inc - Common Stock",2014-11-12,2023-05-06,NASDAQ
+WKCMF,34,WKCMF,2013-07-30,2023-04-29,OTC
+SFBS,34,SFBS,2015-01-21,2023-04-17,NASDAQ
+DSPG,33,DSPG,2013-04-29,2021-08-02,
+BVN,33,Buenaventura Mining Company Inc.,2013-07-31,2023-04-28,NYSE
+WPX,33,"WPX Energy, Inc. Common Stock",2012-11-01,2020-11-03,NYSE
+FLY,33,Fly Leasing Limited,2012-11-08,2021-02-27,NYSE
+GWLIF,33,GWLIF,2014-08-07,2023-05-10,OTC
+W,33,Wayfair Inc. Class A Common Stock,2015-03-04,2023-05-04,NYSE
+ECA,33,Encana Corporation,2012-10-24,2019-10-31,NYSE
+WK,33,Workiva Inc. Class A Common Stock,2015-08-05,2023-05-02,NYSE
+KBAL,33,KBAL,2015-02-04,2023-02-02,
+BCEI,33,"Bonanza Creek Energy, Inc. Common Stock",2013-03-15,2021-08-10,NYSE
+EVGN,33,Evogene Ltd. - Ordinary Shares,2014-03-19,2023-05-18,NYSE
+IPWR,33,Ideal Power Inc. - Common Stock,2014-11-12,2023-05-04,NASDAQ
+DRAD,33,DRAD,2013-02-28,2020-11-13,
+RWT,33,"Redwood Trust, Inc. Common Stock",2015-02-23,2023-04-27,NYSE
+NVRO,33,Nevro Corp. Common Stock,2015-08-09,2023-04-26,NYSE
+EV,33,Eaton Vance Corporation Common Stock,2012-11-15,2020-08-26,NYSE
+CTLT,33,"Catalent, Inc. Common Stock",2015-02-12,2023-05-19,NYSE
+RDUS,33,RDUS,2014-11-11,2022-05-06,
+NKRKF,33,NKRKF,2013-08-09,2023-02-07,OTC
+LPG,33,Dorian LPG Ltd. Common Stock,2015-02-05,2023-05-24,NYSE
+RTN,33,Raytheon Company Common Stock,2012-10-25,2020-01-30,NYSE
+USCR,33,USCR,2013-03-07,2021-05-09,
+HOLI,33,"Hollysys Automation Technologies, Ltd. - Common Stock",2013-02-20,2021-05-14,NASDAQ
+WB,33,Weibo Corporation - American Depositary Shares,2015-03-11,2023-05-25,NASDAQ
+WSTL,33,WSTL,2012-11-06,2020-06-18,OTC
+SGA,33,"Saga Communications, Inc. - Class A Common Stock",2013-05-08,2023-05-08,NYSE
+LC,33,LendingClub Corporation Common Stock,2015-08-08,2023-04-26,NYSE
+CWH,33,CWH,2012-11-07,2023-05-03,NASDAQ
+LDL,33,"Lydall, Inc. Common Stock",2013-05-01,2021-05-01,NYSE
+DVCR,33,DVCR,2013-05-10,2021-08-11,
+PKD,33,Parker Drilling Company Common Stock,2012-11-01,2019-11-07,NYSE
+EVH,33,EVH,2016-02-25,2023-05-03,NASDAQ
+ADDYY,33,ADDYY,2013-08-08,2023-05-05,OTC
+WIFI,33,WIFI,2013-02-21,2020-11-09,
+SAGE,33,"Sage Therapeutics, Inc. - Common Stock",2015-05-14,2023-05-02,NASDAQ
+SNH,33,Senior Housing Properties Trust Common Stock,2012-10-29,2019-11-07,NYSE
+NHTC,33,Natural Health Trends Corp. - Commn Stock,2015-07-30,2023-05-08,NASDAQ
+MNR,33,Monmouth Real Estate Investment Corporation Class A Common Stock,2012-12-13,2021-02-04,NYSE
+NPIFF,33,NPIFF,2013-05-09,2023-05-10,OTC
+REI,33,REI,2015-08-11,2023-05-07,NYSE
+AEGN,33,AEGN,2013-02-26,2020-10-30,
+IWSY,33,IWSY,2013-04-01,2021-09-23,
+TMST,33,Timken Steel Corporation Common Shares,2015-01-30,2023-05-05,NYSE
+CORE,33,CORE,2013-03-14,2021-05-08,
+MTBC,33,MTBC,2014-11-12,2022-11-05,
+ANH,33,Anworth Mortgage Asset Corporation Common Stock,2012-10-26,2021-02-24,NYSE
+SWDBF,33,SWDBF,2014-10-21,2023-04-29,OTC
+QEP,33,"QEP Resources, Inc. Common Stock",2012-10-31,2020-10-29,NYSE
+DNR,33,Denbury Resources Inc. Common Stock,2012-11-06,2020-05-18,NYSE
+BKNG,33,Booking Holdings Inc. - Common Stock,2018-02-27,2023-05-04,NASDAQ
+ATEN,33,"A10 Networks, Inc. Common Stock",2014-07-30,2023-05-04,NYSE
+CCLP,33,CSI Compressco LP - common units,2015-02-27,2023-05-05,NASDAQ
+PLAY,33,"Dave & Buster's Entertainment, Inc. - Common Stock",2015-04-07,2023-06-06,NASDAQ
+EGLE,33,EGLE,2012-11-09,2023-05-05,NASDAQ
+RYI,33,Ryerson Holding Corporation Common Stock,2015-05-08,2023-05-02,NYSE
+NAV,33,Navistar International Corporation Common Stock,2012-12-19,2020-09-09,NYSE
+BAC.PK,33,BAC.PK,2020-04-15,2023-06-01,
+MUX,33,McEwen Mining Inc. Common Stock,2012-11-07,2023-05-09,NYSE
+SYX,33,Systemax Inc. Common Stock,2013-03-05,2021-05-08,NYSE
+AVP,33,"Avon Products, Inc. Common Stock",2012-11-01,2019-10-31,NYSE
+AP,33,Ampco,2015-02-27,2023-05-16,NYSE
+EGOV,33,EGOV,2013-02-07,2020-10-29,
+VSTO,33,VSTO,2015-08-13,2023-05-04,NASDAQ
+BBD,33,Banco Bradesco Sa American Depositary Shares,2012-10-23,2023-05-06,NYSE
+IPHI,33,Inphi Corporation Common Stock $0.001 par value,2013-02-04,2020-08-04,NYSE
+BMRC,33,Bank of Marin Bancorp - Common Stock,2015-01-26,2023-04-24,NASDAQ
+XIN,33,Xinyuan Real Estate Co Ltd American Depositary Shares,2012-11-09,2020-11-27,NYSE
+SRLP,33,Sprague Resources LP Common Units representing Limited Partner Interests,2014-08-13,2022-05-09,NYSE
+ANCUF,33,ANCUF,2014-09-03,2023-03-16,
+CAPR,33,"Capricor Therapeutics, Inc. - Common Stock",2015-03-20,2023-05-11,NASDAQ
+WTW,33,Willis Towers Watson Public Limited Company - Ordinary Shares,2012-11-05,2023-04-27,NYSE
+RSSS,33,"Research Solutions, Inc - Common Stock",2015-02-17,2023-05-11,NASDAQ
+PTLA,33,PTLA,2013-08-16,2020-02-26,
+WJXFF,33,WJXFF,2013-05-10,2023-05-02,OTC
+SDPI,33,SDPI,2015-03-27,2023-05-11,NYSE
+QSR,33,Restaurant Brands International Inc. Common Shares,2015-07-27,2023-05-02,NYSE
+LWSCF,33,LWSCF,2014-08-14,2023-05-12,OTC
+ICD,33,"Independence Contract Drilling, Inc. Common Stock",2015-03-05,2023-05-12,NYSE
+DPMLF,33,DPMLF,2014-08-02,2023-02-17,OTC
+GLOB,33,Globant S.A. Common Shares,2015-02-11,2023-05-18,NYSE
+SUN,33,Sunoco LP Common Units representing limited partner interests,2015-02-19,2023-05-02,NYSE
+INWK,32,INWK,2013-02-13,2020-06-16,
+EMC,32,EMC Corporation Common Stock,2012-10-24,2016-04-20,NYSE
+SBS,32,Companhia de saneamento Basico Do Estado De Sao Paulo,2012-11-21,2023-05-12,NYSE
+GPX,32,GP Strategies Corporation Common Stock,2013-02-26,2021-05-08,NYSE
+ZEN,32,"Zendesk, Inc. Common Stock",2015-02-11,2022-04-28,NYSE
+SYNL,32,SYNL,2014-07-22,2022-08-13,
+SYKE,32,SYKE,2013-02-26,2021-05-09,
+SAMG,32,Silvercrest Asset Management Group Inc. - Common Stock,2013-08-14,2023-05-05,NASDAQ
+VIRT,32,"Virtu Financial, Inc. - Class A Common Stock",2015-08-06,2023-04-20,NASDAQ
+CYRX,32,"CryoPort, Inc. - Common Stock",2015-02-05,2023-05-05,NASDAQ
+BBGI,32,"Beasley Broadcast Group, Inc. - Class A Common Stock",2015-03-06,2023-04-26,NASDAQ
+CRZO,32,CRZO,2012-11-06,2019-05-08,
+NERV,32,"Minerva Neurosciences, Inc - Common Stock",2014-11-06,2023-05-15,NASDAQ
+CDXC,32,ChromaDex Corporation - Common Stock,2015-05-18,2023-05-11,NASDAQ
+LE,32,"Lands' End, Inc. - Common Stock",2015-09-03,2023-06-01,NASDAQ
+XONE,32,XONE,2013-08-14,2021-05-18,
+MCY,32,Mercury General Corporation Common Stock,2012-10-29,2020-08-03,NYSE
+IX,32,Orix Corp Ads Common Stock,2014-07-30,2023-05-13,NYSE
+CTB,32,Cooper Tire & Rubber Company Common Stock,2012-11-02,2020-11-01,NYSE
+PGRE,32,"Paramount Group, Inc. Common Stock",2015-08-07,2023-05-07,NYSE
+KNL,32,"Knoll, Inc. Common Stock",2013-04-18,2021-02-10,NYSE
+AGN,32,"Allergan, Inc. Common Stock",2012-10-30,2019-06-06,NYSE
+RWLK,32,ReWalk Robotics Ltd. - Ordinary Shares,2015-08-07,2023-05-11,NASDAQ
+TSRO,32,TSRO,2013-02-14,2018-11-01,
+OLLI,32,"Ollie's Bargain Outlet Holdings, Inc. - Common Stock",2015-09-09,2023-06-08,NASDAQ
+BWXT,32,BWXT,2015-02-26,2023-05-08,NASDAQ
+CEL,32,"Cellcom Israel, Ltd. Ordinary Shares",2012-11-13,2020-11-23,NYSE
+CECO,32,CECO Environmental Corp. - Common Stock,2012-11-09,2023-05-14,NASDAQ
+RWEOY,32,RWEOY,2014-08-14,2023-05-13,OTC
+GTS,32,Triple,2013-05-21,2021-08-08,NYSE
+PLNT,32,PLNT,2015-09-02,2023-05-04,NASDAQ
+CBS,32,CBS Corporation Class B Common Stock,2012-11-07,2019-11-12,NYSE
+PRTK,32,"Paratek Pharmaceuticals, Inc.  - Common Stock",2015-08-09,2023-05-09,NASDAQ
+KNDI,32,"Kandi Technologies Group, Inc. - Common Stock",2015-08-10,2023-05-10,NASDAQ
+TXMD,32,"TherapeuticsMD, Inc. - Common Stock",2014-08-08,2022-08-15,NYSE
+CLCT,32,CLCT,2012-11-09,2020-11-02,
+VNCE,32,Vince Holding Corp. Common Stock,2014-09-04,2023-04-29,NYSE
+CTT,32,"CatchMark Timber Trust, Inc. Class A Common Stock",2014-03-14,2022-05-06,NYSE
+LCSHF,32,LCSHF,2014-02-13,2023-02-10,OTC
+STOR,32,STORE Capital Corporation Common Stock,2015-03-03,2022-08-04,NYSE
+NTR,32,NTR,2018-05-08,2023-05-11,NASDAQ
+HUSKF,32,HUSKF,2012-11-03,2020-10-29,
+CHRS,32,"Coherus BioSciences, Inc. - Common Stock",2015-11-09,2023-05-08,NASDAQ
+RIGL,32,"Rigel Pharmaceuticals, Inc. - Common Stock",2015-08-04,2023-05-02,NASDAQ
+CGIFF,32,CGIFF,2013-05-16,2023-05-12,OTC
+MLFNF,32,MLFNF,2014-02-27,2023-05-11,OTC
+SYMC,32,SYMC,2012-10-24,2019-08-09,
+CAL,32,CAL,2015-08-27,2023-06-01,NASDAQ
+DLPH,32,Delphi Automotive plc Ordinary Shares,2012-11-01,2019-10-31,NYSE
+BKYI,32,"BIO-key International, Inc. - Common Stock",2014-08-13,2023-05-16,NASDAQ
+EURN,32,EURN,2015-08-02,2023-05-11,NASDAQ
+LITE,32,Lumentum Holdings Inc. - Common Stock,2016-02-04,2023-05-09,NASDAQ
+SSW,32,Seaspan Corporation Seaspan Corporation Common Shares,2012-10-31,2020-02-19,NYSE
+CGEAF,32,CGEAF,2013-04-11,2023-04-14,OTC
+STON,32,StoneMor Partners L.P. Common Unit Rep Limited Partnership Interests,2012-11-06,2022-08-11,NYSE
+ES,32,ES,2015-07-31,2023-05-04,NASDAQ
+SHAK,32,SHAK,2015-08-11,2023-05-04,NASDAQ
+TIPT,32,Tiptree Inc. - Common Stock,2015-04-01,2023-05-06,NASDAQ
+RDHL,32,Redhill Biopharma Ltd. - American Depositary Shares,2014-07-24,2022-06-23,NASDAQ
+KEYS,32,Keysight Technologies Inc. Common Stock,2015-08-19,2023-05-16,NYSE
+ETM,32,Entercom Communications Corporation Common Stock,2013-02-08,2021-02-24,NYSE
+TOO,32,Teekay Offshore Partners L.P. Common Units representing Limited Partner Interests,2012-11-09,2021-02-05,NYSE
+SEOJF,32,SEOJF,2015-04-22,2023-04-25,OTC
+SIEGY,32,SIEGY,2014-07-31,2023-05-17,OTC
+SFUN,32,"SouFun Holdings Limited American Depositary Shares (Each representing Four Class A Ordinary Shares, HK$1.00 par value)",2013-05-08,2021-03-26,NYSE
+MOMO,32,Hello Group Inc.  - American Depositary Shares,2015-08-20,2023-06-06,NASDAQ
+MRLN,32,MRLN,2013-05-01,2021-01-29,
+SPWH,32,"Sportsman's Warehouse Holdings, Inc. - Common Stock",2014-09-11,2023-05-30,NASDAQ
+AFMD,32,Affimed N.V. - Common Stock,2015-08-04,2023-05-23,NASDAQ
+DL,32,China Distance Education Holdings Limited American Depositary Shares,2012-11-28,2020-08-27,NYSE
+PRGX,32,PRGX,2013-02-26,2020-10-27,
+OXLC,32,Oxford Lane Capital Corp. - Closed End Fund,2015-11-17,2023-05-16,NASDAQ
+RP,32,RP,2013-02-20,2020-11-08,
+NTIOF,32,NTIOF,2013-12-04,2023-05-31,OTC
+KERX,32,KERX,2012-11-08,2018-08-08,
+OMVJF,32,OMVJF,2015-02-20,2023-04-28,OTC
+TTNP,32,"Titan Pharmaceuticals, Inc. - Common Stock",2012-11-13,2020-08-14,NASDAQ
+ITPOF,32,ITPOF,2013-05-15,2021-11-12,
+FPI,32,FPI,2015-02-28,2023-05-04,NYSE
+TOLWF,32,TOLWF,2013-02-27,2023-05-12,OTC
+LM,32,"Legg Mason, Inc. Common Stock",2012-10-26,2020-01-29,NYSE
+LARK,32,Landmark Bancorp Inc. - Common Stock,2015-05-02,2023-05-07,NASDAQ
+VNRX,32,VNRX,2015-05-12,2023-05-11,NASDAQ
+TRU,32,TRU,2015-10-27,2023-04-25,NASDAQ
+QADA,32,QADA,2013-05-30,2021-05-26,
+GDP,32,Goodrich Petroleum Corporation Common Stock,2012-11-07,2021-11-06,NYSE
+CPRX,32,"Catalyst Pharmaceuticals, Inc. - Common Stock",2015-08-11,2023-05-11,NASDAQ
+DNOW,32,NOW Inc. Common Stock,2015-08-05,2023-05-06,NYSE
+TNAV,32,TNAV,2013-01-31,2020-08-12,
+TCO,32,"Taubman Centers, Inc. Common Stock",2012-10-25,2019-10-30,NYSE
+WING,32,Wingstop Inc. - Common Stock,2015-11-05,2023-05-03,NASDAQ
+FEIM,31,"Frequency Electronics, Inc. - Common Stock",2015-03-11,2023-03-10,NASDAQ
+XHR,31,XHR,2015-08-13,2023-05-06,NASDAQ
+YAHOF,31,YAHOF,2012-10-25,2023-04-29,OTC
+GGB,31,Gerdau S.A. Common Stock,2012-11-01,2023-03-01,NYSE
+PGSVY,31,PGSVY,2013-04-29,2021-10-21,
+IGIFF,31,IGIFF,2015-02-13,2023-02-10,OTC
+TREC,31,Trecora Resources Common Stock,2014-08-05,2022-05-08,NYSE
+EKSO,31,"Ekso Bionics Holdings, Inc. - Common Stock",2015-08-11,2023-04-27,NASDAQ
+GNC,31,"GNC Holdings, Inc. Class A Common Stock",2012-11-01,2020-05-11,NYSE
+JE,31,"Just Energy Group, Inc. Ordinary Shares (Canada)",2013-02-08,2020-11-12,NYSE
+LB,31,"L Brands, Inc.",2014-02-27,2021-05-20,NYSE
+VRTU,31,VRTU,2013-05-09,2020-08-02,
+CBPO,31,CBPO,2013-03-14,2020-11-25,
+BANX,31,ArrowMark Financial Corp. - Closed End Fund,2015-03-05,2022-11-09,NASDAQ
+VRML,31,VRML,2012-11-12,2020-05-14,
+JOBS,31,JOBS,2013-02-21,2020-08-11,
+SKM,31,"SK Telecom Co., Ltd. Common Stock",2013-02-05,2023-02-08,NYSE
+ZBH,31,ZBH,2015-07-31,2023-05-02,NASDAQ
+IMMU,31,IMMU,2012-11-09,2020-08-05,
+LOV,31,Spark Networks SE - ADS,2013-04-23,2023-05-16,NYSE
+NNA,31,Navios Maritime Acquisition Corporation Common stock,2013-05-03,2020-12-01,NYSE
+PEN,31,PEN,2016-05-09,2023-05-02,NASDAQ
+PBFX,31,PBF Logistics LP Common Units representing limited partner interests,2015-02-12,2022-10-27,NYSE
+POL,31,PolyOne Corporation Common Stock,2012-10-26,2020-06-16,NYSE
+MCF,31,MCF,2013-04-30,2021-08-11,NYSE
+ARIA,31,ARIA,2012-11-07,2016-11-07,
+COT,31,Cott Corporation Common Stock,2013-02-15,2020-02-20,NYSE
+GG,31,Goldcorp Inc. Common Stock,2012-10-25,2018-10-25,NYSE
+TMK,31,Torchmark Corporation Common Stock,2012-10-25,2019-07-26,NYSE
+SMBC,31,"Southern Missouri Bancorp, Inc. - Common Stock",2015-01-28,2023-05-02,NASDAQ
+ELP,31,Companhia Paranaense de Energia (COPEL) Common Stock,2013-03-27,2023-05-11,NYSE
+GROW,31,"U.S. Global Investors, Inc. - Class A Common Stock",2013-05-10,2022-05-10,NASDAQ
+DBOEY,31,DBOEY,2013-11-01,2023-05-01,OTC
+AU,31,AngloGold Ashanti Limited Common Stock,2012-11-08,2022-02-22,NYSE
+INAP,31,INAP,2012-10-25,2019-11-12,
+QTNT,31,QTNT,2014-11-04,2022-08-09,
+WMS,31,"Advanced Drainage Systems, Inc. Common Stock",2015-02-05,2023-05-18,NYSE
+BPFH,31,BPFH,2013-01-17,2020-10-22,
+AVACF,31,AVACF,2015-02-27,2023-05-30,OTC
+BGG,31,Briggs & Stratton Corporation Common Stock,2012-10-18,2020-05-09,NYSE
+CAC,31,Camden National Corporation - Common Stock,2015-11-01,2023-04-25,NASDAQ
+ARREF,31,ARREF,2014-08-08,2023-05-07,OTC
+SPN,31,"Superior Energy Services, Inc. Common Stock",2012-10-25,2020-05-21,NYSE
+FII,31,"Federated Investors, Inc. Common Stock",2012-10-26,2020-01-31,NYSE
+POT,31,Potash Corporation of Saskatchewan Inc. Common Stock,2012-10-25,2017-11-29,NYSE
+ANTM,31,"Anthem, Inc. Common Stock",2015-01-28,2022-04-20,NYSE
+TCP,31,"TC PipeLines, LP Common Units representing Limited Partner Interests",2012-10-26,2020-11-10,NYSE
+VIAV,31,Viavi Solutions Inc. - Common Stock,2015-08-11,2023-05-02,NASDAQ
+GDDY,31,GDDY,2015-11-04,2023-05-04,NASDAQ
+ROKU,31,"Roku, Inc. - Class A Common Stock",2017-11-08,2023-05-18,NASDAQ
+GNCA,31,GNCA,2014-08-06,2022-03-10,
+CIOXY,31,CIOXY,2014-10-29,2023-01-27,OTC
+IEC,31,IEC,2012-11-20,2021-05-09,NYSE
+MSON,31,MSON,2013-02-07,2021-05-09,
+FFG,31,"FBL Financial Group, Inc. Common Stock",2013-05-03,2020-11-08,NYSE
+PRCP,31,PRCP,2013-02-13,2020-09-28,
+SPAR,31,SPAR,2012-10-30,2020-05-08,
+EFII,31,EFII,2012-10-18,2019-01-30,
+BT,31,BT Group plc Common Stock,2012-11-01,2023-05-18,NYSE
+LIND,31,Lindblad Expeditions Holdings Inc.  - Common Stock,2016-03-14,2023-05-06,NASDAQ
+IAC,31,IAC Inc. - Common Stock,2016-02-03,2023-05-10,NASDAQ
+DLR.PK,31,DLR.PK,2020-02-13,2023-06-06,
+OMER,31,Omeros Corporation - Common Stock,2014-11-10,2023-05-09,NASDAQ
+MKGAF,31,MKGAF,2013-05-14,2023-05-11,OTC
+CTIC,31,CTIC,2012-11-01,2023-03-06,
+KB,31,KB Financial Group Inc,2013-02-07,2023-05-01,NYSE
+LIMAF,31,LIMAF,2014-08-09,2023-05-10,OTC
+NFX,31,Newfield Exploration Company Common Stock,2012-10-24,2018-11-01,NYSE
+STC,31,Stewart Information Services Corporation Common Stock,2014-07-31,2023-04-27,NYSE
+LUNMF,31,LUNMF,2014-04-30,2023-05-04,OTC
+GSVC,31,GSVC,2012-11-07,2019-05-09,
+GCAP,31,"GAIN Capital Holdings, Inc. Common Stock",2013-03-12,2020-02-27,NYSE
+JEC,31,Jacobs Engineering Group Inc. Common Stock,2012-11-13,2019-11-25,NYSE
+NSRGY,31,NSRGY,2012-10-18,2023-02-16,OTC
+CXDC,31,CXDC,2012-11-13,2020-06-29,
+BOX,31,BOX,2015-09-09,2023-05-30,NASDAQ
+GLOG,31,GasLog Ltd. Common Shares,2012-11-21,2020-05-07,NYSE
+FI,31,Frank's International N.V. Common Stock,2013-11-13,2021-08-03,NYSE
+TOUR,31,Tuniu Corporation - American Depositary Shares,2015-03-04,2023-03-17,NASDAQ
+HCSG,31,"Healthcare Services Group, Inc. - Common Stock",2013-02-06,2023-02-15,NASDAQ
+VNOM,31,Viper Energy Partners LP - Common Unit,2014-11-05,2023-05-02,NASDAQ
+FGEN,31,"FibroGen, Inc - Common Stock",2015-11-12,2023-05-08,NASDAQ
+INTL,31,INTL,2012-12-13,2020-05-09,
+ESTE,31,ESTE,2016-03-14,2023-05-04,NYSE
+BAYZF,31,BAYZF,2016-04-26,2023-05-11,OTC
+CWSRF,31,CWSRF,2013-08-14,2023-05-05,OTC
+SHIP,31,Seanergy Maritime Holdings Corp. - Common Stock,2013-04-18,2023-05-25,NASDAQ
+RLH,31,Red Lions Hotels Corporation Common Stock,2013-02-28,2020-11-07,NYSE
+SVNLF,31,SVNLF,2015-07-21,2023-04-27,OTC
+MAGS,31,MAGS,2013-03-21,2021-08-12,
