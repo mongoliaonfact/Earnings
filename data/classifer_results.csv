@@ -1,0 +1,9 @@
+Classifiers,Run One,,,Run Two,,,Run Three,,
+Classification Metrics,Accuracy,Precision,F1-Score,Accuracy,Precision,F1-Score,Accuracy,Precision,F1-Score
+Random Forest,0.92,0.83,0.87,0.55,0.45,0.5,0.9,0.8,0.85
+Logistics Regression,0.45,1,0.62,0.56,0.34,0.42,0.45,1,0.62
+Gaussian NB,0.45,0.45,0.62,0.45,1,0.62,0.45,1,0.62
+Gradient Boosting,0.93,0.81,0.86,0.57,0.39,0.46,0.93,0.8,0.86
+Multi-Layer Perceptron,,,,,,,0.73,0.13,0.22
+Suuport Vector Machine,0.99,1,1,0.56,0.22,0.32,0.58,0.29,0.38
+Neural Network,0.96,0.98,0.97,,,,,,
