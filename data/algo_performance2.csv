@@ -1,0 +1,15 @@
+﻿Algorithm,Movement,Precision,Recall,F1-Score
+Random Forest,0,0.9,0.72,0.8
+Random Forest,1,0.82,0.94,0.88
+Logistics Regression,0,,,
+Logistics Regression,1,,,
+Gaussian Naïve Bayes,0,,,
+Gaussian Naïve Bayes,1,,,
+Gradient Boosting,0,0.96,0.79,0.87
+Gradient Boosting,1,0.68,0.93,0.79
+Multi-Layer Perceptron,0,,,
+Multi-Layer Perceptron,1,,,
+Support Vector Machine,0,,,
+Support Vector Machine,1,,,
+Neural Network,0,,,
+Neural Network,1,,,
